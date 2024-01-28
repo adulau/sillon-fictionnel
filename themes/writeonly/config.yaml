@@ -1,0 +1,7 @@
+module:
+  module.hugoVersion:
+    min: "0.108.0"
+    extended: true
+
+  imports:
+    - path: "gitlab.com/writeonlyhugo/hugo-module-bootstrap"

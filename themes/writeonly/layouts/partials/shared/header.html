@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg py-3">
+  <div class="container">
+    <a class="h3 text-primary text-lowercase text-decoration-none" href="{{ .Site.BaseURL }}">
+      {{ .Site.Title }}
+    </a>
+    <button class="navbar-toggler text-primary border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle Navigation">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+      </svg>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav ms-auto mb-xl-0">
+        {{ range .Site.Menus.main }}
+          <li class="nav-item text-center">
+            <a class="nav-link text-primary text-uppercase ms-lg-3" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>

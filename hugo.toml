@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'sillon-fictionnel.club'
+theme = 'writeonly'
+copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'                                                              
+
+
+[params]
+  title = 'sillon-fictionnel.club'
+#  copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'
+  [favicons]
+    themeColor = '#FFFFFF'
+    backgroundColor = '#FFFFFF'
+    faviconColor = '#000000'
+
+[menus]
+  [[menus.main]]
+    name = "à propos"
+    url = "/apropos"
+    weight = 1
+  [[menus.main]]
+    name = "Les critiques"
+    url = "/post"
+    weight = 2
+
+[taxonomies]
+  series = 'series'
+  tags = 'tags'
+

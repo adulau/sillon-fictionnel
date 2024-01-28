@@ -1,0 +1,12 @@
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/twbs/bootstrap v5.1.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220407142327-e0fc8a29af4c h1:gm8W2tV/lKe2GOlqupvxQhBpC7mk8NxK8jCGBKhbkvg=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220407142327-e0fc8a29af4c/go.mod h1:MCXDsD1/DRSoC8sehcHzpCjnZ5DBJ0WxGBYAwzIjAmg=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220726041558-c212901b4c22 h1:uiKprt5HkdQKPjD3WvcqMEYxJRoq9xKwXpcEHibmyrk=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220726041558-c212901b4c22/go.mod h1:tlFXqcWbkLdvNpHQhhACdPOyKVDm/Exsw2Ojv1ukrO0=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220816084509-b8f26558d42c h1:3QtpsYhBc/RsBzDPWNNSf3sJ3xhHkr6WQOV6WB7FGSU=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20220816084509-b8f26558d42c/go.mod h1:tlFXqcWbkLdvNpHQhhACdPOyKVDm/Exsw2Ojv1ukrO0=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20230104032709-256ccad7a64e h1:eRekZdxFCXEZpo1atoSdDr7uny/Piglwad9tObcIqMA=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap v0.0.0-20230104032709-256ccad7a64e/go.mod h1:WXqOWOoA8n+H/gnfCtA0Q91l778KxxJCyBhnFEZ3AYE=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap-icons v0.0.0-20220504151031-e4d7cba5d59b h1:Ax3mPmu3FZ/77WokU617Y7H0+je60DlXtk8FHRhcWSA=
+gitlab.com/writeonlyhugo/hugo-module-bootstrap-icons v0.0.0-20220504151031-e4d7cba5d59b/go.mod h1:MZKxidOpdbNSEFsgEDb1rJtjez1m1K0Dl6+MJMXvZr4=

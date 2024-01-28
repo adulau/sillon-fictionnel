@@ -1,0 +1,11 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "*",
+    "../_vendor/github.com/twbs/bootstrap/js/*"
+   ]
+  }
+ }
+}

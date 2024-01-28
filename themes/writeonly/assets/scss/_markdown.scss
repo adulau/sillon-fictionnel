@@ -1,0 +1,123 @@
+.markdown-content {
+  font-size: 20px;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 3rem;
+  }
+
+  p {
+    margin: 1em 0;
+    line-height: 1.75em;
+  }
+
+  blockquote {
+    padding: 0 1em;
+    border-left: .4em solid;
+  }
+
+  pre code {
+    font-size: 1em;
+    background-color: inherit;
+    padding: 0;
+  }
+
+  ul, ol {
+    padding-left: 1em;
+
+    li {
+      position: relative;
+      margin: 0.4em 0;
+    }
+
+    p {
+      margin: 0.4em 0;
+    }
+
+    input {
+      position: absolute;
+      left: -1em;
+
+      appearance: none;
+
+      &::before {
+        content: '\2610';
+
+        color: $light;
+        background-color: $dark;
+      }
+
+      &:checked::before {
+        content: '\2611';
+      }
+    }
+  }
+
+  code {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.8em;
+
+    padding: 0.2em 0.4em;
+    vertical-align: middle;
+
+    background-color: #202020;
+    border-radius: 0.4em;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  table {
+
+    --#{$variable-prefix}table-bg: #{$table-bg};
+    --#{$variable-prefix}table-accent-bg: #{$table-accent-bg};
+    --#{$variable-prefix}table-striped-color: #{$table-striped-color};
+    --#{$variable-prefix}table-striped-bg: #{$table-striped-bg};
+    --#{$variable-prefix}table-active-color: #{$table-active-color};
+    --#{$variable-prefix}table-active-bg: #{$table-active-bg};
+    --#{$variable-prefix}table-hover-color: #{$table-hover-color};
+    --#{$variable-prefix}table-hover-bg: #{$table-hover-bg};
+
+    margin: 1em 0;
+    width: 100%;
+    margin-bottom: $spacer;
+    color: $table-color;
+    vertical-align: $table-cell-vertical-align;
+    border-color: $table-border-color;
+
+    // Target th & td
+    // We need the child combinator to prevent styles leaking to nested tables which doesn't have a `.table` class.
+    // We use the universal selectors here to simplify the selector (else we would need 6 different selectors).
+    // Another advantage is that this generates less code and makes the selector less specific making it easier to override.
+    // stylelint-disable-next-line selector-max-universal
+    > :not(caption) > * > * {
+      padding: $table-cell-padding-y $table-cell-padding-x;
+      background-color: var(--#{$variable-prefix}table-bg);
+      border-bottom-width: $table-border-width;
+      box-shadow: inset 0 0 0 9999px var(--#{$variable-prefix}table-accent-bg);
+    }
+
+    > tbody {
+      vertical-align: inherit;
+    }
+
+    > thead {
+      vertical-align: bottom;
+    }
+
+    // Highlight border color between thead, tbody and tfoot.
+    > :not(:first-child) {
+      // border-top: (2 * $table-border-width) solid $table-group-separator-color;
+    }
+  }
+
+  pre {
+    padding: $spacer;
+    border-radius: $spacer;
+    color: $light;
+    background-color: $dark;
+  }
+}

@@ -1,0 +1,3 @@
+<div class="alert {{ with .Get 0 }}{{ printf "alert-%s" . }}{{ else }}alert-secondary{{ end }}">
+  {{ .Inner }}
+</div>

@@ -1,0 +1,11 @@
+[module]
+[module.hugoVersion]
+extended = true
+[[module.imports]]
+path="github.com/twbs/icons"
+[[module.imports.mounts]]
+source = "icons"
+target = "assets/bootstrap-icons/icons"
+[[module.imports.mounts]]
+source = "font"
+target = "assets/bootstrap-icons/font"

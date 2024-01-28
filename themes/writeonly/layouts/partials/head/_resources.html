@@ -1,0 +1,15 @@
+<!-- Load Shared SCSS -->
+{{- $sharedSCSS := resources.Get "scss/styles.scss" -}}
+{{- $sharedSCSS := $sharedSCSS | resources.ToCSS (dict "outputStyle" "compressed" "includePaths" (slice "assets")) -}}
+<style type="text/css" media="all">{{ $sharedSCSS.Content | safeCSS }}</style>
+
+<!-- Load Shared JS -->
+{{- $sharedJS := resources.Get "js/index.js" -}}
+{{- $sharedJS := $sharedJS | js.Build (dict "minify" "true") -}}
+<script>{{- $sharedJS.Content | safeJS -}}</script>
+
+<!-- Mermaid -->
+{{ if .Page.Store.Get "hasMermaid" }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script defer> mermaid.initialize({ startOnLoad: true, theme: "dark" }); </script>
+{{ end }}

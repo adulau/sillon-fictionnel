@@ -1,0 +1,3 @@
+{{ with resources.Get ( printf "bootstrap-icons/icons/%s.svg" . ) }}
+  {{ .Content | safeHTML }}
+{{ end }}

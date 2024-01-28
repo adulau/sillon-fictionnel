@@ -1,0 +1,62 @@
+{{ define "main" }}
+<main class="py-5 flex-grow-1">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 mw-md mh-100">
+        <div class="py-4">
+          <div class="py-2">
+            <h1 class="display-1 text-center text-uppercase fw-bold text-primary">
+              {{ .Title }}
+            </h1>
+            {{ partial "shared/post-meta" . }}
+            {{ partial "shared/post-categories" . }}
+          </div>
+          {{ with .Params.lead }}
+            <div class="lead text-center py-3">
+              {{ . }}
+            </div>
+          {{ end }}
+          {{ with .Content }}
+            <div class="markdown-content py-2">
+              {{ . }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Cheatsheet Sections -->
+  <div class="container-wide">
+    {{ range where .Pages "IsSection" true }}
+      <div class="row g-4 pb-5 mb-5 align-items-stretch">
+        <h2 class="display-6 text-center">
+          {{ .Title }}
+        </h2>
+        {{ with .Params.lead }}
+          <div class="row justify-content-center">
+            <div class="col-12 col-lg-10 lead text-center py-3">
+              {{ . }}
+            </div>
+          </div>
+        {{ end }}
+        {{ with .Content }}
+        <div class="row justify-content-center">
+          <div class="markdown-content col-12 col-lg-10"> {{ . }} </div>
+        </div>
+        {{ end }}
+        {{ range .Pages }}
+          <div class="col-12 col-lg-6">
+            <div class="card">
+              <div class="card-body">
+                <h3 class="h4 card-title"> {{ .Title }} </h3>
+                <div class="card-text markdown-content"> {{ .Content }} </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
