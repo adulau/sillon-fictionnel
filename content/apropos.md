@@ -4,6 +4,7 @@ description = "à propos du sillon fictionnel"
 date = "2024-01-28"
 aliases = ["about-us", "à propos", "sillon fictionnel", "qui"]
 author = "les Sillonneurs"
+summary = " "
 +++
 
 Bienvenue sur **Le Sillon Fictionnel**, un espace dédié à la passion de la lecture au sein d'un club un peu atypique.
