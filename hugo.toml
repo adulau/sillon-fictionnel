@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sillon-fictionnel.club/'
 languageCode = 'fr'
-title = 'sillon-fictionnel.club'
+title = 'le sillon fictionnel'
 theme = 'writeonly'
 copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'                                                              
 
@@ -8,6 +8,9 @@ copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https:
 [params]
   title = 'sillon-fictionnel.club'
 #  copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'
+  [socialIcons]
+    name = 'rss'
+    url = 'https://sillon-fictionnel.club'
   [favicons]
     themeColor = '#FFFFFF'
     backgroundColor = '#FFFFFF'
