@@ -8,6 +8,7 @@ copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https:
 [params]
   title = 'sillon-fictionnel.club'
 #  copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'
+  mastodon = 'https://paperbay.org/@sillon_fictionnel'
   [socialIcons]
     name = 'rss'
     url = 'https://sillon-fictionnel.club'
