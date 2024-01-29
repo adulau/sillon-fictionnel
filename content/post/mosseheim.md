@@ -3,7 +3,7 @@ author = "Alexandre Dulaunoy"
 title = "Review BD - Les Exilés De Mosseheim"
 date = "2024-01-22"
 tags = [
-    "bd",
+    "bd","critique"
 ]
 +++
 
