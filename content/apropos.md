@@ -12,3 +12,19 @@ Bienvenue sur **Le Sillon Fictionnel**, un espace dédié à la passion de la le
 Notre club de lecture est né d'une rencontre fortuite. Nous sommes un groupe de francophones, passionnés de littérature, qui se sont rencontrés dans l'univers fascinant des conférences de sécurité informatique. Nos discussions sur les dernières avancées technologiques ont rapidement dérivé vers un sujet qui nous passionnait bien plus : les livres et la culture.
 
 "Le Sillon Fictionnel" est plus qu'un simple club de lecture. C'est un lieu de partage, d'échange et de découverte. Nous ne nous prenons pas trop au sérieux et apprécions les œuvres pour ce qu'elles sont : un voyage dans l'imaginaire, une exploration de nouveaux mondes culturels et une fenêtre ouverte sur des perspectives insoupçonnées.
+
+# Suivez-nous sur Mastodon
+
+Pour rester à jour avec les dernières critiques de livres et découvertes culturelles de "Le Sillon Fictionnel", n'oubliez pas de nous suivre sur Mastodon. Notre compte Mastodon est un lieu dynamique où nous partageons régulièrement nos impressions, recommandations, et échanges sur les livres que nous explorons.
+
+Rejoignez-nous sur [Mastodon](https://paperbay.org/@sillon_fictionnel) pour ne manquer aucune de nos aventures littéraires, culturelles et/ou fictionnelles.
+
+Nous avons fait le choix de ne pas être présents sur les plateformes des [GAFA](https://fr.wikipedia.org/wiki/Gafa)[^1], car nous croyons en un internet plus éthique et respectueux de la culture. Nous privilégions des espaces où la liberté d'expression et la diversité culturelle sont véritablement valorisées. Rejoignez-nous dans cet espace où la culture et les échanges authentiques priment sur les algorithmes commerciaux.
+
+# Contributions et Licence
+
+L'ensemble du contenu de "Le Sillon Fictionnel" est disponible sous la licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Cela signifie que vous êtes libres de partager et d'adapter le contenu, à condition de créditer "Le Sillon Fictionnel" et de fournir un lien vers la licence.
+
+Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre projet, que ce soit par des critiques, des suggestions de livres, ou toute autre forme d'apport créatif, n'hésitez pas à le faire via notre dépôt GitHub. Visitez [notre page GitHub](https://github.com/LeSillonFictionnel) pour plus d'informations sur la manière de contribuer.
+
+[^1]: Glaucome aigu par fermeture de l'angle.
