@@ -26,6 +26,10 @@ copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https:
     name = "Les critiques"
     url = "/post"
     weight = 2
+  [[menus.main]]
+    name = "mots-clés"
+    url = "/tags"
+    weight = 3
 
 [taxonomies]
   series = 'series'
