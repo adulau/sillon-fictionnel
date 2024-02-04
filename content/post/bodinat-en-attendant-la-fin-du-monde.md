@@ -1,9 +1,9 @@
 +++
 author = "Alexandre Dulaunoy"
-title = "Lividique - En attendant la fin du monde - Baudouin de Bodinat"
+title = "Chronique - En attendant la fin du monde - Baudouin de Bodinat"
 date = "2024-01-21"
 tags = [
-    "livre","critique","photographie", "lividique"
+    "livre","critique","photographie", "chronique"
 ]
 +++
 
