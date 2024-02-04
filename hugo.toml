@@ -1,9 +1,10 @@
 baseURL = 'https://sillon-fictionnel.club/'
-languageCode = 'fr'
 title = 'le sillon fictionnel'
 theme = 'writeonly'
 copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'                                                              
-
+languageCode = 'fr_FR'
+defaultContentLanguage = 'fr'
+defaultContentLang = 'fr'
 
 [params]
   title = 'sillon-fictionnel.club'
