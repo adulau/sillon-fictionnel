@@ -15,7 +15,7 @@ Notre club de lecture est né d'une rencontre fortuite. Nous sommes un groupe de
 
 # le sillon 
 
-Ainsi est le sillon et les marins qui le parcourent, bravant la correctitude et le fadasse de leur époque. Ils peuvent naviguer à travers les mots des heures entières, n’accouchant au mieux que d’une souris, reprenant la vague à sa racine plutôt que d’accoster vers un port quelconque. Le temps importe peu au tréfonds du sillon. Seul compte l’intensité avec laquelle on y pénètre et la jouissance que l’on éprouve à y aller et venir, sans jamais en sortir 
+Ainsi est le sillon et les marins qui le parcourent, bravant la correctitude et le fadasse de leur époque. Ils peuvent naviguer à travers les mots des heures entières, n’accouchant au mieux que d’une souris, reprenant la vague à sa racine plutôt que d’accoster vers un port quelconque. Le temps importe peu au tréfonds du sillon. Seule compte l’intensité avec laquelle on y pénètre et la jouissance que l’on éprouve à y aller et venir, sans jamais en sortir 
 
 # Suivez-nous sur Mastodon
 
