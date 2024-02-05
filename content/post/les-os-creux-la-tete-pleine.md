@@ -3,7 +3,7 @@ author = "Miles Davos"
 title = "Chronique - "Les os creux, la tête pleine"
 date = "2024-02-04"
 tags = [
-    "bd","critique"
+    "bd","critique","chronique"
 ]
 +++
 

@@ -3,7 +3,7 @@ author = "Miles Davos"
 title = "Chronique - Astra Nova"
 date = "2024-02-03"
 tags = [
-    "bd","critique"
+    "bd","critique","chronique"
 ]
 +++
 
