@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Recension - Le feu de Saint Antoine"
+title = "Chronique - Le feu de Saint Antoine"
 date = "2024-02-04"
 tags = [
     "bd","critique"

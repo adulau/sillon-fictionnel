@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Recension - Astra Nova"
+title = "Chronique - Astra Nova"
 date = "2024-02-03"
 tags = [
     "bd","critique"
