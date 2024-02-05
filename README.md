@@ -25,4 +25,8 @@ L'ensemble du contenu de "Le Sillon Fictionnel" est disponible sous la licence [
 
 Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre projet, que ce soit par des critiques, des suggestions de livres, ou toute autre forme d'apport créatif, n'hésitez pas à le faire via notre dépôt GitHub. Visitez [notre page GitHub](https://github.com/adulau/sillon-fictionnel) pour plus d'informations sur la manière de contribuer.
 
+## Test et évaluation
+
+Il y a une [GitHub action](https://github.com/adulau/sillon-fictionnel/actions) qui permet de voir si tout se passe bien avec notre ami Hugo. Lors de vos contributions, n'hésitez pas à voir le résultat.
+
 [^1]: Glaucome aigu par fermeture de l'angle.
