@@ -3,7 +3,7 @@ author = "Miles Davos"
 title = "La vérité, le mensonge, et l’humain tapi entre les deux"
 date = "2024-02-07"
 tags = [
-    "divagation","réflexion","#microessai","société"
+    "divagation","réflexion","microessai","société"
 ]
 +++
 
