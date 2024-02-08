@@ -1,6 +1,6 @@
 +++
 author = "Alexandre Dulaunoy"
-title = "Review BD - Les Exilés De Mosseheim"
+title = "Correspondance 1951-1954 entre René Char et Nicolas de Staël" 
 date = "2024-02-08"
 tags = [
     "livre","chronique","critique","art"
