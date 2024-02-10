@@ -1,15 +1,14 @@
 baseURL = 'https://sillon-fictionnel.club/'
 title = 'le sillon fictionnel'
 theme = 'writeonly'
-copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'                                                              
-languageCode = 'fr_FR'
+copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence creativecommons.org CC BY 4.0. Le Sillon Fictionnel est mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.'                                                              
+languageCode = 'fr'
 defaultContentLanguage = 'fr'
 defaultContentLang = 'fr'
 
 [params]
   title = 'sillon-fictionnel.club'
   description = 'Le Sillon Fictionnel - Un espace dédié à la passion de la lecture et la culture au sein d’un club un peu atypique. Critiques - livre, art et culture.'
-#  copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a>'
   mastodon = 'https://paperbay.org/@sillon_fictionnel'
   [socialIcons]
     name = 'rss'
