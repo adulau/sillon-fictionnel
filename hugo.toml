@@ -6,6 +6,19 @@ languageCode = 'fr'
 defaultContentLanguage = 'fr'
 defaultContentLang = 'fr'
 
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+     suffixes = "xml"
+
+[outputFormats]
+  [outputFormats.Atom]
+     mediaType = "application/atom+xml"
+     baseName = "atom"
+     isPlainText = false
+
+[outputs]
+    home = [ "HTML", "Atom", "RSS" ]
+
 [params]
   title = 'sillon-fictionnel.club'
   description = 'Le Sillon Fictionnel - Un espace dédié à la passion de la lecture et la culture au sein d’un club un peu atypique. Critiques - livre, art et culture.'
@@ -80,5 +93,4 @@ defaultContentLang = 'fr'
       hardWraps = false
       unsafe = false
       xhtml = false
-
 
