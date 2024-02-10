@@ -14,7 +14,11 @@ Quel plaisir. Lire les lettres entre [Nicolas De Staël](https://fr.wikipedia.or
 ~~~
 Cher Nicolas,
 
-J’ai vu ton exposition au Musée d’Art Moderne de Paris en 2024. L’espace était parfait pour tes oeuvres, on se sentait libre et ces couleurs nous accompagnaient tout au long de nos pérégrinations. Ta salade est incroyable et je commence à apprécier le football grâce à tes tableaux.
+J’ai vu ton exposition au Musée d’Art Moderne de Paris en 2024. 
+L’espace était parfait pour tes oeuvres, on se sentait libre et ces couleurs
+nous accompagnaient tout au long de nos pérégrinations.
+
+Ta salade est incroyable et je commence à apprécier le football grâce à tes tableaux.
 
 Tu nous manques.
 
