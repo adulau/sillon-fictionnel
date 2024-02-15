@@ -7,9 +7,6 @@ tags = [
 ]
 +++
 
-
-Chronique : Space Relic Hunters
-
 Il est probablement inutile de présenter Runberg et Grun aux fans du 9e art. Cela fait longtemps que les deux officient dans l’univers constitué de cases et de bulles.
 
 Le premier, scénariste, a travaillé par exemple avec Serge Pellé pour produire la série de science-fiction « Orbital » (9 tomes) ou plus récemment avec Marcial Toledano pour la série post-apo « Les dominants » (3 tomes).
