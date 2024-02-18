@@ -11,9 +11,9 @@ France. Notre époque. Une manifestation. Comme tant d’autres.
 
 La voix du peuple s’élève vers le ciel. Elle se fait de plus en plus forte, porte de plus en plus loin, et s’infiltre dans la tombe du Maréchal, à l’île d’Yeu.
 
-Le voilà qui revient à la vie Pétain. Affreux zombie aux inquiétants pouvoirs, il constate la déchéance de sa France. Il l’aime sa France, quitte à la violer. Il se dirige d’un pas assuré vers le palais présidentiel. Et par un étrange procédé, le voici qui fusionne avec Manu. Pécron est né. 
+Le voilà qu'ii revient à la vie Pétain. Affreux zombie aux inquiétants pouvoirs, il constate la déchéance de sa France. Il l’aime sa France, quitte à la violer. Il se dirige d’un pas assuré vers le palais présidentiel. Et par un étrange procédé, le voici qui fusionne avec Manu. Pécron est né. 
 
-Représentant de la parfaite alliance entre nationalisme réactionnaire et néolibéralisme débridé, Pécron serre les boulons de cette France jusqu’à la suffoquer. Pour son plus grand bien, bien évidemment. Alors que les bottes brunes pourchassent les métèques, les bougnouls, et autres non-Français, et exécutent le plan global de rémigration annoncé par le Maréchal-Président, des avantages de plus en plus nombreux sont concédés aux plus riches. Pas question d’empêcher le business de tourner rond.
+Représentant de la parfaite alliance entre nationalisme réactionnaire et néolibéralisme débridé, Pécron serre les vis de cette France jusqu’à la faire suffoquer. Pour son plus grand bien, bien évidemment. Alors que les bottes brunes pourchassent les métèques, les bougnouls, et autres non-Français, et exécutent le plan global de rémigration annoncé par le Maréchal-Président, des avantages de plus en plus nombreux sont concédés aux plus riches. Pas question d’empêcher le business de tourner rond.
 
 Mais la résistance s’organise, prend le maquis et met à mal les plans de Pécron. Le paso doble qui s’engage entre les deux camps mène à une escalade sans précédent de la répression. Comment sortir de cette spirale infernale ?
 	
