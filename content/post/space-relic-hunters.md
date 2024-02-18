@@ -5,6 +5,7 @@ date = "2024-02-15"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782356741516"
 +++
 
 Il est probablement inutile de présenter Runberg et Grun aux fans du 9e art. Cela fait longtemps que les deux officient dans l’univers constitué de cases et de bulles.

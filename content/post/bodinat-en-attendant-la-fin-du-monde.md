@@ -5,6 +5,7 @@ date = "2024-01-21"
 tags = [
     "livre","critique","photographie", "chronique"
 ]
+ISBN = "9791091902441"
 +++
 
 

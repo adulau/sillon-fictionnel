@@ -5,6 +5,7 @@ date = "2024-02-08"
 tags = [
     "livre","chronique","critique","art"
 ]
+ISBN = "9782361660048"
 +++
 
 ![](/images/rene-nicolas.jpeg)

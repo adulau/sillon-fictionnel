@@ -5,6 +5,7 @@ date = "2024-01-22"
 tags = [
     "bd","critique"
 ]
+ISBN = "9791034747672"
 +++
 
 ![](/images/mol-adulau.jpeg)

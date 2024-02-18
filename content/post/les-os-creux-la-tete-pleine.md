@@ -5,6 +5,7 @@ date = "2024-02-05"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782490934041"
 +++
 
 ![](/images/les-os-creux-la-tete-pleine.jpeg)

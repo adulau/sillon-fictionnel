@@ -5,6 +5,7 @@ date = "2024-02-10"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "978-2-38387-062-3"
 +++
 
 Contrairement à feu mon père, je n’ai jamais été grand fan des chiens.

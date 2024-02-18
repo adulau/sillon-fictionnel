@@ -5,6 +5,7 @@ date = "2024-02-15"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782810204854"
 +++
 
 Lune l’enfer. Le satellite transformé en mine gigantesque où hommes et femmes viennent travailler, au détriment de leur santé. Se tuant à la tâche, contre une paie cinq fois plus élevée que sur Terre. Et entre les journées de dur labeur qui semblent s’égrener, l’une copie presque parfaite de l’autre, ils tuent l’ennui et leurs rêves de mets délicats dans l’alcool et les plaisirs sexuels tarifés, mais ô combien artificiels.

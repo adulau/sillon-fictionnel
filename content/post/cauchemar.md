@@ -5,6 +5,7 @@ date = "2024-02-18"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "978-2-39004-112-2"
 +++
 
 France. Notre époque. Une manifestation. Comme tant d’autres.

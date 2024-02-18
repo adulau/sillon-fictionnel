@@ -5,6 +5,7 @@ date = "2024-02-03"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "978-2-39004-102-3"
 +++
 
 ![](/images/astra-nova.jpeg)

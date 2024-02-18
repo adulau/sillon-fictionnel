@@ -5,6 +5,7 @@ date = "2024-02-01"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9791040805090"
 +++
 
 ![](/images/la-forteresse-volante.jpeg)

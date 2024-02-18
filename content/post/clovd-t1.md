@@ -5,6 +5,7 @@ date = "2024-02-14"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782810207053"
 +++
 
 La civilisation thermo-industrielle des superhéros n’est plus. Elle fut détruite il y a fort longtemps par le Clovd, ce brouillard infernal qui englobe le monde dans son étreinte toxique, meurtrière.

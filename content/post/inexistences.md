@@ -5,6 +5,7 @@ date = "2024-02-07"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782302099678"
 +++
 
 « Nous avons tout oublié. Comment se battre, comment atteindre des hauteurs vertigineuses et sombrer dans des abîmes incomparables. Nous n’aspirons plus à rien. » — Richard Matheson

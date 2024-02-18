@@ -5,6 +5,7 @@ date = "2024-02-17"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782491374211"
 +++
 
 « Starseeds » de Charles Glaubitz est un objet graphique non identifié. Sur tous les plans.

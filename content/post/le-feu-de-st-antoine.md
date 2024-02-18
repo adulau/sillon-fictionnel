@@ -5,6 +5,7 @@ date = "2024-02-04"
 tags = [
     "bd","critique","chronique"
 ]
+ISBN = "9782490934195"
 +++
 
 ![](/images/le-feu-de-st-antoine.jpeg)
