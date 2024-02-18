@@ -32,7 +32,9 @@
     </span>
     <br />
   {{ end }}
+  {{ with .Params.tags }}
     <i class="fa-solid fa-tags"></i>
+  {{ end }}
   {{ range .Params.tags }}
     <a href="/tags/{{ . }}">{{ . }}</a>
   {{ end }}
