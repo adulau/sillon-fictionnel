@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Cauchmar"
+title = "Chronique - Cauchemar"
 date = "2024-02-18"
 tags = [
     "bd","critique","chronique"
