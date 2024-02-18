@@ -30,5 +30,10 @@
       </svg>
       {{ . }} mots et d'autres choses
     </span>
+    <br />
+  {{ end }}
+    <i class="fa-solid fa-tags"></i>
+  {{ range .Params.tags }}
+    <a href="/tags/{{ . }}">{{ . }}</a>
   {{ end }}
 </div>
