@@ -1,0 +1,8 @@
+<div class="text-center text-muted mb-1">
+  {{ with .Params.ISBN }}
+    <span class="d-inline-flex align-items-center small mx-2">
+      <i class="fa-solid fa-book"></i>
+      <a href="https://search.worldcat.org/search?q={{ . }}&offset=1"> ISBN {{ . }}</a>
+    </span>
+  {{ end }}
+</div>
