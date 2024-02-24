@@ -8,7 +8,6 @@ tags = [
 ISBN = "9782916383699"
 +++
 
-
 « zboing zboing » de Paul Descamps est une bande dessinée originale et déroutante, un hors-piste haut en couleur, qui ne manque point de saveur.
 
 ![](/images/zboing-zboing.jpeg)
