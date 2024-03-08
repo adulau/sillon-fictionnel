@@ -21,7 +21,7 @@ Alors que je ruminais, que je laissais mon esprit galoper tel un cheval fou vers
 
 Quel est donc ce miracle ? La fontaine de Jouvence existerait-elle vraiment ? Oui, oui, oui ! Je l’affirme maintenant haut et fort même s’il faut le vivre pour y croire.
 
-Thylacine entre en scène. Et quelle scène ! La meilleure qui est pour accueillir ce moment hors du temps. La Seine Musicale, à l’acoustique irréprochable.
+[Thylacine entre en scène](https://www.laseinemusicale.com/spectacles-concerts/thylacine-symphonique/). Et quelle scène ! La meilleure qui est pour accueillir ce moment hors du temps. La Seine Musicale, à l’acoustique irréprochable.
 
 J’écoute de la musique depuis aussi longtemps que je m’en souvienne. J’ai eu la chance de naître dans une famille qui ne pouvait s’en passer. Et je comprends pourquoi. La musique, la bonne musique est de l’oxygène à l’état pur, la meilleure médecine qui soit, capable de repriser vos accrocs et de réparer vos cals en un instant, vous faisant oublier le monde et sa pesanteur.
 
