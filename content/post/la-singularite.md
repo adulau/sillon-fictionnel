@@ -11,7 +11,7 @@ Je me sens fatigué. Éreinté. Éteint.
 
 L’humanité et ses errements m’épuisent.
 
-Ère post-moderne, dites-vous ? Arrêtons de faire semblant s’il vous plaît. Qui espérons-nous abuser ? Nous-mêmes ? Ère de l’idiotie, de la médiocrité, de la petite d’esprit, et de la course effrénée sans raison aucune.
+Ère post-moderne, dites-vous ? Arrêtons de faire semblant s’il vous plaît. Qui espérons-nous abuser ? Nous-mêmes ? Ère de l’idiotie, de la médiocrité, de la petitesse d’esprit, et de la course effrénée sans raison aucune.
 
 Envie de tout lâcher. De me terrer en haut d’une montagne pour des jours, des semaines ou des mois. Loin de tout et surtout de vous. Racistes. Capitalistes. Égocentriques. Bureaucrates.
 
