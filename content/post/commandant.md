@@ -1,12 +1,14 @@
 +++
 author = "sw00d"
-title = "Commandant, de Sandro Veronesi & Edoardo De Angelis"
+title = "Commandant"
 date = "2024-03-09"
 tags = [
     "livre","critique", "chronique", "roman"
 ]
 ISBN = "978-2-246-83505-9"
 +++
+
+_un livre de Sandro Veronesi & Edoardo De Angelis_
 
 L’ami qui m’a recommandé le livre dont je vais vous parler est un de ceux avec qui je partage le goût suspect des histoires de sous-marins : « J’avais pensé à un Das Boot version spaghetti, j’ai dévoré le livre ».
 
