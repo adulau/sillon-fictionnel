@@ -3,8 +3,7 @@ author = "Miles Davos"
 title = "Friday tomes 1 et 2"
 date = "2024-02-08"
 tags = [
-    "bd","critique","chronique"
-
+    "bd","critique","chronique" ]
 ISBNS = [
    "978-2344055038","978-2344055045" 
 ]
