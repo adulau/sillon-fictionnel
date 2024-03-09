@@ -30,6 +30,7 @@ Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre pro
 - Ajoutez un contenu dans le répertoire [post](https://github.com/adulau/sillon-fictionnel/tree/main/content/post) au format [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 - N'oubliez pas d'ajouter les en-têtes au début de la page avec `+++` et `+++` pour terminer.
 - Les en-têtes possibles sont `author` pour l'auteur de la chronique, `title` pour le titre de la chronique, `date` pour la date de publication, et `tags` qui est une liste de labels utilisés pour faciliter la navigation sur le site (par exemple, `bd`, `chronique`, `livre`). N'hésitez pas à réutiliser ce qui existe déjà.
+- Vous pouvez ajouter `ISBN` pour la référence du livre, ou `ISBNs` pour les références des livres.
 - Vous pouvez reprendre un texte existant pour vous assurer que la structure soit respectée.
 
 ## Test et évaluation
