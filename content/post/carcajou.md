@@ -1,7 +1,7 @@
 +++
 author = "Miles Davos"
 title = "Carcajou"
-date = "2024-02-10"
+date = "2024-03-10"
 tags = [
     "bd","critique","chronique"
 ]
