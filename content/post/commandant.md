@@ -18,6 +18,8 @@ En 2018, l’amiral Giovanni Pettorino, chef des gardes-côtes italiens, dira qu
 
 Le livre nous plonge dans l’ambiance à bord d’un sous-marin de guerre, en chasse, par un style et une qualité littéraire impressionnante – alors que le roman est écrit à quatre mains et que je l’ai lu traduit. Ce qui a peut-être facilité ce petit miracle littéraire est que c’est un roman polyphonique, chaque court chapitre étant le récit, le point de vue de l’un des protagonistes. Et puis il y a sans doute la traduction, que je trouve excellente. Le style qui, en français – je ne sais pas comment c’est en italien, mais je devine le texte original tout aussi excellent – est grandement le fait du traducteur. Outre le style, il parsème les pages de mots étranges, comme tarabêter (embêter, ennuyer), décesser, atouse (?), sampille (?)… qui rendent si bien le parler des divers protagonistes.
 
+![](/images/Commandant.jpeg)
+
 « Je sais qu’on devrait voir ces garçons à la peau lisse et au sourire insouciant plonger dans la mer pour pécher des perles alors qu’ils s’embarquent pour faire la guerre, je sais aussi qu’ils ne reviendront pas » (p. 31).
 
 Les terribles risques à bord d’un sous-marin sont malgré tout de « bons moments, quand vous risquez votre vie, parce qu’il y a de la vie » (p. 41).
