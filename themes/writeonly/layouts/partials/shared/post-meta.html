@@ -38,4 +38,9 @@
   {{ range .Params.tags }}
     <a href="/tags/{{ . }}">{{ . }}</a>
   {{ end }}
+   {{ if .IsPage }}
+    {{ with .Page.File.Path }}
+     &#8200; <a href='https://github.com/adulau/sillon-fictionnel/edit/main/content/{{ . }}' class="btn"><i class="fa-solid fa-pencil"></i></a>
+    {{ end }}
+   {{ end }}
 </div>
