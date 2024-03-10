@@ -28,7 +28,7 @@ C’est enveloppé dans son égo et son manteau qu’il part à la conquête de 
 
 ![](/images/carcajou.jpeg)
 
-Ce roman graphique, scénario par Boris « ElDiablo » Dolivet, et dessiné par Djilian Deroche — qui s’est associé à Marion Chancerel pour la mise en couleurs — est tout bonnement superbe. Je n’ai pas pu le lâcher avant d’en avoir savouré le final, grandiose !
+Ce roman graphique, scénarisé par Boris « ElDiablo » Dolivet, et dessiné par Djilian Deroche — qui s’est associé à Marion Chancerel pour la mise en couleurs — est tout bonnement superbe. Je n’ai pas pu le lâcher avant d’en avoir savouré le final, grandiose !
 
 ElDiablo fait là une belle ode au Canada, son pays d’adoption, et surtout à ses premières nations, trahies et spoliées. Le dessin de Djilian est délectable. Il me rappelle un peu celui de Christophe Blain, notamment dans [Gus](https://www.dargaud.com/bd/gus) (rien à voir avec Gus Carcajou). Certaines planches, en pleine page, sont magnifiques. Et  les couleurs sont juste parfaites.
 
