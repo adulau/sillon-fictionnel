@@ -5,6 +5,9 @@
       {{ $pagination := .Paginate .Pages }}
       {{ range $pagination.Pages }}
         {{ partial "shared/post-item.html" . }}
+         <div class="lead text-center py-2">
+              <a href='{{ .Page.Permalink }}' ><i class="fa-solid fa-book-open-reader"></i>&#8200;Feuilleter le sillon...</a>
+         </div>
       {{ end }}
     </div>
   </div>
