@@ -9,7 +9,7 @@ tags = [
 
 Je me réveille après une bonne nuit de sommeil. Le cerveau encore embrumé, je me saisis du cordon numérique ombilical qui traîne sur ma table de chevet. Je mets mon casque et je m’en vais butiner, allongé, les nouvelles plantes sonores en ce début de printemps dans la soundscape.
 
-Soundain je reçois un [Signal](https://signal.org/) d’[Alexandre Dulaunoy](https://sillon-fictionnel.club/post/harrison-miller-valleys/), dont les chroniques et microéssais étoffent le sillon pour notre plus grand bonheur.
+Soudain je reçois un [Signal](https://signal.org/) d’[Alexandre Dulaunoy](https://sillon-fictionnel.club/post/harrison-miller-valleys/), dont les chroniques et microéssais étoffent le sillon pour notre plus grand bonheur.
 
 On pourrait croire que le message d’Alex est simple, basique, mais ça serait mal le connaître. Tenez, lisez par vous-même : « Tu penses quoi du nouvel album de Jeff Mills ? ».
 
