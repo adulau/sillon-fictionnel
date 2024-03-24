@@ -1,6 +1,6 @@
 +++
 author = "Alexandre Dulaunoy"
-title = ""
+title = "Frontier - Singelin"
 date = "2024-03-24"
 tags = [
     "bd","critique","chronique"
