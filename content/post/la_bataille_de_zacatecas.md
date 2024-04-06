@@ -14,7 +14,7 @@ Paco Ignacio Taibo II est mon auteur mexicain de roman noir favori. En même
 temps, c'est le seul, donc il faut peut-être relativiser, comme disait
 Einstein, en découvrant la physique. Il signe ici le scénario
 d'une magnifique bande dessinée[1], illustrée par Eko, un dessinateur que je
-n'avais pas l'heure de connaitre jusqu'ici.
+n'avais pas l'heur de connaitre jusqu'ici.
 
 L'histoire narre la bataille de Zacatecas, haut fait de l'épopée de Pancho
 Villa lors de la révolution mexicaine. Sur la route de Mexico, la ville de
