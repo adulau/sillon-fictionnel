@@ -14,4 +14,4 @@ Mais en réalité, l'ouvrage se révèle être un journal personnel agrémenté 
 
 ![](/images/lac-noir.jpg)
 
-- [Lac Noir, Roseline Lamber](https://lapeuplade.com/archives/livres/lac-noir) 144 pages, 978-2-925416-03-6, 23,95$ | 19 € 
+- [Lac Noir, Roseline Lambert](https://lapeuplade.com/archives/livres/lac-noir) 144 pages, 978-2-925416-03-6, 23,95$ | 19 € 
