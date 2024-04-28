@@ -31,6 +31,7 @@ Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre pro
 - N'oubliez pas d'ajouter les en-têtes au début de la page avec `+++` et `+++` pour terminer.
 - Les en-têtes possibles sont `author` pour l'auteur de la chronique, `title` pour le titre de la chronique, `date` pour la date de publication, et `tags` qui est une liste de labels utilisés pour [faciliter la navigation sur le site](https://sillon-fictionnel.club/tags/) (par exemple, `bd`, `chronique`, `livre`). N'hésitez pas à réutiliser ce qui existe déjà.
 - Vous pouvez ajouter `ISBN` pour la référence du livre, ou `ISBNs` pour les références des livres.
+- Vous pouvez aussi ajouter un fichier sonore (externe ou interne) en incluant une ligne `{{< audio "https://archive.org/foo/bar.mp3" >}}`. Un lecteur audio sera alors disponible au début de la page.
 - Vous pouvez reprendre un texte existant pour vous assurer que la structure soit respectée.
 
 ## Test et évaluation

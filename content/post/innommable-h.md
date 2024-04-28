@@ -7,6 +7,8 @@ tags = [
 ]
 +++
 
+{{< audio "/son/h.wav" "l'Innommable H. en version acoustique">}}
+
 Dans les tréfonds de la bibliothèque, où les échos du progrès et de la modernité semblent étouffés sous le poids de l'histoire, repose un secret des plus sombres. Les membres du club de lecture chuchotent, les yeux emplis d'une terreur mêlée de fascination, à propos de l'Innommable H.[^1], cet énigmatique auteur français contemporain dont les écrits sont imprégnés d'un conservatisme ancien et rétrograde, un héritage intellectuel qui défie l'ère du temps.
 
 Ses mots, semblables à des reliques d'un passé révolu, portent en eux le poids d'un ordre immuable, une vision du monde où le changement est non seulement craint mais vigoureusement refusé. Chaque phrase de l'Innommable H. est un défi lancé à la modernité, une rébellion silencieuse contre l'évolution des mœurs et des pensées.

@@ -1,0 +1,33 @@
+{{/* Based on Source: https://gitlab.com/Roneo/hugo-shortcode-roneo-collection */}}
+
+{{- $src := "" -}}
+{{- $caption := "" -}}
+{{- $class := "" -}}
+{{- $preload := "" -}}
+
+
+{{- if .IsNamedParams }}
+    {{- $src = .Get "src" -}}
+    {{- $caption = .Get "caption" -}}
+    {{- $class = .Get "class" -}}
+    {{- $preload = .Get "preload" | default "metadata" -}}
+{{- else }}
+    {{- $src = .Get 0 -}}
+    {{- $caption = .Get 1 -}}
+    {{- $class = .Get 2 -}}
+    {{- $preload = .Get 3 -}}
+{{- end }}
+
+
+<div class="text-center text-muted mb-1">
+<center>
+<figure {{ with $class }}class="{{ . }}"{{ end }}>
+  <i class="fa-solid fa-ear-listen"></i> 
+  <audio controls class="player" preload="{{ $preload }}">
+    {{ with $src }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+  </audio>
+  {{/*  <a href="{{ .Get "src"  }}" class="button small" download><i class="icon fas fa-download"></i></a>  */}}
+  {{ with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+</center>
+</div>

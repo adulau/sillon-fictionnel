@@ -1,4 +1,30 @@
 {{ define "main" }}
+
+{{ if or ( .HasShortcode "audio" ) ( .HasShortcode "video" )  ( .HasShortcode "archive-audio" ) }}
+
+    <script>
+      (function() {
+        const players = Array.from(document.querySelectorAll('.player')).map(
+            p => new Plyr(p, {
+                controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'download', 'fullscreen'],
+                {{/*  autoplay: true,  */}}
+                {{/*  settings: ['speed']  */}}
+            })
+        );
+        {{/*  Stop other players when starting  */}}
+        players.forEach(function(p){
+            p.on('play', event => {
+                const instance = event.detail.plyr;
+                console.log('Stop others players');
+                players.forEach(function(p){ if(p != instance) p.stop()});
+            })
+        });
+    })();
+    </script>
+
+{{ end }}
+
+
 <main class="container py-5 flex-grow-1">
   <div class="row justify-content-center">
     <div class="col-12 mw-md mh-100">
