@@ -3,7 +3,7 @@ author = "Miles Davos"
 title = "Horizons obliques"
 date = "2024-04-28"
 tags = [
-    "chronique", "critique", "bande dessinée", "bd", "anticipation"
+    "chronique", "critique", "bande dessinée", "bd", "anticipation", "coup de cœur"
 ]
 ISBN = "9791026828013"
 +++
