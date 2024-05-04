@@ -3,7 +3,7 @@ author = "Alexandre Dulaunoy"
 title = "Chronique - l'Innommable H."
 date = "2024-02-04"
 tags = [
-    "le sillon", "chronique", "Innommable H", "H."
+    "le sillon", "chronique", "Innommable H", "H.", "radio-sillon"
 ]
 +++
 
