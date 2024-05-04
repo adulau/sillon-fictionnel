@@ -33,4 +33,4 @@ Cependant, je n’ai pas bien saisi la morale, si morale il y a. Ni la fin qui r
 Si jamais vous le lisez et, une fois la dernière page consommée, vous voyez une lumière, quelle que soit sa taille, je serai curieux d’avoir votre avis.
 
 —
-[La petite lumière](https://editions-verdier.fr/livre/la-petite-lumiere-2/). Verdier (poche). 8,50 €.
+[La petite lumière](https://editions-verdier.fr/livre/la-petite-lumiere-2/). Antonio Moresco. Verdier (poche). 8,50 €.
