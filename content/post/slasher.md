@@ -26,7 +26,7 @@ Tiens bon Joshua. Ta Christine arrive pour te sauver. Tiens bon !
 
 ![](/images/slasher.jpeg)
 
-Malgré le mal-être qu’il a fait naître en moi tandis que j’en dévorais les pages, « Slasher » de Charles Forsman se révèle une excellente critique de la perversité, de l’immoralité et de la malaisante dégénérescence des mœurs de la société américaine, vues du prisme d’un auteur américain qui porte en lui les semences de la culture *[White Trash](https://fr.wikipedia.org/wiki/White_trash)*.
+Malgré le mal-être qu’il a fait naître en moi tandis que j’en dévorais les pages, « Slasher » de Charles Forsman se révèle une excellente critique de la perversité, de l’immoralité et de la malaisante dégénérescence des mœurs de la société américaine, vues du prisme d’un auteur qui porte en lui les semences de la culture *[White Trash](https://fr.wikipedia.org/wiki/White_trash)*.
 
 Il faut dépasser la grande violence, le sadisme de « Slasher » qui ne sont pour moi qu’un prétexte pour afficher des tares au grand jour et faire apparaître l’humain dans toutes ses contradictions. Forsman est un orfèvre en matière de personnages. Les siens, du moins celles et ceux qui importent pour cette histoire, possèdent une profondeur et une complexité rares.
 
