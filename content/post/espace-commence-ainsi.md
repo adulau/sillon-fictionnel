@@ -1,7 +1,7 @@
 +++
 author = "Alexandre Dulaunoy"
-title = "Chronique - L’espace commence ainsi"" 
-date = "2024-06-02"
+title = "Chronique - L’espace commence ainsi" 
+date = "2024-06-23"
 tags = [
     "livre","critique","chronique"
 ]
