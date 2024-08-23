@@ -23,4 +23,4 @@ Alors là niveau sillon, ça y va et ça en défonce plus d’un ! Délire gara
 Putain qu’est-ce que ça fait du bien de voir de telles œuvres toujours publiées en cette puritaine Amérique. Je suppute que « Werewolf Jones & Sons Deluxe Summer Fun Annual » doit être interdit de vente dans plein d’états. Ce n’est pas possible autrement.
 
 —
-[Werewolf Jones & Sons Deluxe Summer Fun Annual](https://www.fantagraphics.com/products/werewolf-jones-and-sons-deluxe-summer-fun-annual). Simon Hanselmann, Josh Pettinger. 19,99 $.
+[Werewolf Jones & Sons Deluxe Summer Fun Annual](https://www.fantagraphics.com/products/werewolf-jones-and-sons-deluxe-summer-fun-annual). Simon Hanselmann, Josh Pettinger. Fantagraphics. 19,99 $.
