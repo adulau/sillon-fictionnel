@@ -1,5 +1,5 @@
 +++
-author = "sw00d"
+author = "H. Galois"
 title = "Mon oncle d'Australie"
 date = "2024-04-30"
 tags = [
