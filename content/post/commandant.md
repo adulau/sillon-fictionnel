@@ -1,5 +1,5 @@
 +++
-author = "sw00d"
+author = "H. Galois"
 title = "Commandant"
 date = "2024-03-09"
 tags = [
