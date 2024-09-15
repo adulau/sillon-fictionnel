@@ -14,7 +14,6 @@ Le superbe scénario de James Tynion IV (The House on the Lake) et le détectab
 
 Je viens de dévorer le tome 7 et je dois prendre mon mal en patience en attendant la suite.
 
-![](/images/something-is-killing-the-children.jpeg)
 
 Le pitch : les enfants, par leurs peurs, leurs cauchemars, l’excès de stress, matérialisent des monstres que seuls eux peuvent voir.
 
@@ -29,6 +28,8 @@ Certains chasseurs sont eux-mêmes monstrueux, en cela que ce qui les motive dan
 Mais voilà qu’Erica, une chasseuse hors pair, se révolte et fait bande à part. Devant sauver des vies tout en sauvant la sienne des griffes des créatures et celles de l’ordre, elle ne peut compter que sur elle-même et sur une poignée d’alliés pour tenir…
 
 Intriguant, émouvant, parfois horrifiant, « Something is Killing the Children » est tout bonnement époustouflant.
+
+![](/images/something-is-killing-the-children.jpeg)
 
 —
 [Something is Killing the Children](https://www.urban-comics.com/something-is-killing-the-children-serie/), série, 7 tomes parus. James Tynion IV, Werther Dell’edera. Urban Comics.

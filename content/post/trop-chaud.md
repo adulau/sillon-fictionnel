@@ -5,7 +5,6 @@ date = "2024-09-15"
 tags = [
     "art","arles","photographie", "nouvelle"
 ]
-ISBN = "9782021558746"
 +++
 
 [![homecoming](/images/53908203566_4f7ed06e00_c.jpg)](https://www.flickr.com/photos/adulau/53908203566/)

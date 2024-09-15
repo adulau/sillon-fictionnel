@@ -12,7 +12,6 @@ Parfois je traîne mes savates dans les rayons jeunesse des librairies du 9e art
 
 C’est lors d’une de ces virées que je suis tombé sur « Bot-9 », une agréable bande dessinée muette ; sans texte donc.
 
-![](/images/bot-9.jpeg)
 
 On y suit la vie trépidante d’un petit poisson qui échappa de justesse à une mort certaine et qu’un scientifique dota d’un corps de robot pour accomplir une mission rocambolesque et dangereuse.
 
@@ -20,5 +19,7 @@ La fin, que l’auteur veut heureuse, aurait pu être cependant plus à l’avan
 
 Dommage.
 
- –
- [Bot-9](https://www.aventuriers-dailleurs.fr/bd/les_aventuriers_d_ailleurs/bot-9/bot-9_-_histoire_complete/9782386040061). Derek Laufman. Aventuriers d'ailleurs. 12,90 €
+![](/images/bot-9.jpeg)
+
+–
+[Bot-9](https://www.aventuriers-dailleurs.fr/bd/les_aventuriers_d_ailleurs/bot-9/bot-9_-_histoire_complete/9782386040061). Derek Laufman. Aventuriers d'ailleurs. 12,90 €

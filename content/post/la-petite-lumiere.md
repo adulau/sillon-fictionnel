@@ -12,8 +12,6 @@ Je ne sais pas trop quoi penser de « La petite lumière » d’Antonio Moresc
 
 C’est lors d’un court passage dans une librairie que je l’ai vu là, sur une table, mis en avant, à côté de livres de Zweig et autres illustres écrivains. Après avoir lu le 4e de couverture, je me suis dit « why not » comme on dit dans le Gâtinais.
 
-![](/images/la-petite-lumiere.jpeg)
-
 J’ai vu un grand sourire s’afficher sur le visage précédemment fermé de la caissière. « J’ai adoré ce livre. Vous allez vous régaler » me dit-elle d’un air enjoué.
 
 Pas vraiment, même si les ingrédients choisis auraient dû aboutir à une belle dégustation.
@@ -31,6 +29,8 @@ Certes, les découvertes de l’homme avec et face à l’enfant ont aiguisé mo
 Cependant, je n’ai pas bien saisi la morale, si morale il y a. Ni la fin qui ressemble à une tentative ratée de faire philosophique sans donner les clefs nécessaires à la compréhension. Des passages m’ont aussi rappelé un autre Italien, Erri de Luca, mais sans le lyrisme de ce dernier.
 
 Si jamais vous le lisez et, une fois la dernière page consommée, vous voyez une lumière, quelle que soit sa taille, je serai curieux d’avoir votre avis.
+
+![](/images/la-petite-lumiere.jpeg)
 
 —
 [La petite lumière](https://editions-verdier.fr/livre/la-petite-lumiere-2/). Antonio Moresco. Verdier (poche). 8,50 €.

@@ -12,7 +12,6 @@ ISBN = [
 
 Je me suis délecté du dernier volet de « Dédales », la trilogie de Charles Burns même s’il est un peu en deçà des deux premiers.
 
-![](/images/dedales.jpeg)
 
 C’est une histoire d’amour inassouvie et de non-dits.
 
@@ -25,6 +24,8 @@ Une histoire de tout ce que nous avons envie de dire, d’accomplir, mais que no
 C’est enfin une histoire des fractures et blessures que nous colmatons.
 
 En refusant de voir. Nos erreurs. Nos échecs. Notre égoïsme et nos mesquineries. Et en se rassurant comme on peut. Quitte à vivre dans le déni. Quitte à se faire des films.
+
+![](/images/dedales.jpeg)
 
 —
 [Dédales 3](https://www.cornelius-boutique.com/product/dedales-3). Charles Burns. 25,50 €.

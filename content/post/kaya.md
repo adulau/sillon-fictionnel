@@ -10,8 +10,6 @@ ISBN = [
 ]
 +++
 
-![](/images/kaya.jpeg)
-
 Les extraterrestres ont quasiment décimé l’humanité avant de la soumettre.
 
 Les survivants sont réduits à l’esclavage.
@@ -26,5 +24,6 @@ Des fuyards tentent de rallier « le sud » où il ferait bon vivre. Pourchass
 
 En effet, la quête du « sud » soulève d’intéressantes interrogations auxquelles les auteurs ne répondent jamais, s'arrêtant en chemin en nous laissant sur notre faim.
 
+![](/images/kaya.jpeg)
 —
 [Kaya](https://www.glenat.com/hors-collection-glenat-bd/kaya-9782344060377). Paola Barbato, Linda Cavallini, Lorenzo Lanfranconi et Emanuele Tenderini. Glénat. 18,50 €.
