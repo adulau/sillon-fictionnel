@@ -1,6 +1,6 @@
 <!-- Load Shared SCSS -->
 {{- $sharedSCSS := resources.Get "scss/styles.scss" -}}
-{{- $sharedSCSS := $sharedSCSS | resources.ToCSS (dict "outputStyle" "compressed" "includePaths" (slice "assets")) -}}
+{{- $sharedSCSS := $sharedSCSS | css.Sass (dict "outputStyle" "compressed" "includePaths" (slice "assets")) -}}
 <style type="text/css" media="all">{{ $sharedSCSS.Content | safeCSS }}</style>
 
 <!-- Load Shared JS -->
