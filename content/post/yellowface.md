@@ -14,7 +14,7 @@ Yellowface de Rebecca F.Kuang commence par une liste...
 
 ... une drôle de liste...
 
-![](./liste.jpg)
+![](/images/liste.jpg)
 
 Est-ce de la prévention, pour se prémunir de piéger les lecteurs sensibles ? Une technique marketing pour attirer les lecteurs insensibilisés par les œuvres d'Irvine Welsh ou de Bret Easton Ellis ?
 
