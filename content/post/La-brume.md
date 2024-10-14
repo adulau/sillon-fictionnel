@@ -14,7 +14,7 @@ Le projet promet une aventure épique, sorte de "buddy book" où l'on suit deux 
 
 ![](https://mnemos.com/wp-content/uploads/2024/01/C1-La-Brume-lemportera-2024-OK-736x1024.jpg)
 
-Les premiers chapitres sont très accrocheurs. On y rencontre Keb Gris-de-Pierre, un ancien paysan qui fuit la brume et finit par rencontrer Maramazoe, une guerrière expérimentée qui l'embarque de force dans une quête pour dissiper la fameuse brume. Les chapitres suivants souffrent de quelques longueurs et sont plutôt contemplatifs. Par contre, en arrivant dans la deuxième moitié, quelle claque ! On est pris par l'intrigue, les enjeux et le côté humain des personnages, pour un final qui tient en haleine.
+Les premiers chapitres sont très accrocheurs. On y découvre Keb Gris-de-Pierre, un ancien paysan qui fuit la brume et finit par rencontrer Maramazoe, une guerrière expérimentée qui l'embarque de force dans une quête pour dissiper la fameuse brume. Les chapitres suivants souffrent de quelques longueurs et sont plutôt contemplatifs. Par contre, en arrivant dans la deuxième moitié, quelle claque ! On est pris par l'intrigue, les enjeux et le côté humain des personnages, pour un final qui tient en haleine.
 
 Le style de Stéphane Arnier est tout en subtilité et s'offre même quelques scènes d'action très visuelles. Le thème principal est le passé et comment nos échecs et regrets définissent celui que l'on est aujourd'hui. J'ai récemment parcouru [le blog de l'auteur](https://stephanearnier.com/) et je le conseille à ceux qui s'intéressent aux techniques de narration et de dramaturgie.
 
