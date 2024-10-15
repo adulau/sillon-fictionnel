@@ -5,7 +5,7 @@ date = "2024-10-01"
 tags = [
     "roman","critique","chronique"
 ]
-ISBN = "9791034765850"
+ISBN = "9782385620134"
 +++
 
 Yellowface de Rebecca F.Kuang commence par une liste...
