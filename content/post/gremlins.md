@@ -5,6 +5,7 @@ date = "2024-11-10"
 tags = [
     "gremlins","cinema","art", "chronique"
 ]
+isbn = "9782373060690"
 +++
 
 Le premier film d’horreur que j’ai vu au cinéma avec ma mère et ma grand-mère, c’était Gremlins. J’ai sans doute été influencé toute ma vie par ce film et son scénario sans même le savoir. Je viens de comprendre pourquoi je n’aime pas les films de Noël trop sirupeux en lisant Gremlins, petite tératogonie[^1] de l’ère Reagan d’Antonio Dominguez Leiva et Sébastien Hubier, publié aux [éditions Le Murmure](https://www.editions-du-murmure.fr/) dans la charmante collection Borderline. Un petit livre qui oscille entre l’essai social et la critique cinématographique, offrant une lecture amusante, enrichissante et passionnante. Tout cela pour seulement 9 euros, mais sans la figurine de Gizmo…
