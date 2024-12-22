@@ -8,8 +8,6 @@ tags = [
 ISBN = "9791032408018"
 +++
 
-![](/images/arca-nouvelle_eden.jpeg)
-
 « Arca, ou la Nouvelle Éden » de Van Jensen et Jesse Lonergan est une délicieuse bande dessinée d’anticipation postapocalyptique.
 
 Cela commence de manière assez classique pour du post-apo. L’humanité, cette entité virale qui se nourrit de guerre, de conflit et de déséquilibre climatique, a atteint la fin de son existence.
@@ -21,6 +19,8 @@ Au sein du vaisseau, les riches sont appelés « citoyens ». Ils dominent s
 Effie, une pionnière qui s’occupe de Graves, le chef de l’arche, s’apprête à entrer dans l’âge adulte. Cela devrait la réconforter, mais c’est tout le contraire qui se produit. Elle découvre des informations troublantes qui la font douter de la véritable nature d’Arca. Lentement, elle ose braver les interdits et le danger pour percer les intentions des citoyens et le destin qu’ils réservent à sa caste.
 
 Dans cette pièce captivante, un drame spatial à la fin épique, on redécouvre la brutalité des puissants actuels, ainsi que leur utilisation sans vergogne d’autrui pour renforcer leur emprise. Car la seule, l’unique religion est le contrôle.
+
+![Couverture d'Arca, ou la Nouvelle Éden](/images/arca-nouvelle_eden.jpeg)
 
 —
 [Arca, ou la Nouvelle Éden](https://www.lisez.com/ebook/arca-ou-la-nouvelle-eden/9791032408926). Jensen, Lonergan. 22 €.
