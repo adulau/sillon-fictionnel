@@ -14,7 +14,7 @@ Je viens de poser « Fort Alamo », le dernier roman de Fabrice Caro, plus con
 
 Cela fait longtemps que je n’ai pas bu encre aussi savoureuse. Certes, ces temps-ci, je lis bien moins de romans qu’auparavant. Du moins, je les commence, sans les finir. Je les repose après 10, 20 ou 50 pages, parfois par lassitude, d’autres pour aller butiner d’autres fleurs, si ce n’est pas attiré par la facilité, le moindre effort de lire des bandes dessinées et autres romans dits graphiques.
 
-Dès les premières phrases, je sentais que j’avais entre les mains une belle œuvre. Style clair, à la légère poésie, qui rappelle un peu le Bégaudeau des bons jours, si ce n’est du Echenoz.
+Dès les premières phrases, je sentais que j’avais entre les mains une belle œuvre. Un style limpide, émaillé de poésie, évoquant le Bégaudeau des bons jours, mais aussi l'Echenoz.
 
 Cyril est un professeur au caractère plutôt effacé, qui mène une vie rangée, tranquille. Mais comme nombre de ses congénères, il supporte mal les incivilités qui semblent se multiplier.
 
@@ -22,7 +22,7 @@ Un jour, alors qu’il peste en silence contre un malotru qui vient de lui grill
 
 Les incidents de ce type s’enchaînent autour de Cyril. Le courroux silencieux de notre protagoniste semble entraîner la mort instantanée d’autrui. Corrélation ? Causalité ? Les deux à la fois ma bonne dame ?
 
-Qui sait ? Sauf peut-être Cyril, qui, les pages défilant, se convainc qu’il possède un superpouvoir, digne d’un Hulk des temps modernes, capable de provoquer l’AVC du con ou de la connasse qui l’emmerde, qui se torche des règles de bienséance, plutôt que de lui défoncer la gueule avec un barrage de poings-enclumes, comme aurait pu le faire un Bruce Banner courroucé.
+Qui sait ? Sauf peut-être Cyril, qui, les pages défilant, se convainc qu’il possède un superpouvoir, digne d’un Hulk des temps modernes, capable de provoquer l’AVC du con ou de la connasse qui l’emmerde, qui se torche avec les règles de bienséance, plutôt que de lui défoncer la gueule avec un barrage de poings-enclumes, comme aurait pu le faire un Bruce Banner courroucé.
 
 Mais ce pouvoir incontrôlable risque de ruiner la soirée de Noël qui se profile chez son frère. Car Corrine, sa belle-sœur, l’irrite au plus haut point…
 
@@ -34,7 +34,7 @@ Mais Fabcaro ne tombe pas dans le panneau de la surgentillesse aveugle, de la br
 
 Prenez par exemple l’analyse fine de Gilles, collègue de Cyril, page 121 :
 
-> Ah oui le fameux On est tous le con d’un autre… Je supporte pas cette théorie. C’est les vrais cons qui l’ont inventée pour se dédouaner et pour que rien ne bouge. Le vivre-ensemble, c’est pas subjectif, c’est factuel : si tu passes ton temps à faire des trucs de gros con qui nuisent aux autres, tu es un gros con, point final, y a zéro relativité là-dedans. L’incivilité est une valeur absolue, mesurable, objective, la relativiser c’est la légitimer.
+> Ah oui le fameux *On est tous le con d’un autre*… Je supporte pas cette théorie. C’est les vrais cons qui l’ont inventée pour se dédouaner et pour que rien ne bouge. Le vivre-ensemble, c’est pas subjectif, c’est factuel : si tu passes ton temps à faire des trucs de gros con qui nuisent aux autres, tu es un gros con, point final, y a zéro relativité là-dedans. L’incivilité est une valeur absolue, mesurable, objective, la relativiser c’est la légitimer.
 
 Tout est dit. Et pour finir cette recension, laissons infuser cette phrase du précédemment cité David Foster Wallace, extraite de « Infinite Jest » : « *Try to learn to let what is unfair teach you.* » (Essayez d’apprendre à laisser ce qui est injuste vous instruire)
 
