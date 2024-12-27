@@ -22,7 +22,7 @@ Un jour, alors qu’il peste en silence contre un malotru qui vient de lui grill
 
 Les incidents de ce type s’enchaînent autour de Cyril. Le courroux silencieux de notre protagoniste semble entraîner la mort instantanée d’autrui. Corrélation ? Causalité ? Les deux à la fois ma bonne dame ?
 
-Qui sait ? Sauf peut-être Cyril, qui, les pages défilant, se convainc qu’il possède un superpouvoir, digne d’un Hulk des temps modernes, capable de provoquer l’AVC du con ou de la connasse qui l’emmerde, qui se torche avec les règles de bienséance, plutôt que de lui défoncer la gueule avec un barrage de poings-enclumes, comme aurait pu le faire un Bruce Banner courroucé.
+Qui sait ? Sauf peut-être Cyril, qui, les pages défilant, se convainc qu’il possède un superpouvoir, digne d’un Hulk des temps modernes, capable de provoquer l’AVC du con ou de la connasse qui l’emmerde, qui se torche avec les règles de bienséance, plutôt que de lui défoncer la gueule avec un barrage de poings-enclumes, comme aurait pu le faire un Bruce Banner énervé.
 
 Mais ce pouvoir incontrôlable risque de ruiner la soirée de Noël qui se profile chez son frère. Car Corrine, sa belle-sœur, l’irrite au plus haut point…
 
