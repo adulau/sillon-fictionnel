@@ -60,8 +60,8 @@ ne s'agit pas d'une fiction, mais d'histoire contemporaine, et il est fort
 possible d'en avoir croisé certains.
 
 —
-[Le voyage de Marcel Grob](https://www.babelio.com/livres/Goethals-Le-voyage-de-Marcel-Grob/1071833).  Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 24€.
-[La patrie des frères Werner](https://www.babelio.com/livres/Goethals-La-patrie-des-freres-Werner/1235792) Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 23€.
-[L'escamoteur](https://www.babelio.com/livres/Goethals-Lescamoteur/1666558).  Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 26€.
+* [Le voyage de Marcel Grob](https://www.babelio.com/livres/Goethals-Le-voyage-de-Marcel-Grob/1071833), Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 24€.
+* [La patrie des frères Werner](https://www.babelio.com/livres/Goethals-La-patrie-des-freres-Werner/1235792), Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 23€.
+* [L'escamoteur](https://www.babelio.com/livres/Goethals-Lescamoteur/1666558), Sébastien Goethals & Phillipe Colin. Éditions Futuropolis. 26€.
 
 [^1]: Tout le monde n'a pas eu la chance d'avoir des parents gauchistes
