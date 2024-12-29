@@ -13,12 +13,12 @@ ISBN = "9782754835374"
 Philippe Colin, vous connaissez forcément, c'est lui qui sévissait sur France
 Inter avec son compère Xavier Mauduit, dans une émission complétement foutraque
 et déjantée. Aujourd'hui, il fait dans l'écriture, avec un roman paru cette
-année, <em>Le barman du Ritz</em>, mais aussi et surtout dans la bande dessinée
+année, *Le barman du Ritz*, mais aussi et surtout dans la bande dessinée
 historique. Avec son compère Sébastien Goethal au dessin, ils en sont
-maintenant au 3e essai, avec tout d'abord <em>Le voyage de Marcel Grob</em>,
+maintenant au 3e essai, avec tout d'abord *Le voyage de Marcel Grob*,
 consacré à l'histoire d'un malgré nous alsacien au sein de la Waffen SS, puis
-<em>La patrie des frères Werner</em>, consacrés à deux frangins footballeurs
-qui émargent à la Stasi, et maintenant <em>L'escamoteur</em>, qui tourne autour
+*La patrie des frères Werner*, consacrés à deux frangins footballeurs
+qui émargent à la Stasi, et maintenant *L'escamoteur*, qui tourne autour
 de l'histoire d'[Action Directe](https://fr.wikipedia.org/wiki/Action_directe).
 
 Le prisme de l'histoire, c'est la figure de Gabriel Chahine, un honorable
