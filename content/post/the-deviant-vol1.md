@@ -26,7 +26,7 @@ Le dessin de Joshua Hixson, sombre et instable, comme le décrit Alexandre, m’
 
 Soudain, un souvenir enfoui a refait surface dans mon esprit. Je me souviens d’avoir regardé le film « The Thing » de John Carpenter en tant qu’enfant, me disant que je devais m’arrêter, partir, que c’était trop pour moi, et pourtant, j’ai continué à le regarder, sachant que cela allait me marquer à jamais.
 
-« Le déviant » est, à première vue, tout aussi puissant. Cependant, contrairement à « The Thing », il représente une réalité dont on ne peut si facilement se défaire.
+« The Deviant » est, à première vue, tout aussi puissant. Cependant, contrairement à « The Thing », il représente une réalité dont on ne peut si facilement se défaire.
 
 
 ![Couverture du volume 1 de The Deviant](/images/the-deviant-vol1.jpeg)
