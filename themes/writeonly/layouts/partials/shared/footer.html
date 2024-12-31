@@ -6,9 +6,16 @@
         © 2024 Le Sillon Fictionnel - contenu sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC BY 4.0 DEED</a> - 
         {{ with .Site.Params.mastodon }}
 	  <a class="button-square button-social hint--top text-center" rel="me" data-hint="Mastodon" title="Mastodon" href="{{ . }}">
-	  <i class="fa-brands fa-mastodon"></i>
-      </a>
-	    {{ end }}
+	    <i class="fa-brands fa-mastodon"></i>
+          </a>
+	{{ end }}
+
+        {{ with .Site.Params.github }}
+          <a class="button-square button-social hint--top text-center" rel="me" data-hint="GitHub" title="GitHub" href="{{ . }}">
+            <i class="fa-brands fa-github"></i>
+          </a>
+        {{ end }}
+
         <a class="button-square button-social hint--top text-center" title="RSS" href="/index.xml"><i class="fa-solid fa-rss"></i></a>
         <a class="button-square button-social hint--top text-center" title="Atom Feed" href="/atom.xml"><i class="fa-solid fa-atom"></i></a>
         </p>

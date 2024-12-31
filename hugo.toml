@@ -23,6 +23,7 @@ defaultContentLang = 'fr'
   title = 'sillon-fictionnel.club'
   description = 'Le Sillon Fictionnel - Un espace dédié à la passion de la lecture et la culture au sein d’un club un peu atypique. Critiques - livre, art et culture.'
   mastodon = 'https://paperbay.org/@sillon_fictionnel'
+  github = 'https://github.com/adulau/sillon-fictionnel'
   [socialIcons]
     name = 'rss'
     url = 'https://sillon-fictionnel.club'
