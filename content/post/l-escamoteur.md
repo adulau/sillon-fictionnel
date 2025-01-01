@@ -13,17 +13,16 @@ ISBN = "9782754835374"
 Philippe Colin, vous connaissez forcément, c'est lui qui sévissait sur France
 Inter avec son compère Xavier Mauduit, dans une émission complétement foutraque
 et déjantée. Aujourd'hui, il fait dans l'écriture, avec un roman paru cette
-année, <em>Le barman du Ritz</em>, mais aussi et surtout dans la bande dessinée
+année, *Le barman du Ritz*, mais aussi et surtout dans la bande dessinée
 historique. Avec son compère Sébastien Goethal au dessin, ils en sont
-maintenant au 3e essai, avec tout d'abord <em>Le voyage de Marcel Grob</em>,
+maintenant au 3e essai, avec tout d'abord *Le voyage de Marcel Grob*,
 consacré à l'histoire d'un malgré nous alsacien au sein de la Waffen SS, puis
-<em>La patrie des frères Werner</em>, consacrés à deux frangins footballeurs
-qui émargent à la Stasi, et maintenant <em>L'escamoteur</em>, qui tourne autour
+*La patrie des frères Werner*, consacrés à deux frangins footballeurs
+qui émargent à la Stasi, et maintenant *L'escamoteur*, qui tourne autour
 de l'histoire d'[Action Directe](https://fr.wikipedia.org/wiki/Action_directe).
 
 Le prisme de l'histoire, c'est la figure de Gabriel Chahine, un honorable
-correspondant infiltré par les [Renseignements
-Généraux](https://fr.wikipedia.org/wiki/Direction_centrale_des_Renseignements_g%C3%A9n%C3%A9raux)
+correspondant infiltré par les [Renseignements Généraux](https://fr.wikipedia.org/wiki/Direction_centrale_des_Renseignements_g%C3%A9n%C3%A9raux)
 chez les militants d'extrême-gauche. Un personnage complexe, trouble et
 fascinant, à la fois dandy charmeur et mythomane auprès de ses petits
 camarades, mais aussi un chrétien libanais réfugié en France, collaborant
@@ -40,8 +39,7 @@ Arrive alors 1981, et la victoire de la gauche à l'élection présidentielle. L
 pouvoir socialiste, soucieux de se démarquer, cherche à gouverner autrement (au
 début, au moins), et privilégie alors l'ouverture sur la répression. Mais
 surtout, les nouveaux dirigeants se méfient énormément de la fidélité des
-troupes, et redoutent la ré-édition du [coup d'état de 73 au Chili](https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_de_1973_au_Chili),
-après la victoire d'Alliende. Ils entament alors l'épuration des forces de polices, et en particulier de la police politique que
+troupes, et redoutent la ré-édition du [coup d'état de 73 au Chili](https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_de_1973_au_Chili), après la victoire d'Alliende. Ils entament alors l'épuration des forces de polices, et en particulier de la police politique que
 constitue les RG, tandis que les négociations s'engagent avec les militants
 emprisonnés, avec pour ambition claire de monter un [SAC](https://fr.wikipedia.org/wiki/Service_d%27action_civique) de gauche, afin de
 lutter contre la subversion d'extrème-doite. Si cette stratégie d'apaisement
