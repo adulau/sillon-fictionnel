@@ -26,7 +26,7 @@ S’ensuit un époustouflant road trip en noir en blanc, de la Californie au Wyo
 
 Même si, tout comme moi, vous n’avez jamais lu le moindre volet de la série originelle dont s’inspire l’auteur, vous ne serez point perdus.
 
-Au contraire, vous serez happés le don graphique de l’auteur. Un don qui se manifeste par des paysages crépusculaires le long du parcours des personnages. Un don qui rend l’atmosphère lourde et suffocante pour donner lieu à une histoire explosive, où le vernis de la civilisation ne résiste pas longtemps aux accès de violence.
+Au contraire, vous serez happés par le don graphique de l’auteur. Un don qui se manifeste par des paysages crépusculaires le long du parcours des personnages. Un don qui rend l’atmosphère lourde et suffocante pour donner lieu à une histoire explosive, où le vernis de la civilisation ne résiste pas longtemps aux accès de violence.
 
 Enfin, pour agrémenter votre lecture, je vous invite à écouter le bel album de trois morceaux créé par l’auteur. Et si cela s’avère trop court, vous pourrez poursuivre l’aventure accompagnés de la liste de lecture qu’il propose. Vous trouverez toutes les informations nécessaires pour préparer votre voyage avec Red Dust et Vivienne en première page de ce roman graphique [qui a conquis le cœur du Festival Quai des Bulles en 2024](http://prix.quaidesbulles.com/2024/10/30/palmares-2024/).
 
