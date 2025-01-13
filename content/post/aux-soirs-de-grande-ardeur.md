@@ -10,7 +10,7 @@ ISBN = "9782808212038"
 
 Dans « Aux soirs de grande ardeur », Nicolas Puzenat laisse sa belle imagination courir le long de l’histoire humaine. Ce conte, dont il régale nos yeux et nourrit notre âme, interprète librement la révolution néolithique. Il prend racine à Miril, une des premières cités construites par l’être humain, entourée de majestueuses forêts.
 
-Nos ancêtres commencent à délaisser la chasse, la cueillette, et le nomadisme qui les accompagnent, au profit de l’agriculture, de la sédentarité. La hiérarchie devient plus pesante. La domination, l’esclavagisme prennent racine. Les « urbains » regardent de haut les nomades, jugés sauvages et malpropres.
+Nos ancêtres commencent à délaisser la chasse, la cueillette, et le nomadisme qui les accompagnent, au profit de l’agriculture, de la sédentarité. La hiérarchie devient plus pesante. La domination, l’esclavagisme émergent. Les « urbains » regardent de haut les nomades, jugés sauvages et malpropres.
 
 ![Couverture de Aux soirs de grande ardeur](/images/aux-soirs-de-grande-ardeur.jpeg)
 
