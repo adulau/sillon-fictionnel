@@ -16,7 +16,7 @@ Je me trouve chez un caviste. De l’épicurisme et du bien-vivre, comme toujour
 
 Ne sachant pas quoi choisir, j’erre parmi les quilles sans but précis. Après un temps pouvant s’étendre entre deux minutes et quinze — la mémoire exacte me fait défaut, mais la fourchette devrait vous donner une idée, même si cela n’a aucune importance pour l’histoire — mon œil, ou plutôt mes yeux n’étant pas borgne que je sache rencontrent la belle étiquette d’une Vosne-Romanée et ses formes suaves.
 
-Hop ! Ni une, ni deux, je m’en saisis malgré son prix qui me pique le portefeuille et la conscience. Je rentre chez moi et je me t’attends à vivre une expérience inoubliable avec quelques autres pratiquants du levé-jeté triés sur le volet.
+Hop ! Ni une, ni deux, je m’en saisis malgré son prix qui me pique le portefeuille et la conscience. Je rentre chez moi et je m'attends à vivre une expérience inoubliable avec quelques autres pratiquants du levé-jeté triés sur le volet.
 
 Mais le désenchantement arrive au galop. Nous humons, nous buvons, mais nous n’y comprenons rien. Pourtant, tout était là pour produire un grand vin. Seulement voilà. On dirait que le vigneron s’est emmêlé les éprouvettes, s’est trompé dans le dosage, le procédé ou les deux à la fois.
 
