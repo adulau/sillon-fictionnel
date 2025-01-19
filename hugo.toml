@@ -45,6 +45,10 @@ defaultContentLang = 'fr'
     name = "mots-clés"
     url = "/tags"
     weight = 3
+  [[menus.main]]
+    name = "les librairies"
+    url = "/les-librairies"
+    weight = 4
 
 [taxonomies]
   series = 'series'
