@@ -1,7 +1,7 @@
 baseURL = 'https://sillon-fictionnel.club/'
 title = 'le sillon fictionnel'
 theme = 'writeonly'
-copyright = '© 2024 Le Sillon Fictionnel - contenu sous licence creativecommons.org CC BY 4.0. Le Sillon Fictionnel est mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.'                                                              
+copyright = '© 2024-2025 Le Sillon Fictionnel - contenu sous licence creativecommons.org CC BY 4.0. Le Sillon Fictionnel est mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.'                                                              
 languageCode = 'fr'
 defaultContentLanguage = 'fr'
 defaultContentLang = 'fr'
