@@ -12,8 +12,6 @@ Depuis plusieurs années, j’observe les quelques œuvres de Miss.Tic à Arles[
 
 Lors d’un long trajet de retour d’Arles, j’ai écouté un podcast sur France Inter, ["Miss.Tic : à la vie, à l'amor", quand l'art urbain s'expose](https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/miss-tic-a-la-vie-a-l-amor-quand-l-art-urbain-s-expose-6199618). Il évoquait une exposition posthume au Palais des Papes et m’a fait réaliser : « Merde, j’aurais dû m’intéresser plus en profondeur à son œuvre ces dernières années. »
 
-Une fois de plus mon cerveau c’est perdu dans d’autres lectures, recherches... mais le hasard forcé (une recherche exhaustive dans les etagères d’une Fnac bordélique, un autre sujet sur le rangement approximatif des grandes enseignes qui essaient de vendre des livres ou du papier). Je suis tombé sur ce le catalogue de l’exposition du Palais des Papes. Et ben, c’est pas vraiment un catalogue. C’est beaucoup mieux que cela. Une perle avec des entretiens, des notes et des copies de vielles lettres (mais aussi des fax) et plein de chose.
-
 ![Couverture de MissTic -  à la vie, à l'amor, quand l'art urbain s'expose](/images/misstic.jpeg)
 
 Comme souvent, mon cerveau s’est égaré dans d’autres lectures et recherches. Mais le hasard — ou plutôt une fouille obstinée dans les étagères chaotiques d’une Fnac (une réflexion potentielle à part entière pour le Sillon sur le rangement approximatif de ces grandes enseignes) — m’a mené jusqu’au catalogue de l’exposition du Palais des Papes.
