@@ -5,7 +5,7 @@ date = "2024-02-04"
 tags = [
     "le sillon", "chronique", "policier",
 ]
-ISBN = "9782253177722"
+ISBN = "978-2-253-17772-2"
 +++
 
 ![](/images/une_terre_si_froide.webp)
