@@ -49,6 +49,10 @@ defaultContentLang = 'fr'
     name = "les librairies"
     url = "/les-librairies"
     weight = 4
+  [[menus.main]]
+    name = "l'index"
+    url = "/l-index"
+    weight = 5
 
 [taxonomies]
   series = 'series'
