@@ -5,9 +5,7 @@ date = "2024-08-24"
 tags = [
     "bd","critique","chronique","thriller","société"
 ]
-ISBN = [
-    "9782754845649"
-]
+ISBN = "9782754845649"
 +++
 
 Gianni, écrivain, de gauche, a du mal à vivre de son art malgré son succès, d’estime.

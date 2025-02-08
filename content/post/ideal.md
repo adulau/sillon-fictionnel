@@ -5,9 +5,7 @@ date = "2024-08-24"
 tags = [
     "bd","critique","chronique","anticipation","société","japon"
 ]
-ISBN = [
-    "9791040804222"
-]
+ISBN = "9791040804222"
 +++
 
 Elle, pianiste. D’exception. Lui, fils. D’architecte de renom.
