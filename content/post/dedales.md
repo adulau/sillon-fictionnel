@@ -5,9 +5,7 @@ date = "2024-08-11"
 tags = [
     "bd","critique","chronique","cinéma","psychologie"
 ]
-ISBN = [
-    "9782360812080"
-]
+ISBN = "9782360812080"
 +++
 
 Je me suis délecté du dernier volet de « Dédales », la trilogie de Charles Burns même s’il est un peu en deçà des deux premiers.
