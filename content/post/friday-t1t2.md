@@ -4,9 +4,7 @@ title = "Friday tomes 1 et 2"
 date = "2024-02-08"
 tags = [
     "bd","critique","chronique" ]
-ISBNS = [
-   "978-2344055038","978-2344055045" 
-]
+ISBNS = ["978-2344055038","978-2344055045"]
 +++
 
 Dès les délectables premières pages du tome 1 de « Friday », du célèbre scénariste Ed Brubaker et du non moins célèbre dessinateur Marcos Martin, je fus happé.

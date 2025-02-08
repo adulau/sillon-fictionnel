@@ -5,9 +5,7 @@ date = "2024-08-11"
 tags = [
     "bd","critique","chronique","anticipation"
 ]
-ISBN = [
-    "9782344060377"
-]
+ISBN = "9782344060377"
 +++
 
 Les extraterrestres ont quasiment décimé l’humanité avant de la soumettre.

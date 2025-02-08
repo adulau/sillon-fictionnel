@@ -5,9 +5,7 @@ date = "2024-08-11"
 tags = [
     "bd","critique","chronique","société","psychédélisme","psychologie"
 ]
-ISBN = [
-    "9781683968825"
-]
+ISBN = "9781683968825"
 +++
 
 Je viens de finir « Monica », le dernier roman graphique de Daniel Clowes. J’ai adoré. Je dirais qu’il est aussi bon que « Patience » et « Le rayon de la mort ».

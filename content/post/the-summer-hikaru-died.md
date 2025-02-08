@@ -5,9 +5,7 @@ date = "2024-12-26"
 tags = [
    "critique","chronique","paranormal","ésotérisme","manga","thriller"
 ]
-ISBNS = [
-   "9782811678562","9782811682354","9782811688370","9782811693817"
-]
+ISBNS = ["9782811678562","9782811682354","9782811688370","9782811693817"]
 +++
 
 « The Summer Hikaru Died » est une série de mangas en cours de publication chez Pika Édition, écrite et illustrée par Mokumokuren. Les quatre premiers volumes sont très prometteurs.

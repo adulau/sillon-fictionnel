@@ -5,9 +5,7 @@ date = "2024-07-14"
 tags = [
     "bd","critique","chronique","comics","robots","space opera","exploration spatiale"
 ]
-ISBNS = [
-    "9791026825463", "9791026824619"
-]
+ISBNS = ["9791026825463", "9791026824619"]
 +++
 
 J’ai des souvenirs très vivaces de moi, enfant, avec mes parents, sortant d’un magasin, heureux comme tout, avec un Autobot. Mon premier et mon dernier.

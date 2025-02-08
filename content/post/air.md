@@ -5,9 +5,7 @@ date = "2025-01-03"
 tags = [
     "chronique", "recension", "steampunk", "action", "dystopie"
 ]
-ISBNS = [
-   "9782818993439","9791041103553" 
-]
+ISBNS = ["9782818993439","9791041103553"]
 +++
 
 Il y a de cela des décennies, des météorites se sont écrasées sur le pergélisol. Des bactéries furent ainsi libérées, rendant l’air létal.

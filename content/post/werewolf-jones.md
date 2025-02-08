@@ -5,9 +5,7 @@ date = "2024-08-11"
 tags = [
     "bd","critique","chronique","trash","humour"
 ]
-ISBN = [
-    "9781683967712"
-]
+ISBN = "9781683967712"
 +++
 
 
