@@ -8,8 +8,6 @@ tags = [
 ISBN = "9791040805090"
 +++
 
-![](/images/la-forteresse-volante.jpeg)
-
 Vergiate. Lombardie. 13 juin 1933. Un objet volant non identifié apparaît soudain dans la nuit avant de s’écraser brutalement dans un champ. Les vapeurs roses qui s’en dégagent agissent comme un acide, dissolvant jusqu’à l’os les vaches qui paissaient là quelques instants auparavant.
 
 Les pontes de l’Italie fasciste sont rapidement mis au courant. Ils agissent. Et vite. Ils dépêchent une section spéciale sur place pour récupérer l’engin et étouffer dans l’œuf toute rumeur qui viendrait naître dans ce village paumé.
@@ -27,6 +25,8 @@ Et pour combler le tout, des histoires familiales qui appesantissent Vergiate co
 J’ai dégusté cette œuvre comme un bon vin. En prenant mon temps.
 
 Je vous souhaite d’avoir autant de plaisir à la lire qu’elle ne m’en procura. Et si l’électro ne vous désarçonne point trop, mettez en boucle la version remixée par Voltaire de « Tales from the Real World » de Laurent Garnier avant de vous plonger dans cette dystopie.
+
+![](/images/la-forteresse-volante.jpeg)
 
 —
 [La forteresse volante](https://editions-sarbacane.com/bd/la-forteresse-volante). Lorenzo Palloni, Miguel Vila. Sarbacane. 25€.
