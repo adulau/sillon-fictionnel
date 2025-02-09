@@ -56,6 +56,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Dédales](/post/dedales)
 - [Délivrance](/post/delivrance)
 - [Energon Universe (reboot)](/post/energon-universe-reboot)
+- [Et autres manières de finir](/post/autres-manieres-de-finir)
 - [Friday tomes 1 et 2](/post/friday-t1t2)
 - [Frontier - Singelin](/post/frontier-singelin)
 - [Gauloises](/post/gauloises)
