@@ -10,10 +10,9 @@ ISBN = "9791032405123"
 
 Je sais que de nombreuses personnes souhaiteraient voir l’œuvre d'Howard Phillips Lovecraft sombrer dans l'oubli. Elles jugent sa production pitoyable, alambiquée et peu lisible, et dépeignent l'auteur comme réactionnaire, raciste et minable. Tout cela résulte simplement d'une méconnaissance ou, pire encore, d'une ignorance volontaire dans une tentative de faire le "bien"[^1].
 
-![](/images/hpl-1.jpeg)
-
 À l'adolescence, _L'Affaire Charles Dexter Ward_ fut la première œuvre de Lovecraft qui a croisé mon chemin. Ce n'est pas à proprement parler un roman ou une nouvelle ; c'est plutôt une introduction ou un guide pour explorer son univers. En s'y plongeant davantage, on réalise que l'identité de l'auteur importe peu ; lorsqu'on évoque Lovecraft, il s'agit avant tout de création collective. Plus tard, j'ai découvert que cette nouvelle n'avait jamais été publiée de son vivant. August W. Derleth l'a publiée, mais sommes-nous alors en présence d'une nouvelle œuvre artistique ? L'auteur originel a disparu ; il est mort, devenu cette étoile éphémère ayant permis l'émergence d'une nouvelle création. Oubliez l'auteur et ses quelques mots passés ; plongez-vous dans le résultat collaboratif artistique de centaines d'auteurs qui l'ont modelé à leur guise.
 
+![](/images/hpl-1.jpeg)
 ![](/images/hpl-2.jpeg)
 
 *Le dernier jour de Howard Phillips Lovecraft*, de Romuald Giulivo et Jakub Rebelka, est vraiment une pièce graphique à ajouter à cet édifice. Le dernier jour n'est qu'un prétexte pour une plongée dans le chaos artistique de cette œuvre. Une porte pour de nouveaux lecteurs, auteurs et rêveurs.

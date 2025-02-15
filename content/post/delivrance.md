@@ -8,8 +8,6 @@ tags = [
 ISBN = "978-2344048030"
 +++
 
-![](/images/delivrance.jpeg)
-
 Délivrance est une bande dessinée post-apo, scénarisée et dessinée par Kim Gérard. Je fus attiré par le pitch. Seulement voilà. Après un début très prometteur, ça traîne en longueur, ça remplit des pages et des pages de peu ou prou la même chose, avant une fin trop convenue.
 
 C’est comme si vous partiez à l’exploration d’un nouveau territoire, voyant une infinité de chemins devant vous. Mais au fur et à mesure que vous marchez, vous vous rendez compte que vous êtes sur une bande étroite et vous voyez déjà le bout de votre route et la déception à l’horizon.
@@ -21,6 +19,8 @@ La Grande Extinction donc. Comme elle est grande, elle a éradiqué un grand nom
 Condamnés à une vie d’errements sans fin — bien chargée en tourments — ils ne peuvent se donner la mort ni se tuer les uns les autres. Pour revivre un peu, ils doivent se mettre sur la tronche de temps à autre. La violence, donc. Après cela, un peu de répit. Puis les tourments reviennent. Mais si l’on se laisse aller au désespoir, si on lâche prise, alors on se transforme en une sorte de zombie, sans souvenirs ni âme, castagnant tout ce qui bouge.
 
 Il existerait cependant une oasis, un éden où l’on peut revivre à peu près normalement avant d’y mourir paisiblement.
+
+![](/images/delivrance.jpeg)
 
 Nous suivons Ikar, Graham et Maé. Tourmentés, ils tiennent bon et ont espoir de trouver l’oasis. Leur quête sera toutefois — et bien entendu — semée d’embûches. Et quand ils trouvent enfin l’éden, ou du moins ce qui y ressemble, ce n’est pas tout à fait ce que la légende urbaine vend. Bon niveau urbanisme, vous repasserez vu que la civilisation s’est écroulée, mais, étant en manque de blanquette, je suis à court d’inspiration. Un peu comme Kim Gérard après un début d’histoire qui cartonne.
 

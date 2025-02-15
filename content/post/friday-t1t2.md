@@ -11,7 +11,6 @@ Dès les délectables premières pages du tome 1 de « Friday », du célè
 
 C’est comme si « Le Club des cinq » ou « Scooby-doo » s’étaient soudain retrouvés projetés vers l’âge adulte.
 
-![](/images/friday-t1t2.jpeg)
 
 Les mystères — disparitions, enlèvements, faits étranges et surréalistes… — que doivent résoudre Friday Fitzhugh et Lance Jones sont un savoureux mélange de contes de la crypte et d’histoires d’horreur fantastique dignes de maître King.
 
@@ -24,6 +23,8 @@ Alors que le tome 1 met la barre haute, le tome 2 l’élève encore plus. Que
 À chaque page, j’absorbais les émotions dégagées par Friday et Lance et les faisais miennes. Pendant que je lisais, il aurait pu y avoir une guerre thermonucléaire en bas de la rue que j’aurais pris cela pour de la fiction; la réalité se jouait là, devant mes yeux, à Kings Hill, ville enclavée entre une mer houleuse, colérique, et une forêt obscure où les créatures aux sombres desseins pullulent.
 
 Je ne sais comment je vais faire pour attendre la parution du 3e et dernier tome de cet impressionnant triptyque. Il faudra bien prendre son mal en patience en relisant les deux premiers tomes. Je suis sûr que j’ai raté des éléments clés, surtout après ce qui s’est produit dans le second volet.
+
+![](/images/friday-t1t2.jpeg)
 
 Si vous aimez les polars, le fantastique, et les mystères bien ficelés, foncez tête baissée chez votre libraire toutes affaires cessantes ! Vous me remercierez comme d’habitude, avec un sourire, une accolade ou une tablette de chocolat noir de chez Chapon !
 

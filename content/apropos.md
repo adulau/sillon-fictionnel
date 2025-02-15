@@ -31,4 +31,18 @@ L’ensemble du contenu de « Le Sillon Fictionnel » est disponible sous la
 
 Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre projet, que ce soit par des critiques, des suggestions de livres, ou toute autre forme d’apport créatif, n’hésitez pas à le faire via notre dépôt GitHub. Visitez [notre page GitHub](https://github.com/adulau/sillon-fictionnel) pour plus d’informations sur la manière de contribuer.
 
+# Errances typographiques 
+
+Après maintes hésitations, j’ai tâtonné pour trouver une police de caractère pour Le Sillon. Au départ, le modernisme m’a fait douter de l’usage d’une police à empattement pour le site du club Sillonesque. J’ai d’abord opté pour une police proche d’Helvetica. On disait que c’était la police des gens branchés, facile à lire ; mon esprit devenait hipster. Puis des doutes se sont installés. Pourquoi cette ligature étrange dans fictionnel ? Pourquoi l’empattement est-il si présent dans les livres ? Pourquoi les belles éditions (hors photographie et art contemporain) n’utilisent-elles pas ces polices sans empattement ?
+
+Alors, j’ai tenté une police moderne avec un empattement léger, installée une heure durant sur le site web du Sillon. La police Alice, dessinée par Ksenya Erulevich, est belle, moderne, quelque part entre le hipster et le responsable marketing d’une entreprise en hibernation à Paris, sirotant un café péruvien biologique en pleine reconversion.
+
+En regardant de plus près le site, une étrange impression m’a saisi : c’est beau, mais cela ne va pas durer. Un peu comme une œuvre d’art. Vous la contemplez, mais vous savez qu’après quelques semaines, vous ne la remarquerez plus. Elle aura disparu de votre esprit, ne devenant qu’un misérable bout de papier.
+
+Mais comment choisir une police de caractère ? Je plonge dans mes bibliothèques à la recherche de livres sur la typographie. Des pages et des pages de caractères, d’histoires de typographes, de conseils de lisibilité... Le dédale grandit, mes yeux se brouillent, mon esprit s’évapore… Je suis perdu.
+
+Rien de tel que d’examiner les rayonnages pour trouver l’inspiration. Entre un bouquin d’Isaac Asimov et un autre de Bruce Sterling, je tombe sur Le Maître de Garamond[^2] d’Anne Cuneo. Bingo, j’ai trouvé ! Claude Garamond a fait le boulot en 1550, alors pourquoi chercher plus loin ? Surtout qu’une grande majorité des livres utilisent encore aujourd’hui une variante de Garamond. Avec un peu de recherche, on peut même trouver une police libre inspirée du travail de Garamond : [EB Garamond](https://fr.wikipedia.org/wiki/EB_Garamond), basée sur une impression de 1592, l’Egenolff-Berner. Moderne tout en étant ancien… et sous licence libre.
+
+
 [^1]: Glaucome aigu par fermeture de l'angle.
+[^2]: Le Maître de Garamond: Antoine Augereau, graveur, imprimeur, éditeur, libraire Poche – 20 octobre 2004.

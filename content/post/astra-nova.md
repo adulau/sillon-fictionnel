@@ -8,8 +8,6 @@ tags = [
 ISBN = "978-2-39004-102-3"
 +++
 
-![](/images/astra-nova.jpeg)
-
 Je me suis laissé tenter par « Astra Nova », le dernier album de Lisa Blumen, après le très oubliable « Avant l’oubli », dont bien des libraires et des critiques firent les louanges.
 
 Je m’étais pourtant promis de ne pas mordre de nouveau à l’hameçon de la mise en avant un peu trop appuyée. Mais un je-ne-sais-quoi m’attirait dans le dessin de la couverture et la typo qui l’accompagne.
@@ -21,6 +19,8 @@ Bon je m’égare. Mon agacement est manifeste. Revenons-en à « Astra Nova �
 Cette fois-ci, Lisa nous invite à suivre les dernières heures sur terre de Nova, une astronaute qui s’apprête à partir en solitaire à des années-lumière pour explorer une lointaine planète sans retour possible. La bureaucratie exige cependant de l’agence spatiale qui l’emploie de lui organiser une fête avec ses amis avant le grand départ.
 
 Sauf que Nova a peu, très peu d’amis. De plus, elle ne les a pas vus depuis un paquet d’années. Elle vit très bien seule. Les retrouvailles s’annoncent donc pour le moins délicates.
+
+![](/images/astra-nova.jpeg)
 
 Lisa explore des sujets assez brûlants de notre société moderne et on se laisse porter par le flow au juste tempo de cette histoire jusqu’à la dernière page. Puis, on repose l’œuvre et on ressent au fond de sa bouche un petit goût d’amertume avec un zeste de nostalgie saupoudrée de regrets.
 
