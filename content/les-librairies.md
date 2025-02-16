@@ -1,7 +1,7 @@
 +++
 title = "Les librairies du Sillon"
 description = "Des librairies pour les Sillonistes"
-date = "2025-01-12"
+date = "2025-02-16"
 aliases = ["librairie", "sillon fictionnel"]
 author = "les Sillonneurs"
 summary = " "
@@ -35,5 +35,11 @@ univers littéraire.
 
 # Les librairies
 
+## France
+
 - [La Librairie - Les Parages](/post/librairie-les-parages/) - 89 rue sedaine, 75011 Paris
 - [Librairie - Petite Egypte](/post/spectres-de-ma-vie/) - 35 rue des Petits Carreaux, 75002 Paris
+
+## Belgique
+
+- [Librairie Livre aux Trésors](https://www.leslibrairiesindependantes.be/librairie/44-livre-aux-tresors) - Place Xavier-Neujean 27/A, 4000 Liège
