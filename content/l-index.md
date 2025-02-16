@@ -76,6 +76,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [La singularité](/post/la-singularite)
 - [La vérité, le mensonge, et l’humain tapi entre les deux](/post/verite-mensonge-humain)
 - [Lac Noir](/post/roseline-lamber-lac-noir)
+- [Le Backpacker Killer](/post/le-backpacker-killer)
 - [Le carcan](/post/le-carcan)
 - [Le cauchemar climatisé](/post/le-cauchemar-climatise)
 - [Le dernier jour de Howard Phillips Lovecraft](/post/le-dernier-jour-de-hpl)
