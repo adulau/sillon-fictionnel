@@ -18,6 +18,8 @@ Au-delà de la simple préservation, cette recherche explore également les tran
 
 Le livre est une belle édition multilingue, richement documentée et truffée de détails fascinants pour les passionnés de typographie. Il met également en lumière un travail méticuleux visant à préserver un patrimoine graphique souvent sous-estimé.
 
+Publié par *Surfaces Utiles*, cet ouvrage est disponible au prix de 37 EUR sur [surfaces-utiles.org](https://surfaces-utiles.org).
+
 ![Publi Fluor, le livre.](/images/publifluor.jpeg)
 ![Publi Fluor, la vitrine de la boutique.](/images/publifluor-vitrine.jpeg)
 
