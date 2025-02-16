@@ -16,15 +16,13 @@ Mais ce qui est encore plus fascinant, c’est le travail d'archivage et d’inv
 
 Au-delà de la simple préservation, cette recherche explore également les transmissions, les adaptations et l’influence de cette esthétique singulière sur le design contemporain, montrant ainsi comment un patrimoine graphique peut continuer à vivre et à inspirer de nouvelles générations.
 
-Le livre est une belle édition multi-lingue, bien documentée et remplie de détails croustillant pour les fans de typographies mais aussi d’un travail méticuleux sur un patrimoine souvent sous-estimé.  Le livre est publié et disponible chez [surfaces-utiles.org](http://surfaces-utiles.org/) au prix de 37 EURO.
-
 Le livre est une belle édition multilingue, richement documentée et truffée de détails fascinants pour les passionnés de typographie. Il met également en lumière un travail méticuleux visant à préserver un patrimoine graphique souvent sous-estimé.
 
 ![Publi Fluor, le livre.](/images/publifluor.jpeg)
-![Publu Fluor, la boutique.](/images/publifluor-vitrine.jpeg)
+![Publi Fluor, la vitrine de la boutique.](/images/publifluor-vitrine.jpeg)
 
 ---
-[Publi Fluor.  Affaires de lettre à Bruxelles Letterzaken in Brussel Letter business in Brussels](http://surfaces-utiles.org/publi-fluor-affaires-de-lettres-a-bruxelles-letterzaken-in-brussel-letter-business-in-brussels.html)
+[Publi Fluor.  Affaires de lettre à Bruxelles Letterzaken in Brussel Letter business in Brussels](http://surfaces-utiles.org/publi-fluor-affaires-de-lettres-a-bruxelles-letterzaken-in-brussel-letter-business-in-brussels.html), 7 colors, softcover, swiss binding, 384 pages.
 
 [^1]: La licence [CC4r](https://constantvzw.org/wefts/cc4r.fr.html) est une licence dérivée de la licence [Art Libre](http://artlibre.org/licence/lal/en/), une licence libre de type "copyleft" reconnue par la FSF, dont la version 1.3 clarifie son utilisation et sa compatibilité.  La licence CC4r est une licence Art Libre avec une section 0 qui introduit des conditions particulières, notamment cette phrase énigmatique : *The invitation to (re-)use the work licenced under CC4r applies as long as the FUTURE AUTHOR is convinced that this does not contribute to oppressive arrangements of power, privilege and difference.* Comme mentionné dans la section 5, il ne s'agit pas d'une licence libre. On se retrouve donc avec une licence propriétaire qui semble également restreindre la distribution du travail sous cette licence, sans que les conditions soient clairement définies.  [Le changement de licence semble assez récent](https://gitlab.constantvzw.org/osp/foundry.crickx/-/commit/094659b376a1ee24b23519c05f887cf5823b640f), puisque le travail était auparavant disponible sous la licence SIL 1.1.
 
