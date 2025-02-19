@@ -5,7 +5,7 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
     {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ .Params.tags }}</h2>
   {{ end }}
     </div>
   </div>
