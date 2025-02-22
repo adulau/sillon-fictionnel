@@ -8,6 +8,7 @@
 
 import argparse
 from os import walk
+import re
 
 # ISBN Obscure Library
 from isbnlib import meta
@@ -16,13 +17,15 @@ SERVICE = "wiki"
 
 content_path = "../content/post/"
 
+g_footnote = 1
+
 
 def get_article():
     articles = []
     for dirpath, dirnames, filenames in walk(content_path):
         for article in filenames:
             articles.append(f'{dirpath}{article}')
-    return articles
+    return sorted(articles)
 
 
 def extract_isbn(path=None):
@@ -58,6 +61,39 @@ def extract_title(path=None):
             return title
 
 
+def extract_content(path=None, image_rewrite=True):
+    link = re.compile(r'[^(?<=\n)](\[\^([\d]+)\])')
+    label = re.compile(r'(?<=\n)\[\^([\d]+)]:\s?(.*)')
+    global g_footnote
+    if path is None:
+        return None
+    f = open(path, 'r')
+    i = 0
+    content = ""
+    for line in f.readlines():
+        if image_rewrite:
+            line = line.replace("/images", "./images")
+        if line.startswith("+++"):
+            i = i + 1
+            next
+        if i == 2:
+            i = i + 1
+            next
+        elif i == 3:
+            content = content + line
+    ## bricolage to remplace footnote number with the global number for a single markdown document
+    links = link.findall(content)
+    labels = dict(
+        label.findall(content)
+    )  ## to keep if I want to create a book with footnotes only ;-)
+    for link in links:
+        g_footnote = g_footnote + 1
+        c = content.replace(link[0], f'[^{g_footnote}]')
+        content = c
+
+    return content
+
+
 parser = argparse.ArgumentParser(
     description="ISBN tooling for the famous Sillon Fictionnel"
 )
@@ -72,6 +108,13 @@ parser.add_argument(
     action="store_true",
     help="Generate index of all the pages in Markdown",
 )
+parser.add_argument(
+    "-d",
+    "--dump",
+    action="store_true",
+    help="Dump all the content in a single markdown.",
+)
+
 
 args = parser.parse_args()
 
@@ -101,3 +144,10 @@ if args.index:
     s = sorted(i, key=lambda x: x[1].lower())
     for x in s:
         print(f"- [{x[1]}]({x[0]})")
+
+if args.dump:
+    for article in get_article():
+        title = extract_title(path=article)
+        print(f"# {title}")
+        content = extract_content(path=article)
+        print(f"{content}")
