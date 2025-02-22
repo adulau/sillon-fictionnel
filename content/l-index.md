@@ -66,6 +66,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Horizons obliques](/post/horizons-obliques)
 - [Idéal](/post/ideal)
 - [Incognita Incognita ou le plaisir de trouver ce qu’on ne cherchait pas de Mark Forsyth](/post/incognita-incognita)
+- [Invader in Conversation with Hans Ulrich Obrist](/post/invader)
 - [Kaya](/post/kaya)
 - [L'escamoteur](/post/l-escamoteur)
 - [La brume l'emportera](/post/La-brume)
