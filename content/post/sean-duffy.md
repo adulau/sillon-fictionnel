@@ -8,7 +8,6 @@ tags = [
 ISBN = "978-2-253-17772-2"
 +++
 
-![](/images/une_terre_si_froide.webp)
 
 J'ai découvert ce premier livre au hasard d'échange de livres
 numériques avec des amis. Et j'ai dévoré les trois publiés en français à ce
@@ -44,6 +43,7 @@ Bref, c'est magnifique. Si vous avez aimé les aventures de [Bernhard
 Gunther](https://fr.wikipedia.org/wiki/Bernhard_Gunther), l'ex-flic devenu
 détective privé, au cœur du 3e Reich, vous devriez vous régaler.
 
+![](/images/une_terre_si_froide.jpeg)
 —
 Série Sean Duffy:
 1. Une terre si froide, Adrian McKinty. Stock, 2013

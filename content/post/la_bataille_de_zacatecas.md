@@ -8,7 +8,6 @@ tags = [
 ISBN = "9791092457094"
 +++
 
-![](/images/la_bataille_de_zacatecas.webp)
 
 Paco Ignacio Taibo II est mon auteur mexicain de roman noir favori. En même
 temps, c'est le seul, donc il faut peut-être relativiser, comme disait
@@ -39,6 +38,8 @@ l'Illiade était racontée sous forme de comic strips.
 
 Bref, ne passons pas à coté des choses simples, comme on dit chez les
 usurpateurs mexicains, et précipitez-vous sur ce petit bijou.
+
+![](/images/la_bataille_de_zacatecas.jpeg)
 
 —
 [La bataille de Zacatecas](https://www.babelio.com/livres/Taibo-II-Pancho-Villa--La-bataille-de-Zacatecas/802852). Paco Ignacio Taibo II & Eko. Éditions Nada. 28 €.
