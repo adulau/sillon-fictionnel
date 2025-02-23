@@ -162,7 +162,7 @@ if args.index:
 if args.dump:
     for article in get_article():
         title = extract_title(path=article)
-        print(f"# {title}")
+        print(f"## {title}")
         url = extract_url(path=article)
         print(f"Disponible sur le Sillon Fictionnel [{url}]({url})")
         content = extract_content(path=article)
