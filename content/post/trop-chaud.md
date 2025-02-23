@@ -21,6 +21,6 @@ Elle ouvrit lentement la bouche, avec un léger sourire qui semblait révéler u
 
 Il y eut ce moment de grâce entre l'étonnement, la familiarité et une amitié étincelante.
 
-# épilogue
+### épilogue
 
 Je m'étais lancé dans l'idée de faire une revue détaillée des Rencontres d'Arles, cette grande célébration annuelle de la photographie que je ne manque rarement. Je comptais partager mes impressions sur les expositions, l'architecture imposante de la Fondation Luma, et bien sûr, sur les artistes qui m'avaient marqué cette année. Cependant, au fil de l'écriture, les souvenirs de chaleur étouffante, de rencontres inattendues et de moments d'introspection se sont entremêlés. Le récit a finalement pris une autre direction. Ce qui devait être un compte rendu s'est peu à peu transformé en une sorte de nouvelle, où les photographies et les lieux sont devenus les décors d'une expérience personnelle plus intime et inattendue.
