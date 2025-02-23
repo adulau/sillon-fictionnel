@@ -119,3 +119,9 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Werewolf Jones & Sons - Deluxe Summer Fun Annual](/post/werewolf-jones)
 - [Yellowface](/post/yellowface)
 
+# Le Sillon en revue
+
+Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.
+
+- [Le Sillon Fictionnel en revue PDF](https://sillon-fictionnel.club/le-sillon-revue.pdf).
+- [Le Sillon Fictionnel en revue EPUB pour votre liseuse](https://sillon-fictionnel.club/le-sillon-revue.epub).

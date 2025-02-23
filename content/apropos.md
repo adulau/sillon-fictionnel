@@ -43,6 +43,12 @@ Mais comment choisir une police de caractère ? Je plonge dans mes bibliothèque
 
 Rien de tel que d’examiner les rayonnages pour trouver l’inspiration. Entre un bouquin d’Isaac Asimov et un autre de Bruce Sterling, je tombe sur Le Maître de Garamond[^2] d’Anne Cuneo. Bingo, j’ai trouvé ! Claude Garamond a fait le boulot en 1550, alors pourquoi chercher plus loin ? Surtout qu’une grande majorité des livres utilisent encore aujourd’hui une variante de Garamond. Avec un peu de recherche, on peut même trouver une police libre inspirée du travail de Garamond : [EB Garamond](https://fr.wikipedia.org/wiki/EB_Garamond), basée sur une impression de 1592, l’Egenolff-Berner. Moderne tout en étant ancien… et sous licence libre.
 
+# Le Sillon en revue
+
+Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.
+
+- [Le Sillon Fictionnel en revue PDF](https://sillon-fictionnel.club/le-sillon-revue.pdf).
+- [Le Sillon Fictionnel en revue EPUB pour votre liseuse](https://sillon-fictionnel.club/le-sillon-revue.epub).
 
 [^1]: Glaucome aigu par fermeture de l'angle.
 [^2]: Le Maître de Garamond: Antoine Augereau, graveur, imprimeur, éditeur, libraire Poche – 20 octobre 2004.
