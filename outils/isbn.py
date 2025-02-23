@@ -14,6 +14,7 @@ import re
 from isbnlib import meta
 
 SERVICE = "wiki"
+host = "sillon-fictionnel.club"
 
 content_path = "../content/post/"
 
@@ -61,12 +62,25 @@ def extract_title(path=None):
             return title
 
 
+def extract_url(path=None):
+    if path is None:
+        return None
+    ## Extract post url
+    post_names = path.split(".")[-2].split("/")
+    post_name = f'{post_names[2]}/{post_names[3]}'.lower()
+    post_url = f'https://{host}/{post_name}'
+    return post_url
+
+
 def extract_content(path=None, image_rewrite=True):
+    ## Footnote
     link = re.compile(r'[^(?<=\n)](\[\^([\d]+)\])')
     label = re.compile(r'(?<=\n)\[\^([\d]+)]:\s?(.*)')
     global g_footnote
+
     if path is None:
         return None
+
     f = open(path, 'r')
     i = 0
     content = ""
@@ -149,5 +163,7 @@ if args.dump:
     for article in get_article():
         title = extract_title(path=article)
         print(f"# {title}")
+        url = extract_url(path=article)
+        print(f"Disponible sur le Sillon Fictionnel [{url}]({url})")
         content = extract_content(path=article)
         print(f"{content}")
