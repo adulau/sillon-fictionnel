@@ -32,6 +32,7 @@ Votre participation est la bienvenue ! Si vous souhaitez contribuer à notre pro
    - Attention à la date qui peut avoir une influence sur la non-publication si c'est dans le futur.
 - Les en-têtes possibles sont `author` pour l'auteur de la chronique, `title` pour le titre de la chronique, `date` pour la date de publication, et `tags` qui est une liste de labels utilisés pour [faciliter la navigation sur le site](https://sillon-fictionnel.club/tags/) (par exemple, `bd`, `chronique`, `livre`). N'hésitez pas à réutiliser ce qui existe déjà.
 - Vous pouvez ajouter `ISBN` pour la référence du livre, ou `ISBNs` pour les références des livres.
+- Pour les images, `jpeg` ou `png` uniquement (pour faciliter la conversion vers PDF et ePUB) et si possible vers la fin de la chronique.
 - Vous pouvez aussi ajouter un fichier sonore (externe ou interne) en incluant une ligne `{{< audio "https://archive.org/foo/bar.mp3" >}}`. Un lecteur audio sera alors disponible au début de la page. L'utilisation du tag `radio-sillon` est aussi la bienvenue.
 - Vous pouvez reprendre un texte existant pour vous assurer que la structure soit respectée.
 
