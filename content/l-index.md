@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-02-08"
+date = "2025-03-14"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -98,6 +98,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Night Club](/post/night-club)
 - [Numéro Deux](/post/numero-deux)
 - [Oli Kellett - Cross Road Blues](/post/oli-kellett-cross-road-blues)
+- [On Mass Hysteria – Une histoire de la misogynie](/post/masshysteria)
 - [Only Lovers Left Alive](/post/only-lovers-left-alive)
 - [Pancho Villa - La bataille de Zacatecas](/post/la_bataille_de_zacatecas)
 - [Publi Fluor - Affaires de Lettres à Bruxelles](/post/publi-fluor)

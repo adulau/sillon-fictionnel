@@ -3,9 +3,8 @@ author = "H. Galois"
 title = "On Mass Hysteria – Une histoire de la misogynie"
 date = "2025-03-14"
 tags = [
-    "exposition","photo"
+    "exposition", "photo"
 ]
-
 +++
 
 Une exposition de Laia Abril
@@ -35,7 +34,7 @@ Jamais je n’avais ressenti si intensément l’impression d’être dans un do
 
 ***
 
-Une exposition de Laia Abril
+Une exposition de [Laia Abril](https://www.laiaabril.com/)
 Du vendredi 17 janvier au dimanche 18 mai 2025
 Le BAL
 6, impasse de la Défense, Paris 18e
