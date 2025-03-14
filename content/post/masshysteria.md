@@ -3,7 +3,7 @@ author = "H. Galois"
 title = "On Mass Hysteria – Une histoire de la misogynie"
 date = "2025-03-14"
 tags = [
-    "exposition", "photo"
+    "exposition", "photo", "photographie"
 ]
 +++
 
