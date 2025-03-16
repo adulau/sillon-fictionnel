@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-03-14"
+date = "2025-03-16"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -85,6 +85,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [le film de notre conscience](/post/le-film-de-notre-conscience)
 - [Le reich de la lune](/post/le-reich-de-la-lune)
 - [Le Roi Méduse - 1](/post/le-roi-meduse-1)
+- [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Les furtifs](/post/lesfurtifs)
 - [Les Navigateurs](/post/les-navigateurs)
 - [Livres en feu](/post/livres-en-feu)
