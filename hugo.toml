@@ -53,6 +53,10 @@ defaultContentLang = 'fr'
     name = "l'index"
     url = "/l-index"
     weight = 5
+  [[menus.main]]
+    name = "auteurs"
+    url = "/auteurs"
+    weight = 6
 
 [taxonomies]
   series = 'series'

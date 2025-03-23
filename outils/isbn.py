@@ -72,6 +72,16 @@ def extract_url(path=None):
     return post_url
 
 
+def extract_author(path=None):
+    if path is None:
+        return None
+    f = open(path, 'r')
+    for line in f.readlines():
+        if line.startswith("author"):
+            author = line.split("=")[1].replace("\"", "").rstrip().lstrip()
+            return author
+
+
 def extract_content(path=None, image_rewrite=True):
     ## Footnote
     link = re.compile(r'[^(?<=\n)](\[\^([\d]+)\])')
@@ -123,6 +133,13 @@ parser.add_argument(
     help="Generate index of all the pages in Markdown",
 )
 parser.add_argument(
+    "-a",
+    "--authors",
+    action="store_true",
+    help="Generate index of all the authors pages in Markdown",
+)
+
+parser.add_argument(
     "-d",
     "--dump",
     action="store_true",
@@ -158,6 +175,24 @@ if args.index:
     s = sorted(i, key=lambda x: x[1].lower())
     for x in s:
         print(f"- [{x[1]}]({x[0]})")
+
+if args.authors:
+    i = {}
+    for article in get_article():
+        title = extract_title(path=article)
+        authors = extract_author(path=article)
+        url = article.split('/', -1)[-1].split('.')[0]
+        furl = f"/post/{url}"
+        final_link = f"[{title}]({furl})"
+        if authors not in i:
+            i[authors] = []
+        i[authors].append(final_link)
+    # print(i)
+    for counter, author in enumerate(sorted(i)):
+        print(f"\n## {author}")
+        for page in i[author]:
+            print(f"- {page}")
+
 
 if args.dump:
     for article in get_article():
