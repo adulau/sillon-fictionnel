@@ -2,6 +2,12 @@
 #
 # Tooling for sillon-fictionnel.club
 #
+#  - Handle pages from a hugo repository (this could be used by other static
+#  website having a large set of Markdown pages).
+#  - Functionalities including dump all the markdown pages in a single page.
+#  - Extract fields to build list or handle specific one like ISBN for the case
+#  of the sillon-fictionnel.club
+#
 # Copyright (C) 2025 Alexandre Dulaunoy
 #
 # Licensed under AGPL version 3
