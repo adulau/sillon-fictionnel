@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-03-23"
+date = "2025-03-30"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -9,6 +9,7 @@ summary = ""
 # Index des pages Sillonesques par auteur
 
 ## Alexandre Dulaunoy
+- [Thomas E. Florin, Autodafé, Comment les livres ont gâché ma vie](/post/autodafe-thomas-e-florin)
 - [Et autres manières de finir](/post/autres-manieres-de-finir)
 - [Blue Bacon - Yannick Haenel](/post/blue-bacon-yannick-haenel)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
