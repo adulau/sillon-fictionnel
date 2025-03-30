@@ -20,4 +20,4 @@ Mais je vous conseille d’acheter le livre directement dans sa boutique à Pari
 
 Rien de tel : il n’était pas là, mais ses deux « esclaves » Pauline et JR (pas celui du street art) tiennent la boutique d’une main de maître. Ils sont compétents et apportent, en plus, une petite touche « fashion » typique de Belleville, qui donne une atmosphère artistique à l’endroit. Mais surtout, je suis désormais l’heureux possesseur d’un doigt d’honneur en tampon graphique !
 
-![Le Tampographe Sardon, le live!](/images/tampon.jpeg)
+![Le Tampographe Sardon, le livre!](/images/tampon.jpeg)
