@@ -20,9 +20,9 @@ Ma divagation dans cette chronique n’est pas due à une consommation excessive
 
 Il semble que l’auteur, Thomas E. Florin, a écrit ce livre sur son iPhone pendant un voyage en train (en France, ils disent “Transilien”, chez nous en Belgique, c’est juste un bête train). Ce livre est un peu tout à la fois, mais surtout une ode absurde à l’écriture et à la création artistique dans les banalités du quotidien. L’écriture est efficace. L’auteur ne divague pas, il va droit au but, et c’est rempli de perles comme :
 
-- **“La vérité c’est que tous les écrivains sont des losers. S’ils passent autant de temps chez eux, c’est qu’ils n’ont pas le choix.”**
+- *“La vérité c’est que tous les écrivains sont des losers. S’ils passent autant de temps chez eux, c’est qu’ils n’ont pas le choix.”*
 
-- **“C’est toujours ce que fait l’humain quand il veut éradiquer quelque chose: il s’en prend aux enfants.”**
+- *“C’est toujours ce que fait l’humain quand il veut éradiquer quelque chose: il s’en prend aux enfants.”*
 
 Le livre se termine sur des listes de livres trouvés, et même sur une liste d’œuvres du même auteur… alors qu’il n’a publié qu’un seul bouquin. J’ai aimé, vraiment. L’auteur est peut-être complètement mythomane... mais n’est-ce pas justement ce qu’on cherche dans la littérature ? Cette dose de chaos qui transforme nos vies en un beau bordel, et l’art qui nous permet de survivre à la banalité.
 
