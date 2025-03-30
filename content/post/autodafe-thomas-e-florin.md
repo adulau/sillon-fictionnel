@@ -22,7 +22,7 @@ Il semble que l’auteur, Thomas E. Florin, a écrit ce livre sur son iPhone pen
 
 - **“La vérité c’est que tous les écrivains sont des losers. S’ils passent autant de temps chez eux, c’est qu’ils n’ont pas le choix.”**
 
-- **“C’est toujours de que fait l’humain quand il veut éradiquer quelque chose: il s’en prend aux enfants.”**
+- **“C’est toujours ce que fait l’humain quand il veut éradiquer quelque chose: il s’en prend aux enfants.”**
 
 Le livre se termine sur des listes de livres trouvés, et même sur une liste d’œuvres du même auteur… alors qu’il n’a publié qu’un seul bouquin. J’ai aimé, vraiment. L’auteur est peut-être complètement mythomane... mais n’est-ce pas justement ce qu’on cherche dans la littérature ? Cette dose de chaos qui transforme nos vies en un beau bordel, et l’art qui nous permet de survivre à la banalité.
 
