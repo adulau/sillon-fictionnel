@@ -32,6 +32,7 @@ summary = ""
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Chronique - Libertés d'écoute - Le son, véhicule de la relation](/post/liberte-d-ecoute)
 - [La Librairie - Les Parages](/post/librairie-les-parages)
+- [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
 - [Max Cooper - 3D/AV Live](/post/max-cooper)
 - [Ménilmontant](/post/menilmontant)
