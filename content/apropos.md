@@ -50,5 +50,9 @@ Le Sillon Fictionnel est un espace littéraire original qui offre une parenthès
 - [Le Sillon Fictionnel en revue PDF](https://sillon-fictionnel.club/le-sillon-revue.pdf).
 - [Le Sillon Fictionnel en revue EPUB pour votre liseuse](https://sillon-fictionnel.club/le-sillon-revue.epub).
 
+# Comité éditorial du Sillon Fictionnel
+
+Comme toute institution culturelle, nous disposons d'un [comité éditorial](/comite/). Le Sillon Fictionnel dispose d'un numéro international normalisé des publications en série (ISSN) qui est `3041-6884`.
+
 [^1]: Glaucome aigu par fermeture de l'angle.
 [^2]: Le Maître de Garamond: Antoine Augereau, graveur, imprimeur, éditeur, libraire Poche – 20 octobre 2004.
