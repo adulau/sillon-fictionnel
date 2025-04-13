@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-03-30"
+date = "2025-04-13"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -88,6 +88,7 @@ summary = ""
 - [Chronique - Cauchemar](/post/cauchemar)
 - [Chronique - Clovd (T1)](/post/clovd-t1)
 - [Colère noire](/post/colere-noire)
+- [Chronique - Cometa](/post/cometa)
 - [Dédales](/post/dedales)
 - [Délivrance](/post/delivrance)
 - [Chronique - Dementia 21 volume 1](/post/dementia21-vol1)

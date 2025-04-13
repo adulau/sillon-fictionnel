@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-03-16"
+date = "2025-04-13"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -23,6 +23,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Chronique - Blood Moon](/post/blood-moon)
 - [Chronique - Cauchemar](/post/cauchemar)
 - [Chronique - Clovd (T1)](/post/clovd-t1)
+- [Chronique - Cometa](/post/cometa)
 - [Chronique - Dementia 21 volume 1](/post/dementia21-vol1)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
 - [Chronique - Fort Alamo](/post/fort-alamo)
@@ -124,7 +125,6 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Vivonne de Jérôme Leroy](/post/vivonne)
 - [Werewolf Jones & Sons - Deluxe Summer Fun Annual](/post/werewolf-jones)
 - [Yellowface](/post/yellowface)
-
 # Le Sillon en revue
 
 Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.
