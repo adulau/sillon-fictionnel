@@ -15,7 +15,10 @@
 import argparse
 from os import walk
 import re
+from datetime import datetime, timedelta
 
+# dateparser
+import dateparser
 # ISBN Obscure Library
 from isbnlib import meta
 
@@ -67,6 +70,14 @@ def extract_title(path=None):
             title = line.split("=")[1].replace("\"", "").rstrip().lstrip()
             return title
 
+def extract_date(path=None):
+    if path is None:
+        return None
+    f = open(path, 'r')
+    for line in f.readlines():
+        if line.startswith("date"):
+            date_post = line.split("=")[1].replace("\"", "").rstrip().lstrip()
+            return dateparser.parse(date_post)
 
 def extract_url(path=None):
     if path is None:
@@ -152,6 +163,13 @@ parser.add_argument(
     help="Dump all the content in a single markdown.",
 )
 
+parser.add_argument(
+    "-t",
+    "--time",
+    action="store",
+    help="Specify the number of days to filter. Integer value which is used as delta. Default is 31 days.",
+    default=31
+)
 
 args = parser.parse_args()
 
@@ -202,6 +220,12 @@ if args.authors:
 
 if args.dump:
     for article in get_article():
+        # Skip if outside the date range
+        postdate = extract_date(path=article)
+        today = datetime.now()
+        if postdate < today - timedelta(days=int(args.time)):
+            continue
+
         title = extract_title(path=article)
         print(f"## {title}")
         url = extract_url(path=article)
