@@ -13,8 +13,6 @@ Jamais je n’avais ressenti si intensément l’impression d’être dans un do
 
 ![](/images/Misogynie1.jpeg)
 
-![](/images/Misogynie2.jpeg)
-
 ![](/images/Misogynie3.jpeg)
 
 ![](/images/Misogynie4.jpeg)
