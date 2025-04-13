@@ -10,8 +10,6 @@ ISBN = "9782731603859"
 
 Je viens de poser Cometa d’Elie Huault, après l’avoir lu pour la seconde fois en moins d’une heure, tellement l’univers représenté dans cet ovni graphique — qualificatif donné à cet ouvrage par Métal Hurlant et qui lui sied à merveille — m’a fasciné.
 
-![](/images/cometa.jpeg)
-
 Je m’apprête à le savourer pour la troisième fois. Mais avant cela, je voulais vous en toucher quelques mots, afin de vous encourager à l’acheter, si vous aimez Mœbius, Druillet et la SF de leur époque bénie.
 
 Dès la première page de Cometa, j’ai senti le profond respect que l’auteur a pour ses illustres prédécesseurs. Ce sentiment ne m’a point quitté jusqu’à la fin.
@@ -23,6 +21,8 @@ On y voit un spationaute dépêché sur une étrange et lointaine planète pour 
 Après avoir enfin découvert la précieuse balise, il s’apprête à repartir, mais la planète semble déterminée à l’en empêcher…
 
 Au-delà du bel hommage, Elie nous donne là une belle matière à nourrir l’imaginaire, suscitant plus de questions qu’il n’apporte de réponses.
+
+![Couverture de Cometa, Elie Huault. Les Humanoïdes Associés](/images/cometa.jpeg)
 
 —
 [Cometa](https://www.humano.com/album/37902). Elie Huault. Les Humanoïdes Associés. 19,95 €.
