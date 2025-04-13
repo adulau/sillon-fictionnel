@@ -19,6 +19,7 @@ from datetime import datetime, timedelta
 
 # dateparser
 import dateparser
+
 # ISBN Obscure Library
 from isbnlib import meta
 
@@ -70,6 +71,7 @@ def extract_title(path=None):
             title = line.split("=")[1].replace("\"", "").rstrip().lstrip()
             return title
 
+
 def extract_date(path=None):
     if path is None:
         return None
@@ -78,6 +80,7 @@ def extract_date(path=None):
         if line.startswith("date"):
             date_post = line.split("=")[1].replace("\"", "").rstrip().lstrip()
             return dateparser.parse(date_post)
+
 
 def extract_url(path=None):
     if path is None:
@@ -168,7 +171,7 @@ parser.add_argument(
     "--time",
     action="store",
     help="Specify the number of days to filter. Integer value which is used as delta. Default is 31 days.",
-    default=31
+    default=31,
 )
 
 args = parser.parse_args()
@@ -229,6 +232,9 @@ if args.dump:
         title = extract_title(path=article)
         print(f"## {title}")
         url = extract_url(path=article)
-        print(f"Disponible sur le Sillon Fictionnel [{url}]({url})")
+        postdate_fr = postdate.strftime("%d %B %Y")
+        print(
+            f"Disponible sur le Sillon Fictionnel [{url}]({url}) en date du *{postdate_fr}*"
+        )
         content = extract_content(path=article)
         print(f"{content}")
