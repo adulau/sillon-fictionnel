@@ -89,6 +89,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Les furtifs](/post/lesfurtifs)
 - [Les Navigateurs](/post/les-navigateurs)
+- [Les papillons ne meurent pas de vieillesse](/post/les-papillons-nmpdv)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
 - [Max Cooper - 3D/AV Live](/post/max-cooper)
@@ -125,6 +126,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Vivonne de Jérôme Leroy](/post/vivonne)
 - [Werewolf Jones & Sons - Deluxe Summer Fun Annual](/post/werewolf-jones)
 - [Yellowface](/post/yellowface)
+
 # Le Sillon en revue
 
 Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.

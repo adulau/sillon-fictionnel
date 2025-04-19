@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-04-13"
+date = "2025-04-19"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -113,6 +113,7 @@ summary = ""
 - [Le Roi Méduse - 1](/post/le-roi-meduse-1)
 - [Les Navigateurs](/post/les-navigateurs)
 - [Chronique - Les os creux, la tête pleine](/post/les-os-creux-la-tete-pleine)
+- [Les papillons ne meurent pas de vieillesse](/post/les-papillons-nmpdv)
 - [Monica](/post/monica)
 - [Night Club](/post/night-club)
 - [Chronique - Notes sur le sumo](/post/notes-sur-le-sumo)
