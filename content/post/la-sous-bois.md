@@ -34,7 +34,7 @@ L'istoire se situe en l'an 380 après Reset, un évènement que l'on supose cata
 
 Perceval est l'un de ces scribes. Acheté par Igriega, chef de guère, il lui incombe de consigner le quotidien de la caravane dirigée par ce dernier. La République, la seule qui subsisterait dit-on, a confié à cèle-ci la tâche d’aler quérir d’anciènes semences au-delà des limites des téritoires conus pour mètre fin à la famine qui se répand.
 
-Come vous l'aurez saisi, j'ai adoré « La Sous-Bois ». Et si le [Sillon](https://sillon-fictionnel.club/) disposait d’un pris, en jury monocéphale autoproclamé, je l'aurais triplement décerné. À l'auteur, à l'éditeur, et à l'association Érofa. En toute subjectivité sillonnesque, cela va de soi.
+Come vous l'aurez saisi, j'ai adoré « La Sous-Bois ». Et si le [Sillon](https://sillon-fictionnel.club/) disposait d’un pris, en jury monocéphale autoproclamé, je l'aurais triplement décerné. À l'auteur, à l'éditeur, et à l'association Érofa. En toute subjectivité sillonesque, cela va de soi.
 
 ![Couverture de « La Sous-Bois », Christophe Ségas, Éditions Monts Métallifères](/images/la-sous-bois.jpeg)
 
