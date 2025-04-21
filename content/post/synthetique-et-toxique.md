@@ -12,11 +12,11 @@ J’aurais pu passer à côté sans le voir, timidement juché sur le comptoir d
 
 Je ne sais pas ce qui m’a attiré en lui. Peut-être ses couleurs pastel, qui détonnaient parmi les couvertures aguicheuses des capteurs d’attention, celles qui vous disent haut et fort « Prenez-moi ! Achetez-moi ! Ne m’abandonnez pas ! ». Peut-être le joli, doux dessin dont il se drapait, un dessin qui détonnait avec son titre, « Synthétique & toxique ».
 
-Quelque soit la raison, je m’en suis saisi sans même le feuilleter, je l’ai ajouté à la pile déjà importante de mes acquisitions, j’ai réglé le tout et off we go.
+Quelque soit la raison, je m’en suis saisi sans même le feuilleter, je l’ai ajouté à la pile déjà importante de mes acquisitions, j’ai réglé le tout et *off we go*.
 
 Quelque chose en moi sentait que j’allais passer un très agréable moment de lecture en compagnie de Chien Fou, l’autrice, et de ses illustrations. Je ne me trompai pas.
 
-Bien que Chien Fou — une des trois fondatrices de La Fourmi Éditions qui publie cet ouvrage — le qualifie de « roman graphique », terme qui a le chic de m’horripiler au plus haut point, je passe outre, tellement ses dessins sont beaux et les quelques mots dont elle les habille fort à propos.
+Bien que Chien Fou — une des trois fondatrices de La Fourmi Éditions qui publie cet ouvrage — le qualifie de « roman graphique », terme qui a le chic de m’horripiler au plus haut point,[^1] je passe outre, tellement ses dessins sont beaux et les quelques mots dont elle les habille fort à propos.
 
 Prenez cette phrase page 63 : « Souvent je m’interroge sur ce besoin inhérent à l’être humain de chercher des promesses d’éternité ». Tout un monde, nos existences, nos quêtes, nos moteurs, saisis de si élégante façon, synthétique au possible.
 
