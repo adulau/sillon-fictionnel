@@ -24,7 +24,7 @@ S’ensuit alors une chasse désespérée pour retrouver le Parides Ascanius Nol
 
 Malgré une légère baisse de régime vers la fin, cette histoire est captivante, grâce au talent artistique exceptionnel de Bézian, dont les illustrations en noir et blanc, principalement, sont tout simplement remarquables. Les papillons, tels de nos rêves les plus chers et de notre avenir incertain, sont les seuls éléments colorés de cette bande dessinée.
 
-Tels nos rêves et notre avenir, les papillons meurent de nos propres mains, et non de vieillesse tant que nous persistons dans nos errements.
+Tels nos rêves et notre avenir, les papillons meurent de nos propres mains, et non de vieillesse, tant que nous persistons dans nos errements.
 
 ![Couverture de "Les papillons ne meurent pas de vieillesse", Matz, Frédéric Bézian. Casterman](/images/les-papillons-nmpdv.jpeg)
 
