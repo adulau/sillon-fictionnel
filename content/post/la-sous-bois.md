@@ -28,7 +28,7 @@ Au début de ma lecture, je me suis senti désarçoné. Le vieus con en moi, en 
 
 Certes, la bèle langue est religion. La seule qui vaille d'ailleurs au [Sillon](https://sillon-fictionnel.club/apropos/). Mais nous qui aimons tant être surpris. Nous qui aprécions tant en découvrir de nouvèles ramifications et autres branches, nous voilà bien servis.
 
-Qu'est-ce donc « La Sous-Bois » ? C’est une machine à écrire (le nom vient de la marque [Underwood](https://fr.wikipedia.org/wiki/Underwood_(machine_%C3%A0_%C3%A9crire)), vestige de notre monde dans un Moyen-Âge futur, où l’écriture a failli disparaitre à jamais. Seuls quelques scribes savent encore lire et écrire et peuvent s'en servir pour coucher sur papier les actes héroïques, sinon le quotidien des maitres de guère et autres seigneurs qui règnent sur un monde où l'organisation tribale domine.
+Qu'est-ce donc « La Sous-Bois » ? C’est une machine à écrire (le nom vient de la marque [Underwood](https://fr.wikipedia.org/wiki/Underwood_(machine_%C3%A0_%C3%A9crire))), vestige de notre monde dans un Moyen-Âge futur, où l’écriture a failli disparaitre à jamais. Seuls quelques scribes savent encore lire et écrire et peuvent s'en servir pour coucher sur papier les actes héroïques, sinon le quotidien des maitres de guère et autres seigneurs qui règnent sur un monde où l'organisation tribale domine.
 
 L'istoire se situe en l'an 380 après Reset, un évènement que l'on supose cataclismique, mais qui restera mistérieus tout le long des 220 pages de ce beau roman. L'avant Reset, dénomé Istoire-Jadis, est peu conu. Ses traces, au-delà des nombreuses abérations climatiques et génétiques qu'il a laissées en éritage, rares.
 
