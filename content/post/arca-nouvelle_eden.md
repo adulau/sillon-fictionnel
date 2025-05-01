@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Arca ou la nouvelle Éden"
+title = "Arca ou la nouvelle Éden"
 date = "2024-12-22"
 tags = [
     "bd","critique","chronique", "anticipation", "sf", "effondrement"
@@ -23,4 +23,4 @@ Dans cette pièce captivante, un drame spatial à la fin épique, on redécouvre
 ![Couverture d'Arca, ou la Nouvelle Éden](/images/arca-nouvelle_eden.jpeg)
 
 —
-[Arca, ou la Nouvelle Éden](https://www.lisez.com/ebook/arca-ou-la-nouvelle-eden/9791032408926). Jensen, Lonergan. 22 €.
+[Arca, ou la Nouvelle Éden](https://www.lisez.com/ebook/arca-ou-la-nouvelle-eden/9791032408926). Jensen, Lonergan. 404 Éditions. 22 €.
