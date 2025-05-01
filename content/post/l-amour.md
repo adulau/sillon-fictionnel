@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - L'amour"
+title = "L'amour"
 date = "2024-02-22"
 tags = [
     "livre","littérature","roman","critique","chronique"

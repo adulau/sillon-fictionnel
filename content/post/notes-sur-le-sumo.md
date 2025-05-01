@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Notes sur le sumo"
+title = "Notes sur le sumo"
 date = "2024-02-24"
 tags = [
     "bd","critique","chronique"

@@ -1,6 +1,6 @@
 +++
 author = "Alexandre Dulaunoy & Miles Davos"
-title = "Chronique - Le Déviant, vol. 1"
+title = "Le Déviant, vol. 1"
 date = "2024-12-30"
 tags = [
     "bd","critique","chronique", "horreur", "thriller", "société"

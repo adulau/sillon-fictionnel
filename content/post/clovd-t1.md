@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Clovd (T1)"
+title = "Clovd (T1)"
 date = "2024-02-14"
 tags = [
     "bd","critique","chronique"

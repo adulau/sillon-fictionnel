@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Le nécromanchien"
+title = "Le nécromanchien"
 date = "2024-02-10"
 tags = [
     "bd","critique","chronique"

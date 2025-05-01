@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - La forteresse volante"
+title = "La forteresse volante"
 date = "2024-02-01"
 tags = [
     "bd","critique","chronique"

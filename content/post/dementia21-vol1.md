@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Dementia 21 volume 1"
+title = "Dementia 21 volume 1"
 date = "2024-02-24"
 tags = [
     "bd","critique","chronique","manga"

@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - The Summer Hikaru Died"
+title = "The Summer Hikaru Died"
 date = "2024-12-26"
 tags = [
    "critique","chronique","paranormal","ésotérisme","manga","thriller"

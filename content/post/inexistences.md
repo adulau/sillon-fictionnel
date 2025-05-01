@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Inexistences"
+title = "Inexistences"
 date = "2024-02-07"
 tags = [
     "bd","critique","chronique"

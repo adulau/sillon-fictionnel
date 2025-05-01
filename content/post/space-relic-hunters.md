@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Space Relic Hunters"
+title = "Space Relic Hunters"
 date = "2024-02-15"
 tags = [
     "bd","critique","chronique"

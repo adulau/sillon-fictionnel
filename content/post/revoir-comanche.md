@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Revoir Comanche"
+title = "Revoir Comanche"
 date = "2025-01-02"
 tags = [
     "critique", "chronique", "bande dessinée", "amérique", "western", "hommage", "roman graphique"

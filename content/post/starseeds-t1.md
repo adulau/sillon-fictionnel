@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Starseeds T1"
+title = "Starseeds T1"
 date = "2024-02-17"
 tags = [
     "bd","critique","chronique"

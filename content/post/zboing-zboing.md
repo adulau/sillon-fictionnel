@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - zboing zboing"
+title = "zboing zboing"
 date = "2024-02-24"
 tags = [
     "bd","critique","chronique"

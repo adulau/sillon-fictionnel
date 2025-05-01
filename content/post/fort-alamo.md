@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Fort Alamo"
+title = "Fort Alamo"
 date = "2024-12-27"
 tags = [
     "critique", "chronique", "roman", "humour", "société"

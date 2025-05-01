@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Blood Moon"
+title = "Blood Moon"
 date = "2024-02-15"
 tags = [
     "bd","critique","chronique"

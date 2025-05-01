@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Notre besoin de consolation est impossible à rassasier"
+title = "Notre besoin de consolation est impossible à rassasier"
 date = "2024-02-20"
 tags = [
     "livre","littérature","essai","critique","chronique"
