@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Chronique - Cometa"
+title = "Cometa"
 date = "2025-04-13"
 tags = [
     "bd","critique","chronique", "anticipation", "sf", "hommage"
