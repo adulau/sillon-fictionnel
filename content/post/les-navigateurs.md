@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Les Navigateurs"
+title = "Les navigateurs"
 date = "2025-01-26"
 tags = [
     "bd","critique","chronique","art","fantastique","thriller","ésotérisme"
