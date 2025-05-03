@@ -30,7 +30,7 @@ Q Hayashida réussit pour l’instant à maintenir un univers riche et très coh
 
 Si vous aimez le foutraque, la *dark fantasy*, le gore et l’humour en veux-tu en voilà, embarquez vite avec Sanko, Avakian, Death Delamort, Tocard Primus et Cognhard. Vos zygomatiques vous en remercieront, surtout en ces temps tristes et crispants.
 
-![Couverture de Dai Dark Tome 8, Q Hayashida. Soleil Manga](/images/dai-dark-tome8.jpeg)
+![Couverture de Dai Dark Tome 8, Q Hayashida. Soleil Manga](/images/dai-dark-tome8.jpg)
 
 —
 [Dai Dark (série)](https://www.editions-soleil.fr/series/serie-dai-dark). Q Hayashida. Soleil Manga (éditions Soleil). 8 tomes parus. 12,99€ le tome.
