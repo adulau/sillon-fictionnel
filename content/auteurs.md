@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-05-04"
+date = "2025-05-11"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -34,6 +34,7 @@ summary = ""
 - [La Librairie - Les Parages](/post/librairie-les-parages)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
+- [Martha Cooper](/post/martha-cooper)
 - [Max Cooper - 3D/AV Live](/post/max-cooper)
 - [Ménilmontant](/post/menilmontant)
 - [metropolia - Martin Bogren - Atelier EXB](/post/metropolia-martin-bogren)
@@ -94,6 +95,7 @@ summary = ""
 - [Délivrance](/post/delivrance)
 - [Dementia 21 volume 1](/post/dementia21-vol1)
 - [Energon Universe (reboot)](/post/energon-universe-reboot)
+- [Fantasy](/post/fantasy)
 - [Fort Alamo](/post/fort-alamo)
 - [Friday tomes 1 et 2](/post/friday-t1t2)
 - [Gauloises](/post/gauloises)
