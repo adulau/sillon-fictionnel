@@ -8,6 +8,8 @@ tags = [
 ISBNs = ["978-2-36468-713-4", "978-2-36833-517-8"]
 +++
 
+Lire plusieurs livres en parallèle donne une dimension plus riche à ses lectures. On entend souvent dire qu’il est impossible d’apprécier pleinement un ouvrage lorsqu’on en lit plusieurs à la fois. J’ai l’intime conviction que c’est une idée reçue. Notre monde n’est pas constitué de vases clos. On discute, on échange, on crée des ponts. On construit son univers à travers ses lectures, mais aussi grâce à la manière dont on les assemble.
+
 Je ne sais pas trop pourquoi, mais je me suis retrouvé à lire deux livres en même temps. L’un est un livre graphique de François Avril, accompagné d’un texte de Jean-Luc Coatalem, l’autre un ouvrage de Deborah Levy. Je ne connaissais aucun de ces auteurs. J’ai simplement acheté les deux livres pour des raisons totalement irrationnelles. La couverture du livre graphique était tout simplement belle. Quant à l’autre, j’ai été attiré par la typographie, et le lodiciquarte portait une belle citation : « De tous les arts, l’art de vivre est sans doute le plus important. »
 
 D’une part, le livre Trait de Côte est un ouvrage graphique rassemblant plus de 80 œuvres réalisées en techniques mixtes (peinture, dessin, encre de Chine, acrylique…). Il représente la mer et le littoral avec une forte influence bretonne. Les paysages, assez minimalistes, invitent à rêver, à se perdre dans ses pensées. En particulier, la série Isolated House met en scène ces maisons isolées sur le rivage, dont une lueur émane, suggérant la présence d’une vie à l’intérieur de ces demeures silencieuses.
