@@ -31,11 +31,26 @@
 export TEXINPUTS=.:../static/:
 cat entete.md >full.md
 cat apropos.md >>full.md
-python3 isbn.py --dump >>full.md
+python3 isbn.py -t 500 --dump >>full.md
 
-pandoc  --lua-filter=revue.lua -V book=true -V colorlinks=true -V linkcolor=blue  -V urlcolor=red -V toccolor=gray -V lang=fr -V footnotes-pretty=true -V table-use-row-color=true -V toc-own-page=true --template=eisvogel -s --highlight-style=tango --highlight-style=monochrome --resource-path ../static/:. --toc --pdf-engine=xelatex -f gfm full.md -o revue.pdf
 
 pandoc  --lua-filter=revue.lua -V book=true -V colorlinks=true -V linkcolor=blue  -V urlcolor=red -V toccolor=gray -V lang=fr -V footnotes-pretty=true -V table-use-row-color=true -V toc-own-page=true -s --highlight-style=tango --highlight-style=monochrome --resource-path ../static/:. --toc --pdf-engine=xelatex -f gfm full.md -o revue.epub
 
+pandoc  --lua-filter=revue.lua -V book=true -V colorlinks=true -V linkcolor=blue  -V urlcolor=red -V toccolor=gray -V lang=fr -V footnotes-pretty=true -V table-use-row-color=true -V toc-own-page=true --template=eisvogel -s --highlight-style=tango --highlight-style=monochrome --resource-path ../static/:. --toc --pdf-engine=xelatex -f gfm full.md -o revue.pdf
 scp revue.pdf ubuntu@sillon-fictionnel.club:/var/www/sillon-fictionnel.club/le-sillon-revue.pdf
 scp revue.epub ubuntu@sillon-fictionnel.club:/var/www/sillon-fictionnel.club/le-sillon-revue.epub
+
+
+# last 30 days
+
+export TEXINPUTS=.:../static/:
+cat entete-30.md >30.md
+cat apropos.md >>30.md
+python3 isbn.py -t 30 --dump >>30.md
+
+pandoc  --lua-filter=revue.lua -V book=true -V colorlinks=true -V linkcolor=blue  -V urlcolor=red -V toccolor=gray -V lang=fr -V footnotes-pretty=true -V table-use-row-color=true -V toc-own-page=true --template=eisvogel -s --highlight-style=tango --highlight-style=monochrome --resource-path ../static/:. --toc --pdf-engine=xelatex -f gfm 30.md -o 30.pdf
+
+pandoc  --lua-filter=revue.lua -V book=true -V colorlinks=true -V linkcolor=blue  -V urlcolor=red -V toccolor=gray -V lang=fr -V footnotes-pretty=true -V table-use-row-color=true -V toc-own-page=true -s --highlight-style=tango --highlight-style=monochrome --resource-path ../static/:. --toc --pdf-engine=xelatex -f gfm 30.md -o 30.epub
+
+scp 30.pdf ubuntu@sillon-fictionnel.club:/var/www/sillon-fictionnel.club/le-sillon-revue-30.pdf
+scp 30.epub ubuntu@sillon-fictionnel.club:/var/www/sillon-fictionnel.club/le-sillon-revue-30.epub
