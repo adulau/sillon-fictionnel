@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-05-11"
+date = "2025-06-01"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -11,8 +11,10 @@ summary = ""
 ## Alexandre Dulaunoy
 - [Thomas E. Florin, Autodafé, Comment les livres ont gâché ma vie](/post/autodafe-thomas-e-florin)
 - [Et autres manières de finir](/post/autres-manieres-de-finir)
+- [Deborah Levy et Francois Avril](/post/avril-versus-levy)
 - [Blue Bacon - Yannick Haenel](/post/blue-bacon-yannick-haenel)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
+- [Cloé du Trèfle - La Lueur](/post/cloe-du-trefle)
 - [Deux Filles Nues](/post/deux-filles-nues)
 - [Du Rififi à Ménilmontant](/post/du-rififi-a-menilmontant)
 - [Chronique - L’espace commence ainsi](/post/espace-commence-ainsi)
@@ -22,6 +24,7 @@ summary = ""
 - [Incognita Incognita ou le plaisir de trouver ce qu’on ne cherchait pas de Mark Forsyth](/post/incognita-incognita)
 - [Chronique - l'Innommable H.](/post/innommable-h)
 - [Invader in Conversation with Hans Ulrich Obrist](/post/invader)
+- [Joseph Mitchell - Le Fond du port](/post/joseph-mitchell-le-fond-du-port)
 - [Cinéma - Jouer avec le feu](/post/jouer-avec-le-feu)
 - [microessai - la page cornée](/post/la-page-cornee)
 - [Le Backpacker Killer](/post/le-backpacker-killer)
