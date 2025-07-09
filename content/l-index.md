@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-05-11"
+date = "2025-07-09"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -69,6 +69,8 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [La forteresse volante](/post/la-forteresse-volante)
 - [La Librairie - Les Parages](/post/librairie-les-parages)
 - [La petite lumière](/post/la-petite-lumiere)
+- [La photo me regardait](/post/la-photo-me-regardait)
+- [La plus secrète mémoire des hommes](/post/la_plus_secrete_memoire_des_hommes)
 - [La ride](/post/la-ride)
 - [La singularité](/post/la-singularite)
 - [La Sous-Bois](/post/la-sous-bois)
@@ -93,6 +95,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Les salamandres](/post/les-salamandres)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
+- [Ma cabane sans peine](/post/ma-cabane-sans-peine)
 - [Martha Cooper](/post/martha-cooper)
 - [Max Cooper - 3D/AV Live](/post/max-cooper)
 - [metropolia - Martin Bogren - Atelier EXB](/post/metropolia-martin-bogren)

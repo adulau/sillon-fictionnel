@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-06-01"
+date = "2025-07-09"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -27,6 +27,7 @@ summary = ""
 - [Joseph Mitchell - Le Fond du port](/post/joseph-mitchell-le-fond-du-port)
 - [Cinéma - Jouer avec le feu](/post/jouer-avec-le-feu)
 - [microessai - la page cornée](/post/la-page-cornee)
+- [La photo me regardait](/post/la-photo-me-regardait)
 - [Le Backpacker Killer](/post/le-backpacker-killer)
 - [Le cauchemar climatisé](/post/le-cauchemar-climatise)
 - [Le dernier jour de Howard Phillips Lovecraft](/post/le-dernier-jour-de-hpl)
@@ -37,6 +38,7 @@ summary = ""
 - [La Librairie - Les Parages](/post/librairie-les-parages)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
+- [Ma cabane sans peine](/post/ma-cabane-sans-peine)
 - [Martha Cooper](/post/martha-cooper)
 - [Max Cooper - 3D/AV Live](/post/max-cooper)
 - [Ménilmontant](/post/menilmontant)
@@ -74,6 +76,7 @@ summary = ""
 
 ## H. Galois
 - [Commandant](/post/commandant)
+- [La plus secrète mémoire des hommes](/post/la_plus_secrete_memoire_des_hommes)
 - [Les furtifs](/post/lesfurtifs)
 - [On Mass Hysteria – Une histoire de la misogynie](/post/masshysteria)
 - [Mon oncle d'Australie](/post/mon-oncle-d-australie)
