@@ -13,7 +13,7 @@ On peut parfois se croire seul. Ma passion pour la typographie ressemble davanta
 Et puis, une lectrice du Sillon, ce qui est sûrement une personne rare et précieuse, à protéger, me dit :
 « À propos de [Claude Garamont, l'ouvrage éponyme de Rémi Jimenes, paru aux Éditions des Cendres](https://www.editionsdescendres.com/product-page/garamont), est un bijou que je recommande chaudement. »
 
-Alors, j’ai mobilisé l’interweb et ma carte bancaire en plastique pour me procurer Claude Garamont, typographe de l’humanisme, publié par les magnifiques Éditions des Cendres.
+Alors, j’ai mobilisé l’interweb et ma carte bancaire en plastique pour me procurer Claude Garamont, typographe de l’humanisme, publié par les magnifiques Éditions des Cendres[^1].
 
 Ce conseil de lecture s’est révélé être l’un des plus beaux livres que j’aie lus sur la typographie Garamond. Un parcours historique précis et détaillé, qui nous plonge dans les origines de cette typographie utilisée depuis des siècles. L’ouvrage n’a rien d’approximatif : c’est un travail rigoureux de chercheur, nourri de nombreuses archives (souvent méconnues). On y découvre l’histoire du livre, de l’humanisme, mais aussi tout le labeur autour du livre à la Renaissance.
 
@@ -24,5 +24,4 @@ Vous pouvez acheter ce livre, imprimé à Vérone par la maison Bortolazzi, sans
 ---
 Claude Garamont, Rémi Jimenes, Aux Editions des Cendres, 288 pages - isbn 978-2-86742-311-6 - 80 ill. coul. - Broché à rabats - Gaufrage - 39 euros
 
-
-
+[^1]: [Les Éditions des Cendres](https://www.editionsdescendres.com/), installées à Ménilmontant, pourraient faire les frais d'une chronique Sillonesque.
