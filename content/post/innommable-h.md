@@ -21,7 +21,7 @@ Mais le véritable frisson, murmurent-ils entre eux, ne réside pas seulement da
 
 ![Une représentation imaginaire photographique de l'Innommable H](/images/h.jpg)
 
-[^1]: Une erreur a été commise en mentionnant l'Innommable H. dans la 'Chronique - En attendant la fin du monde - Baudouin de Bodinat'. Face à la pression exercée par le club, il m'était impossible de passer sous silence ces pratiques obscures et dangereuses qui risquent (et continuent) d'infecter notre groupe. 
+[^1]: Une erreur a été commise en mentionnant l'Innommable H. dans la '[Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde/)'. Face à la pression exercée par le club, il m'était impossible de passer sous silence ces pratiques obscures et dangereuses qui risquent (et continuent) d'infecter notre groupe. 
 
 [^2]: Un [index inversé](https://fr.wikipedia.org/wiki/Index_librorum_prohibitorum) des livres à possèder dans sa bibliothèque.
 
