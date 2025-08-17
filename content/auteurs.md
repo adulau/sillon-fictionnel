@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-07-09"
+date = "2025-08-17"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -14,6 +14,7 @@ summary = ""
 - [Deborah Levy et Francois Avril](/post/avril-versus-levy)
 - [Blue Bacon - Yannick Haenel](/post/blue-bacon-yannick-haenel)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
+- [Claude Garamont](/post/claude-garamont)
 - [Cloé du Trèfle - La Lueur](/post/cloe-du-trefle)
 - [Deux Filles Nues](/post/deux-filles-nues)
 - [Du Rififi à Ménilmontant](/post/du-rififi-a-menilmontant)
@@ -52,7 +53,9 @@ summary = ""
 - [Only Lovers Left Alive](/post/only-lovers-left-alive)
 - [Publi Fluor - Affaires de Lettres à Bruxelles](/post/publi-fluor)
 - [Refuge - Lara Gasparotto](/post/refuge)
+- [Richard Avedon In the American West](/post/richard-avedon)
 - [Lac Noir](/post/roseline-lamber-lac-noir)
+- [Se faire avoir](/post/se-faire-avoir)
 - [Spectres de ma vie](/post/spectres-de-ma-vie)
 - [the loop - comédie de Robin Goupil au théâtre des béliers](/post/the-loop)
 - [Trop chaud](/post/trop-chaud)
