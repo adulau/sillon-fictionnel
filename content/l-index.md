@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-07-09"
+date = "2025-08-17"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -31,6 +31,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Chronique - Vallée du silicium](/post/valee-du-silicium)
 - [Chronique - Voyages sans bagages - Tove Jansson](/post/voyages-sans-bagages)
 - [Cinéma - Jouer avec le feu](/post/jouer-avec-le-feu)
+- [Claude Garamont](/post/claude-garamont)
 - [Clovd (T1)](/post/clovd-t1)
 - [Cloé du Trèfle - La Lueur](/post/cloe-du-trefle)
 - [Colère noire](/post/colere-noire)
@@ -119,7 +120,9 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Retour sur un départ manqué](/post/retour-sur-un-départ-manqué)
 - [Review BD - Les Exilés De Mosseheim](/post/mosseheim)
 - [Revoir Comanche](/post/revoir-comanche)
+- [Richard Avedon In the American West](/post/richard-avedon)
 - [Saccades stochastiques](/post/saccades-stochastiques)
+- [Se faire avoir](/post/se-faire-avoir)
 - [Shin Zero, tome 1](/post/shin-zero-t1)
 - [Slasher](/post/slasher)
 - [Something is Killing the Children](/post/something-is-killing-the-children)
