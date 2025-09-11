@@ -1,6 +1,6 @@
 +++
 author = "Miles Davos"
-title = "Fantasy"
+title = "Caballero Bueno"
 date = "2025-09-11"
 tags = [
     "bd", "critique", "chronique", "polar", "enquête", "société", "colonialisme" 
