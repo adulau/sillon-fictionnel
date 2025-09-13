@@ -27,6 +27,7 @@ summary = ""
 - [Invader in Conversation with Hans Ulrich Obrist](/post/invader)
 - [Joseph Mitchell - Le Fond du port](/post/joseph-mitchell-le-fond-du-port)
 - [Cinéma - Jouer avec le feu](/post/jouer-avec-le-feu)
+- [La nuit ravagée, Jean-Baptiste Del Amo](/post/la-nuit-ravagee)
 - [microessai - la page cornée](/post/la-page-cornee)
 - [La photo me regardait](/post/la-photo-me-regardait)
 - [Le Backpacker Killer](/post/le-backpacker-killer)
@@ -57,6 +58,7 @@ summary = ""
 - [Lac Noir](/post/roseline-lamber-lac-noir)
 - [Se faire avoir](/post/se-faire-avoir)
 - [Spectres de ma vie](/post/spectres-de-ma-vie)
+- [Audrey Tautou – Superfacial](/post/superfacial)
 - [the loop - comédie de Robin Goupil au théâtre des béliers](/post/the-loop)
 - [Trop chaud](/post/trop-chaud)
 - [Chronique - Vallée du silicium](/post/valee-du-silicium)
@@ -65,6 +67,7 @@ summary = ""
 - [Chronique - Voyages sans bagages - Tove Jansson](/post/voyages-sans-bagages)
 
 ## Alexandre Dulaunoy & Miles Davos
+- [La beauté des ruines – Barbara Israël](/post/la-beaute-des-ruines)
 - [Le Déviant, vol. 1](/post/le-deviant-vol1)
 
 ## Emilien
@@ -94,6 +97,7 @@ summary = ""
 - [Blackbird](/post/blackbird)
 - [Blood Moon](/post/blood-moon)
 - [Bot-9](/post/bot-9)
+- [Caballero Bueno](/post/caballero-bueno)
 - [Carcajou](/post/carcajou)
 - [Cauchemar](/post/cauchemar)
 - [Clovd (T1)](/post/clovd-t1)
@@ -114,6 +118,7 @@ summary = ""
 - [Idéal](/post/ideal)
 - [Inexistences](/post/inexistences)
 - [Kaya](/post/kaya)
+- [Meet KLINE, The Brutalist Kitchen With a Brutal Price](/post/kline-brutal-brutalist)
 - [L'amour](/post/l-amour)
 - [La dernière nuit de Mussolini](/post/la-derniere-nuit-de-mussolini)
 - [La forteresse volante](/post/la-forteresse-volante)
@@ -129,6 +134,7 @@ summary = ""
 - [Les os creux, la tête pleine](/post/les-os-creux-la-tete-pleine)
 - [Les papillons ne meurent pas de vieillesse](/post/les-papillons-nmpdv)
 - [Les salamandres](/post/les-salamandres)
+- [Mimésia](/post/mimesia)
 - [Monica](/post/monica)
 - [Night Club](/post/night-club)
 - [Notes sur le sumo](/post/notes-sur-le-sumo)
