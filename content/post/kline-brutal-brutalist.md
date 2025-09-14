@@ -7,10 +7,6 @@ tags = [
 ]
 +++
 
-[Restaurant review]
-
-### Meet KLINE, The Brutalist Kitchen With a Brutal Price
-
 Here I am, one evening, looking for a nice restaurant in Brussels to enjoy good food with great folks.
 
 Lately, I've been using [Guide Michelin](https://guide.michelin.com/) to gather some ideas and options before looking deeper.
