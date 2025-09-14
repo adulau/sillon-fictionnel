@@ -15,7 +15,7 @@ Let me stop here to correct a popular belief. Michelin’s guide doesn’t conta
 
 This is how I came across [KLINE](https://kline.brussels/), a restaurant that you can easily reach walking from Brussels’ Place Sainte-Catherine.
 
-Reading their website, their ‘punchline’: KLINE, The Brutalist Kitchen, intrigued me. As a big fan of the [brutalist movement](https://en.wikipedia.org/wiki/Brutalist_architecture), I could but be attracted. 
+Reading their website, their ‘punchline’: KLINE, The Brutalist Kitchen, intrigued me. As a big fan of the [brutalist movement](https://en.wikipedia.org/wiki/Brutalist_architecture), I could but be attracted.
 
 The brutalist movement fascinates me on many levels, even before cold-blooded capitalists smelled money in minimalism and captured and repurposed it. See [Les Étoiles d'Ivry](https://i.ytimg.com/vi/sbqSG6een1o/maxresdefault.jpg) in the outskirts of Paris for an example of brutalist architecture.
 
