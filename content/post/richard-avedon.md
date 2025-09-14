@@ -9,7 +9,7 @@ tags = [
 
 Si vous ne deviez voir qu’une seule exposition photographique cette année, allez voir l’exposition [Richard Avedon – In the American West](https://www.henricartierbresson.org/expositions/richard-avedon-in-the-american-west/), présentée à la Fondation Henri Cartier-Bresson du 30 avril au 12 octobre 2025.
 
-In the American West est un livre iconique (si vous possédez la version originale, gardez-la précieusement : elle a aujourd’hui une certaine valeur). De 1974 à 1984, Richard Avedon a sillonné l’Ouest américain avec un studio mobile, des assistants et une volonté affirmée de capturer l’essence de toute une population. Ses photographies mettent en lumière les hommes et les femmes issus des différentes classes ouvrières de l’époque.
+In the American West est un livre iconique (si vous possédez la version originale, gardez-la précieusement : elle a aujourd’hui une certaine valeur). De 1979 à 1984, Richard Avedon a sillonné l’Ouest américain avec un studio mobile, des assistants et une volonté affirmée de capturer l’essence de toute une population. Ses photographies mettent en lumière les hommes et les femmes issus des différentes classes ouvrières de l’époque.
 
 La technique de la chambre photographique, associée à un fond blanc, met en évidence non seulement les personnes, mais aussi leur apparence. L’exposition est d’autant plus remarquable qu’elle réunit, pour la première fois en Europe, les 103 tirages originaux. Oui, cela n’avait jamais été fait depuis la parution, il y a quarante ans, de ce livre iconique.
 
