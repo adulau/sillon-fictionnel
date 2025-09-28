@@ -341,6 +341,8 @@ Cette œuvre n'est point ancrée dans la réalité commune.  Les noms, les lieux
 
 # Distribution
 
+Le carnet est également disponible aux formats [PDF](/images/le-carnet.pdf) et [EPUB](/images/le-carnet.epub).
+
 Ce livre est placé sous licence **Creative Commons Attribution 4.0 International (CC BY 4.0)** :
 [https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr)
 
