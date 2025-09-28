@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-08-17"
+date = "2025-09-28"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -31,6 +31,7 @@ summary = ""
 - [microessai - la page cornée](/post/la-page-cornee)
 - [La photo me regardait](/post/la-photo-me-regardait)
 - [Le Backpacker Killer](/post/le-backpacker-killer)
+- [Le Carnet](/post/le-carnet)
 - [Le cauchemar climatisé](/post/le-cauchemar-climatise)
 - [Le dernier jour de Howard Phillips Lovecraft](/post/le-dernier-jour-de-hpl)
 - [Le désastre urbain et la crise de l’art contemporain](/post/le-desastre-urbain)
@@ -97,6 +98,7 @@ summary = ""
 - [Blackbird](/post/blackbird)
 - [Blood Moon](/post/blood-moon)
 - [Bot-9](/post/bot-9)
+- [Burinés](/post/burines)
 - [Caballero Bueno](/post/caballero-bueno)
 - [Carcajou](/post/carcajou)
 - [Cauchemar](/post/cauchemar)
