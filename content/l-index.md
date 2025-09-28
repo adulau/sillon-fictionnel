@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-08-17"
+date = "2025-09-28"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -21,6 +21,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Blood Moon](/post/blood-moon)
 - [Blue Bacon - Yannick Haenel](/post/blue-bacon-yannick-haenel)
 - [Bot-9](/post/bot-9)
+- [Burinés](/post/burines)
 - [Caballero Bueno](/post/caballero-bueno)
 - [Carcajou](/post/carcajou)
 - [Cauchemar](/post/cauchemar)
@@ -83,6 +84,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Lac Noir](/post/roseline-lamber-lac-noir)
 - [Le Backpacker Killer](/post/le-backpacker-killer)
 - [Le carcan](/post/le-carcan)
+- [Le Carnet](/post/le-carnet)
 - [Le cauchemar climatisé](/post/le-cauchemar-climatise)
 - [Le dernier jour de Howard Phillips Lovecraft](/post/le-dernier-jour-de-hpl)
 - [Le désastre urbain et la crise de l’art contemporain](/post/le-desastre-urbain)
