@@ -15,7 +15,7 @@ du cairn tsundoku – cet art de collectionner des livres sans toujours
 les lire – ou simplement un lecteur éclairé avide de découvertes,
 cette liste est faite pour vous.
 
-![La bibliothèque d’André Masson par Alexandre Dulaunoy](/images/andre_masson_library.jpg)
+[![La bibliothèque d’André Masson par Alexandre Dulaunoy](/images/andre_masson_library.jpg)](https://www.flickr.com/photos/adulau/53916957116/)
 
 Les librairies que nous avons sélectionnées ne sont pas de simples
 commerces, mais des refuges pour l’esprit et l’imaginaire. Elles
