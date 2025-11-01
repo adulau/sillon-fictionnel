@@ -22,7 +22,7 @@ S’inspirant d’une des premières aventures de l’homme qui tire plus vite q
 
 Histoire en huit mouvements, « Dakota 1880 » nous donne à voir un Lucky Luke très différent de celui de Morris et, plus tard, Goscinny, évoluant dans un monde aux teintes crépusculaires dessiné de main de maître par l’excellent Brüno ; j’adore le dépouillement graphique dont il use et la simplicité dont il fait preuve. On pourrait presque entendre une musique mélancolique en arrière-plan. Une musique dont on a du mal à se départir une fois la dernière page savourée.
 
-![Couverture de Dakota 1880, par Appollo, Brüno et Laurence Croix. Dargaud](/images/dakota-1880.jpeg)
+![Couverture de Dakota 1880, par Appollo, Brüno et Laurence Croix. Dargaud](/images/dakota-1880.jpg)
 
 —
 [Dakota 1880](https://www.dargaud.com/bd/un-hommage-lucky-luke-par/un-hommage-lucky-luke-par-dakota-1880-bda5590560). Appollo (scénario), Brüno (dessin), Laurence Croix (couleurs). Dargaud (Hors collection Lucky / Lucky Comics). 16€.
