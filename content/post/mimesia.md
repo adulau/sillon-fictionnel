@@ -21,6 +21,6 @@ On en est malheureusement loin. Trop loin. Alors, permettez-moi un conseil : pa
 ![Couverture de Mimésia, Hugues Micol. Futuropolis](/images/mimesia.jpeg)
 
 —
-[Mimésia](hhttps://www.futuropolis.fr/9782754846394/mimesia.html). Hugues Micol. Futuropolis. 19€.
+[Mimésia](https://www.futuropolis.fr/9782754846394/mimesia.html). Hugues Micol. Futuropolis. 19€.
 
 [^1]: [https://www.dargaud.com/bd/agughia-bda5388300](https://www.dargaud.com/bd/agughia-bda5388300)
