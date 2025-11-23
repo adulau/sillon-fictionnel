@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-09-28"
+date = "2025-11-23"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -14,6 +14,7 @@ summary = ""
 - [Deborah Levy et Francois Avril](/post/avril-versus-levy)
 - [Blue Bacon - Yannick Haenel](/post/blue-bacon-yannick-haenel)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
+- [Chlore - Thibault Lang-Willar](/post/chlore)
 - [Claude Garamont](/post/claude-garamont)
 - [Cloé du Trèfle - La Lueur](/post/cloe-du-trefle)
 - [Deux Filles Nues](/post/deux-filles-nues)
@@ -59,6 +60,7 @@ summary = ""
 - [Lac Noir](/post/roseline-lamber-lac-noir)
 - [Se faire avoir](/post/se-faire-avoir)
 - [Spectres de ma vie](/post/spectres-de-ma-vie)
+- [Sphinx - Anne F. Garréta](/post/sphinx)
 - [Audrey Tautou – Superfacial](/post/superfacial)
 - [the loop - comédie de Robin Goupil au théâtre des béliers](/post/the-loop)
 - [Trop chaud](/post/trop-chaud)
@@ -106,6 +108,7 @@ summary = ""
 - [Colère noire](/post/colere-noire)
 - [Cometa](/post/cometa)
 - [Dai Dark](/post/dai-dark)
+- [Dakota 1880](/post/dakota-1880)
 - [Dédales](/post/dedales)
 - [Délivrance](/post/delivrance)
 - [Dementia 21 volume 1](/post/dementia21-vol1)
@@ -132,12 +135,14 @@ summary = ""
 - [Le feu de Saint Antoine](/post/le-feu-de-st-antoine)
 - [Le nécromanchien](/post/le-necromanchien)
 - [Le Roi Méduse - 1](/post/le-roi-meduse-1)
+- [Leroy du chenin](/post/leroy-du-chenin)
 - [Les navigateurs](/post/les-navigateurs)
 - [Les os creux, la tête pleine](/post/les-os-creux-la-tete-pleine)
 - [Les papillons ne meurent pas de vieillesse](/post/les-papillons-nmpdv)
 - [Les salamandres](/post/les-salamandres)
 - [Mimésia](/post/mimesia)
 - [Monica](/post/monica)
+- [Monsieur Chouette](/post/monsieur-chouette)
 - [Night Club](/post/night-club)
 - [Notes sur le sumo](/post/notes-sur-le-sumo)
 - [Notre besoin de consolation est impossible à rassasier](/post/notre-besoin-de-consolation)
