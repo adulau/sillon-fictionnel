@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-09-28"
+date = "2025-11-23"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -25,6 +25,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Caballero Bueno](/post/caballero-bueno)
 - [Carcajou](/post/carcajou)
 - [Cauchemar](/post/cauchemar)
+- [Chlore - Thibault Lang-Willar](/post/chlore)
 - [Chronique - En attendant la fin du monde - Baudouin de Bodinat](/post/bodinat-en-attendant-la-fin-du-monde)
 - [Chronique - l'Innommable H.](/post/innommable-h)
 - [Chronique - Le gourmet solitaire](/post/le-gourmet-solitaire)
@@ -42,6 +43,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Commandant](/post/commandant)
 - [Correspondance 1951-1954 entre René Char et Nicolas de Staël](/post/nicolas-rene)
 - [Dai Dark](/post/dai-dark)
+- [Dakota 1880](/post/dakota-1880)
 - [Deborah Levy et Francois Avril](/post/avril-versus-levy)
 - [Dementia 21 volume 1](/post/dementia21-vol1)
 - [Deux Filles Nues](/post/deux-filles-nues)
@@ -95,6 +97,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Le reich de la lune](/post/le-reich-de-la-lune)
 - [Le Roi Méduse - 1](/post/le-roi-meduse-1)
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
+- [Leroy du chenin](/post/leroy-du-chenin)
 - [Les furtifs](/post/lesfurtifs)
 - [Les navigateurs](/post/les-navigateurs)
 - [Les os creux, la tête pleine](/post/les-os-creux-la-tete-pleine)
@@ -112,6 +115,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Miss.Tic: à la vie à l'amor. Art dans la ville, poétique de la révolte (1985-2022)](/post/miss-tic)
 - [Mon oncle d'Australie](/post/mon-oncle-d-australie)
 - [Monica](/post/monica)
+- [Monsieur Chouette](/post/monsieur-chouette)
 - [Ménilmontant](/post/menilmontant)
 - [Naître sans cesse](/post/naitre-sans-cesse)
 - [Night Club](/post/night-club)
@@ -136,6 +140,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Something is Killing the Children](/post/something-is-killing-the-children)
 - [Space Relic Hunters](/post/space-relic-hunters)
 - [Spectres de ma vie](/post/spectres-de-ma-vie)
+- [Sphinx - Anne F. Garréta](/post/sphinx)
 - [Stacy](/post/stacy)
 - [Starseeds T1](/post/starseeds-t1)
 - [Synthétique & toxique](/post/synthetique-et-toxique)
