@@ -9,7 +9,7 @@ isbn = "978-2-37073-557-7"
 +++
 
 Choisir un livre, c’est toujours un art subtil. Et celui-ci fut un savant mélange : je rate mon train,
-mais je vais faire un tour chez [Tropisme](/les-librairies/), à Bruxelles. Rater un train en Belgique, ce n’est jamais
+mais je vais faire un tour chez [Tropismes](/les-librairies/), à Bruxelles. Rater un train en Belgique, ce n’est jamais
 vraiment un train raté, mais plutôt une belle alchimie de retards et d’arrivées à l’heure possibles.
 Finalement, ce fut une bonne idée.
 
