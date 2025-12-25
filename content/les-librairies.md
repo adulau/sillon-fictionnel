@@ -1,7 +1,7 @@
 +++
 title = "Les librairies du Sillon"
 description = "Des librairies pour les Sillonistes"
-date = "2025-02-16"
+date = "2025-12-24"
 aliases = ["librairie", "sillon fictionnel"]
 author = "les Sillonneurs"
 summary = " "
@@ -42,4 +42,5 @@ univers littéraire.
 
 ## Belgique
 
+- [Librairie Tropismes](https://www.tropismes.com/) - 11, Galerie des Princes, Galerie Royale Saint-Hubert, B-1000 Bruxelles
 - [Librairie Livre aux Trésors](https://www.leslibrairiesindependantes.be/librairie/44-livre-aux-tresors) - Place Xavier-Neujean 27/A, 4000 Liège
