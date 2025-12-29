@@ -1,7 +1,7 @@
 +++
 title = "Les librairies du Sillon"
 description = "Des librairies pour les Sillonistes"
-date = "2025-12-24"
+date = "2025-12-29"
 aliases = ["librairie", "sillon fictionnel"]
 author = "les Sillonneurs"
 summary = " "
@@ -39,6 +39,9 @@ univers littéraire.
 
 - [La Librairie - Les Parages](/post/librairie-les-parages/) - 89 rue sedaine, 75011 Paris
 - [Librairie - Petite Egypte](/post/spectres-de-ma-vie/) - 35 rue des Petits Carreaux, 75002 Paris
+- Librairie - L'Eternel Retour - 77 rue Lamarck, 75018 Paris
+- Librairie - Le Pied à Terre - 9 rue Custine, 75018 Paris
+- Librairie - Autour du Monde - 44 rue de la chèvre, 57000 Metz
 
 ## Belgique
 
