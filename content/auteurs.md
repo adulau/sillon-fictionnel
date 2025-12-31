@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-11-23"
+date = "2025-12-31"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -18,6 +18,7 @@ summary = ""
 - [Claude Garamont](/post/claude-garamont)
 - [Cloé du Trèfle - La Lueur](/post/cloe-du-trefle)
 - [Deux Filles Nues](/post/deux-filles-nues)
+- [Devenir Écrivain](/post/devenir-ecrivain)
 - [Du Rififi à Ménilmontant](/post/du-rififi-a-menilmontant)
 - [Chronique - L’espace commence ainsi](/post/espace-commence-ainsi)
 - [Frontier - Singelin](/post/frontier-singelin)
@@ -37,6 +38,7 @@ summary = ""
 - [Le dernier jour de Howard Phillips Lovecraft](/post/le-dernier-jour-de-hpl)
 - [Le désastre urbain et la crise de l’art contemporain](/post/le-desastre-urbain)
 - [le film de notre conscience](/post/le-film-de-notre-conscience)
+- [Le roman des regards](/post/le-roman-des-regards)
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Chronique - Libertés d'écoute - Le son, véhicule de la relation](/post/liberte-d-ecoute)
 - [La Librairie - Les Parages](/post/librairie-les-parages)
@@ -162,6 +164,7 @@ summary = ""
 - [Un astre nommé James](/post/un-astre-nomme-james)
 - [La vérité, le mensonge, et l’humain tapi entre les deux](/post/verite-mensonge-humain)
 - [Werewolf Jones & Sons - Deluxe Summer Fun Annual](/post/werewolf-jones)
+- [Wolven](/post/wolven)
 - [zboing zboing](/post/zboing-zboing)
 
 ## Serge Tellene
