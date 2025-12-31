@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-11-23"
+date = "2025-12-31"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -47,6 +47,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Deborah Levy et Francois Avril](/post/avril-versus-levy)
 - [Dementia 21 volume 1](/post/dementia21-vol1)
 - [Deux Filles Nues](/post/deux-filles-nues)
+- [Devenir Écrivain](/post/devenir-ecrivain)
 - [Du Rififi à Ménilmontant](/post/du-rififi-a-menilmontant)
 - [Dédales](/post/dedales)
 - [Délivrance](/post/delivrance)
@@ -96,6 +97,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Le nécromanchien](/post/le-necromanchien)
 - [Le reich de la lune](/post/le-reich-de-la-lune)
 - [Le Roi Méduse - 1](/post/le-roi-meduse-1)
+- [Le roman des regards](/post/le-roman-des-regards)
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Leroy du chenin](/post/leroy-du-chenin)
 - [Les furtifs](/post/lesfurtifs)
@@ -153,6 +155,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Vivian Maier - claire-obscure](/post/vivian-maier-claire-obscure)
 - [Vivonne de Jérôme Leroy](/post/vivonne)
 - [Werewolf Jones & Sons - Deluxe Summer Fun Annual](/post/werewolf-jones)
+- [Wolven](/post/wolven)
 - [Yellowface](/post/yellowface)
 - [zboing zboing](/post/zboing-zboing)
 
