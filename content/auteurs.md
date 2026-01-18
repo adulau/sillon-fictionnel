@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2025-12-31"
+date = "2026-01-18"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -42,6 +42,7 @@ summary = ""
 - [Le Tampographe: Chroniques de la rue du Repos](/post/le-tampographe-sardon)
 - [Chronique - Libertés d'écoute - Le son, véhicule de la relation](/post/liberte-d-ecoute)
 - [La Librairie - Les Parages](/post/librairie-les-parages)
+- [Librairies dans le monde](/post/librairies-dans-le-monde)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
 - [Ma cabane sans peine](/post/ma-cabane-sans-peine)
@@ -56,6 +57,7 @@ summary = ""
 - [Numéro Deux](/post/numero-deux)
 - [Oli Kellett - Cross Road Blues](/post/oli-kellett-cross-road-blues)
 - [Only Lovers Left Alive](/post/only-lovers-left-alive)
+- [Paris Toits Chats](/post/paris-toits-chats)
 - [Publi Fluor - Affaires de Lettres à Bruxelles](/post/publi-fluor)
 - [Refuge - Lara Gasparotto](/post/refuge)
 - [Richard Avedon In the American West](/post/richard-avedon)
@@ -87,6 +89,7 @@ summary = ""
 
 ## H. Galois
 - [Commandant](/post/commandant)
+- [L'affaire de la rue Transnonain](/post/l-affaire-de-la-rue-transnonain)
 - [La plus secrète mémoire des hommes](/post/la_plus_secrete_memoire_des_hommes)
 - [Les furtifs](/post/lesfurtifs)
 - [On Mass Hysteria – Une histoire de la misogynie](/post/masshysteria)

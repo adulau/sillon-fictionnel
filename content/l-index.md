@@ -1,7 +1,7 @@
 +++
 title = "l'index"
 description = "La mise à l'index Sillonesque"
-date = "2025-12-31"
+date = "2026-01-18"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -69,6 +69,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Invader in Conversation with Hans Ulrich Obrist](/post/invader)
 - [Joseph Mitchell - Le Fond du port](/post/joseph-mitchell-le-fond-du-port)
 - [Kaya](/post/kaya)
+- [L'affaire de la rue Transnonain](/post/l-affaire-de-la-rue-transnonain)
 - [L'amour](/post/l-amour)
 - [L'escamoteur](/post/l-escamoteur)
 - [La beauté des ruines – Barbara Israël](/post/la-beaute-des-ruines)
@@ -105,6 +106,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Les os creux, la tête pleine](/post/les-os-creux-la-tete-pleine)
 - [Les papillons ne meurent pas de vieillesse](/post/les-papillons-nmpdv)
 - [Les salamandres](/post/les-salamandres)
+- [Librairies dans le monde](/post/librairies-dans-le-monde)
 - [Lire !](/post/lire-olivier-le-brun)
 - [Livres en feu](/post/livres-en-feu)
 - [Ma cabane sans peine](/post/ma-cabane-sans-peine)
@@ -128,6 +130,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [On Mass Hysteria – Une histoire de la misogynie](/post/masshysteria)
 - [Only Lovers Left Alive](/post/only-lovers-left-alive)
 - [Pancho Villa - La bataille de Zacatecas](/post/la_bataille_de_zacatecas)
+- [Paris Toits Chats](/post/paris-toits-chats)
 - [Publi Fluor - Affaires de Lettres à Bruxelles](/post/publi-fluor)
 - [Qui laisse passer la lumière](/post/qui-laisse-passer-la-lumiere)
 - [Refuge - Lara Gasparotto](/post/refuge)
@@ -158,7 +161,6 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Wolven](/post/wolven)
 - [Yellowface](/post/yellowface)
 - [zboing zboing](/post/zboing-zboing)
-
 # Le Sillon en revue
 
 Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.
