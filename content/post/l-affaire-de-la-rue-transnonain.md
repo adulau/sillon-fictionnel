@@ -3,7 +3,7 @@ author = "H. Galois"
 title = "L'affaire de la rue Transnonain"
 date = "2026-01-16"
 tags = [
-    "livre","critique", "chronique", "roman"
+    "livre","critique", "chronique", "roman", "paris"
 ]
 ISBN = "978-2-487858-00-8"
 +++
