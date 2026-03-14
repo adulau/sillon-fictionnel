@@ -7,6 +7,8 @@ languageCode = 'fr'
 defaultContentLanguage = 'fr'
 defaultContentLang = 'fr'
 
+[Author]
+  name = 'Le Sillon Fictionnel'
 [mediaTypes]
   [mediaTypes."application/atom+xml"]
      suffixes = "xml"
@@ -26,6 +28,8 @@ defaultContentLang = 'fr'
   description = 'Le Sillon Fictionnel - Un espace dédié à la passion de la lecture et la culture au sein d’un club un peu atypique. Critiques - livre, art et culture.'
   mastodon = 'https://paperbay.org/@sillon_fictionnel'
   github = 'https://github.com/adulau/sillon-fictionnel'
+  [author]
+    name = 'Le Sillon Fictionnel'
   [socialIcons]
     name = 'rss'
     url = 'https://sillon-fictionnel.club'
