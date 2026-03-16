@@ -73,6 +73,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [L'amour](/post/l-amour)
 - [L'escamoteur](/post/l-escamoteur)
 - [La beauté des ruines – Barbara Israël](/post/la-beaute-des-ruines)
+- [La belgitude en dystopie - OFF](/post/off-la-belgitude-en-dystopie)
 - [La brume l'emportera](/post/La-brume)
 - [La dernière nuit de Mussolini](/post/la-derniere-nuit-de-mussolini)
 - [La forteresse volante](/post/la-forteresse-volante)
@@ -161,6 +162,7 @@ Notre index est l'opposé de l'*Index Librorum Prohibitorum* : il constitue une 
 - [Wolven](/post/wolven)
 - [Yellowface](/post/yellowface)
 - [zboing zboing](/post/zboing-zboing)
+
 # Le Sillon en revue
 
 Le Sillon Fictionnel est un espace littéraire original qui offre une parenthèse de liberté dans le tumulte habituel des critiques et analyses conventionnelles. C’est un véritable carnet de route où se mêlent passion, audace et imagination, invitant le lecteur à s’évader et à redécouvrir la littérature contemporaine sous un angle résolument novateur et libérateur. Accessible désormais en formats PDF et EPUB, Le Sillon Fictionnel se veut à la fois pratique et inspirant, offrant une expérience de lecture moderne et nomade qui célèbre la liberté de penser et de ressentir, au-delà des sentiers battus.
