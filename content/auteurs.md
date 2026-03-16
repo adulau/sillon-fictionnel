@@ -1,7 +1,7 @@
 +++
 title = "les auteurs"
 description = "les auteurs Sillonesques"
-date = "2026-01-18"
+date = "2026-03-16"
 author = "les Sillonneurs"
 summary = ""
 +++
@@ -55,6 +55,7 @@ summary = ""
 - [Naître sans cesse](/post/naitre-sans-cesse)
 - [Correspondance 1951-1954 entre René Char et Nicolas de Staël](/post/nicolas-rene)
 - [Numéro Deux](/post/numero-deux)
+- [La belgitude en dystopie - OFF](/post/off-la-belgitude-en-dystopie)
 - [Oli Kellett - Cross Road Blues](/post/oli-kellett-cross-road-blues)
 - [Only Lovers Left Alive](/post/only-lovers-left-alive)
 - [Paris Toits Chats](/post/paris-toits-chats)
