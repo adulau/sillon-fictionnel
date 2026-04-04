@@ -7,7 +7,7 @@ tags = [
 ]
 +++
 
-Tout était gris. La rue, les murs, les bâtiments, jusqu’à la devanture du café Chez Micheline.
+Tout était gris. La rue, les murs, les bâtiments, jusqu’à la devanture du café « Chez Micheline ».
 
 Une faible lueur filtrait à travers les rideaux jaunis, trahissant une certaine activité à l’intérieur.
 
@@ -20,7 +20,7 @@ Il passait ses journées et les longues soirées d’hiver au café, affalé sur
 
 Mais depuis peu, les choses avaient changé pour GHB. Il avait vu l’affiche d’un homme politique placardée sur un mur de Mont-sur-Marchienne. Depuis ce jour-là, il voulait devenir homme politique, avoir sa tête sur une affiche, avec ses cheveux coupés au carré. Il s’imaginait déjà que c’était mieux qu’une bagnole pour attirer les minettes : une belle gueule sur du papier glacé, et ce serait la ruée vers l’or pour Georges-Henri.
 
-Il est vrai qu’il y avait quand même un détail qui jurait avec le paysage local : ce prénom composé. Une longue histoire familiale, née dans les faubourgs de Charleroi. Sa mère avait eu cette illumination, ou plutôt cette leurre d’esprit comme elle disait, après un bon casier de Jupiler en fin de soirée. Elle savait que sa propre vie pitoyable n’avait été qu’une succession de drames à cause de son prénom : Kimberly. Alors, après avoir conçu son fils dans une nuit grise et alcoolisée du Borinage, elle avait décrété :
+Il est vrai qu’il y avait quand même un détail qui jurait avec le paysage local : ce prénom composé. Une longue histoire familiale, née dans les faubourgs de Charleroi. Sa mère avait eu cette illumination, ou plutôt cette "leurre" d’esprit comme elle disait, après un bon casier de Jupiler en fin de soirée. Elle savait que sa propre vie pitoyable n’avait été qu’une succession de drames à cause de son prénom : Kimberly. Alors, après avoir conçu son fils dans une nuit grise et alcoolisée du Borinage, elle avait décrété :
 « Mouais… si j’ai un fils, il s’appellera Georges-Henri. Pas Kevin, pas Donavann. Un truc qui en jette, un nom qui claque, un nom de la mort qui tue. »
 
 GHB avait deux passions : les bagnoles et les filles. Son fanatisme pour les moteurs restait, au fond, une passion presque innocente, avec pour seul véritable impact un peu plus de CO₂ dans l’atmosphère. En revanche, son obsession pour les filles trouvait sans doute ses racines dans un environnement peu propice à l’épanouissement personnel. Il ne collectionnait pas seulement les pièces de vingt francs : il comptait aussi ses conquêtes, comme d’autres alignent des trophées en plastique sur une étagère bancale. Et il était particulièrement fier de son acronyme. À chaque entrée dans le café, il ressortait inlassablement la même blague, persuadé d’être un génie :
@@ -28,7 +28,7 @@ GHB avait deux passions : les bagnoles et les filles. Son fanatisme pour les mot
 
 Micheline ne riait même plus. Les autres non plus. Mais lui, il se trouvait brillant.
 
-L’ascension de GHB relevait d’un quiproquo à la belge, aussi absurde qu’résistible.
+L’ascension de GHB relevait d’un quiproquo à la belge, aussi absurde qu'résistible[^1].
 
 Il s’engagea en politique. Peu importait le parti, au fond : ce qu’il voulait, c’était renverser la table, exister, se donner une importance nouvelle. Le parti n’était qu’un véhicule, un moyen parmi d’autres pour parvenir à ses fins.
 Son choix fut guidé par sa connaissance approximative, pour ne pas dire inexistante, de la vie politique. 
@@ -219,6 +219,8 @@ Et peut-être fallait-il cette chute-là, obscène et publique, pour rappeler à
 Le procès fut rapide. La condamnation aussi.
 
 Il alla purger sa peine à Haren. Le contraste avait quelque chose de presque comique : après les salons royaux, les couloirs gris ; après les micros, les barreaux ; après les costumes, la promiscuité. Il partagea sa cellule avec quatre dealers de drogue qui ne pouvaient pas le piffer non plus. Même là, dans cet ultime déclassement, il n’inspirait ni respect, ni crainte, ni fascination. Seulement du dégoût. Ce qui, au fond, était peut-être la première réaction sincère qu’il avait jamais suscitée.
+
+[^1]: [La Résistible Ascension d'Arturo Ui](https://fr.wikipedia.org/wiki/La_R%C3%A9sistible_Ascension_d%27Arturo_Ui) — *Der aufhaltsame Aufstieg des Arturo Ui*. Comme disait Brecht : *« Vous, apprenez à voir, plutôt que de rester les yeux ronds… Le ventre est encore fécond, d’où a surgi la bête immonde. »* Mais rassurons-nous : aujourd’hui, on sait parfaitement reconnaître les mêmes mécanismes quand ils reviennent, simplement affublés d’un meilleur service communication et de costumes un peu plus chers.
 
 # Fiction
 
