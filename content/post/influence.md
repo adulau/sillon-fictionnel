@@ -1,6 +1,6 @@
 +++
 author = "Alexandre Dulaunoy"
-title = "Influence"
+title = "Influence - Salle 717A"
 date = "2026-04-04"
 tags = [
     "nouvelle","sci-fi" 
@@ -109,7 +109,7 @@ Scott inspira profondément, observa une dernière fois la vieille ferme plongé
 
 # Distribution
 
-GHB est également disponible aux formats [PDF](/images/influence.pdf) et [EPUB](/images/influence.epub).
+Influence est également disponible aux formats [PDF](/images/influence.pdf) et [EPUB](/images/influence.epub).
 
 Ce livre est placé sous licence **Creative Commons Attribution 4.0 International (CC BY 4.0)** :
 [https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr)
