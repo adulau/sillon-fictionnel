@@ -28,7 +28,7 @@ Alors vous aimez. Des enfants, vous élevez. Et de vieillesse, vous mourrez. En 
 
 Mais voilà que se manifeste un autre vous-même à votre énième résurrection. Il a traversé le temps et l’espace pour vous retrouver. Et il vous raconte une histoire, votre histoire. Et cela va tout changer…
 
-Resurrection Man, une relecture \*Black Label\* réussie par Ram V et Anand RK.
+Resurrection Man, une relecture *Black Label* réussie par Ram V et Anand RK.
 
 —
 [Resurrection Man](https://www.urban-comics.com/resurrection-man/). Ram V, Anand RK. Éditions Urban Comics. 20,50€.
