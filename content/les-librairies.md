@@ -1,7 +1,7 @@
 +++
 title = "Les librairies du Sillon"
 description = "Des librairies pour les Sillonistes"
-date = "2025-12-29"
+date = "2026-08-30"
 aliases = ["librairie", "sillon fictionnel"]
 author = "les Sillonneurs"
 summary = " "
@@ -42,6 +42,8 @@ univers littéraire.
 - Librairie - L'Eternel Retour - 77 rue Lamarck, 75018 Paris
 - Librairie - Le Pied à Terre - 9 rue Custine, 75018 Paris
 - Librairie - Autour du Monde - 44 rue de la chèvre, 57000 Metz
+- Librairie - [La Librairie du Canal](https://www.lalibrairieducanal.fr/) - 3 Rue Eugène Varlin, 75010 Paris
+- Librairie - [Litote](https://www.parislibrairies.fr/magasins/paris/Litote-en-tete-3162/) - 17 rue Alexandre Parodi, 75010 Paris
 
 ## Belgique
 
