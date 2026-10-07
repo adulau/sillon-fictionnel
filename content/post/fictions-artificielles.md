@@ -1,14 +1,19 @@
-+++ author = "H. Galois" title = "Fictions artificielles" date = "2026-10-07" tags = [ "art", "critique", "IA", "littérature" ] +++
++++ 
+author = "H. Galois"
+title = "Fictions artificielles"
+date = "2026-10-07"
+tags = [ "art", "critique", "IA", "littérature" ]
++++
 
 Lorsque je lis un livre, une voix me parle. Elle me raconte une histoire, plus ou moins réelle, avec des mots et des images qui me touchent, m’informent, me transportent, parfois me bouleversent. Qu’importe comment est née cette voix. Qu’importe que l’autrice ou l’auteur ait un peu emprunté, qu’importe qu’il ait été aidé par un éditeur qui lui a fait remanier son manuscrit ou par quelqu’un qui restera dans l’anonymat (ou pas [^1]). Qu’importe qu’il ait dicté son texte, utilisé un correcteur orthographique ou une IA.
 
 La littérature, à mes yeux, est faite de ces voix d'outre-tombe ou de vivants qui me parlent mais ne s'adressent pas qu'à moi. Mais, toujours, quelqu’un me parle.
 
-C’est là, dans cette attribution que surgit une exigence, ténue, mais qui m’est vitale : j’aime savoir qui me parle. Je n’aime pas quand on me parle à visage masqué. Je suis dès lors empêtré dans cette aporie qui consiste à n’attendre de la littérature rien d’autre qu’une voix, mais une voix que j’aime sincère. Elle ne peut pas toujours l’être : des écrivains publient sous pseudonyme [^2], parfois le <i>il</i> est un <i>ils</i> [^3], parfois l’histoire perd le <i>qui</i> [^4].
+C’est là, dans cette attribution que surgit une exigence, ténue, mais qui m’est vitale : j’aime savoir qui me parle. Je n’aime pas quand on me parle à visage masqué. Je suis dès lors empêtré dans cette aporie qui consiste à n’attendre de la littérature rien d’autre qu’une voix, mais une voix que j’aime sincère. Elle ne peut pas toujours l’être : des écrivains publient sous pseudonyme [^2], parfois le *il* est un *ils* [^3], parfois l’histoire perd le *qui* [^4].
 
-Je n’ai pas lu le livre de Thélyson Orélien (« C'était ça ou mourir », Grasset, 2026), je n’en ai lu que quelques pages en librairie. J’y ai immédiatement reconnu la prose de l’IA (mais j’étais sans doute <i>biaisé</i> parce que je connaissais les résultats d’un certain logiciel de détection qui semble assez fiable).
+Je n’ai pas lu le livre de Thélyson Orélien (« C'était ça ou mourir », Grasset, 2026), je n’en ai lu que quelques pages en librairie. J’y ai immédiatement reconnu la prose de l’IA (mais j’étais sans doute *biaisé* parce que je connaissais les résultats d’un certain logiciel de détection qui semble assez fiable).
 
-En principe, je ne vois pas de problème à ce qu’il ait utilisé l’IA pour écrire. Voire même que quelqu’un d’autre ait <i>prompté</i> à sa place. Mais convenons que cela relève davantage du <i>ghostwriting</i> que du correcteur orthographique. L'utilisation de l’IA dans la production de sens me semble impliquer de la mentionner, comme on devrait mentionner le recours à un <i>ghostwriter</i>.
+En principe, je ne vois pas de problème à ce qu’il ait utilisé l’IA pour écrire. Voire même que quelqu’un d’autre ait *prompté* à sa place. Mais convenons que cela relève davantage du *ghostwriting* que du correcteur orthographique. L'utilisation de l’IA dans la production de sens me semble impliquer de la mentionner, comme on devrait mentionner le recours à un *ghostwriter*.
 
 J’ai aussi trouvé ces quelques extraits de « C'était ça ou mourir » franchement mauvais, désincarnés. Mais le livre plait à beaucoup. Peut-être même le trouverais-je bon, si je le lisais. Alors, c’est que la force de l’écriture aurait levé les doutes quant à la façon dont il a travaillé, l’émotion prendrait le dessus, comme il arrive que m’indiffère finalement de savoir qui a été B. Traven. Parce que ses livres m’emportent. 
 
@@ -20,7 +25,7 @@ A.D. a raison de dénoncer une ambiance de chasse aux sorcières et de souligner
 
 Je crois qu’au-delà de cette considération, au-delà de mon besoin de sincérité, émerge une autre question, essentielle et dont la réponse peut être objective : qu’est-ce que la littérature ? Et la seule réponse qui me semble juste est qu’elle est impossible à définir précisément. Ses marges sont brumeuses, indéfinissables. Ainsi, il semble bien qu’une machine puisse aider à écrire – ou écrire entièrement – un livre que de nombreuses personnes apprécient. De ce point de vue, cette histoire participe à désacraliser un art souvent hissé sur un piédestal barbouillé de formol. Et toute entreprise de désacralisation est une émancipation. Bien, c’est bien, donc.
 
-Finalement, perdu et errant dans les brumes, le mieux est toujours d’en revenir aux fondamentaux. Liste : le monde où les auteurs ne perçoivent qu’une faible part des revenus de l’édition n’est pas bien reluisant, le <i>monde d’avant</i> celui dans lequel nous entrons ne vaut pas forcément mieux ; puisqu’en lisant quelques passages du livre d’Orélien il semble assez évident à qui a déjà lu des textes générés par l’IA que c’en est, surgissent d’immenses doutes sur la pertinence des jurés des prix littéraires ; et à vrai dire c’est le principe même des prix littéraires en tant que donneurs de bons et mauvais points et de certitudes qui est emporté (s’il en était besoin…) ; les premiers relais des doutes concernant le livre d’Orélien sont d’extrême droite, et l’extrême droite n’a jamais raison – quand par hasard cela arrive, il convient de les déposséder d’un tel trophée ; d’ailleurs, si je n’ai pas lu et que je ne lirai pas ce livre autrement que piraté – éventuellement –, c’est parce qu’il est édité en France chez Grasset, passé sous pavillon d’extrême droite [^7] ; l’utilisation inconsidérée des lA proposées par les grands de la <i>tech</i> est condamnable, autant par la gabegie de ressources qu’elle implique que par la concentration de pouvoir qu’elle constitue.
+Finalement, perdu et errant dans les brumes, le mieux est toujours d’en revenir aux fondamentaux. Liste : le monde où les auteurs ne perçoivent qu’une faible part des revenus de l’édition n’est pas bien reluisant, le <i>monde d’avant</i> celui dans lequel nous entrons ne vaut pas forcément mieux ; puisqu’en lisant quelques passages du livre d’Orélien il semble assez évident à qui a déjà lu des textes générés par l’IA que c’en est, surgissent d’immenses doutes sur la pertinence des jurés des prix littéraires ; et à vrai dire c’est le principe même des prix littéraires en tant que donneurs de bons et mauvais points et de certitudes qui est emporté (s’il en était besoin…) ; les premiers relais des doutes concernant le livre d’Orélien sont d’extrême droite, et l’extrême droite n’a jamais raison – quand par hasard cela arrive, il convient de les déposséder d’un tel trophée ; d’ailleurs, si je n’ai pas lu et que je ne lirai pas ce livre autrement que piraté – éventuellement –, c’est parce qu’il est édité en France chez Grasset, passé sous pavillon d’extrême droite [^7] ; l’utilisation inconsidérée des lA proposées par les grands de la *tech* est condamnable, autant par la gabegie de ressources qu’elle implique que par la concentration de pouvoir qu’elle constitue.
 
 Enfin, il est possible que l’irruption de l’IA dans la chose écrite force les humains, peut-être pour se distinguer de son verbiage, peut-être parce qu’il y a un sens vital à interagir entre humains, à l’invention de nouvelles formes et pratiques d’écriture, de nouveaux styles, de nouvelles voix. Et tout comme les humains ont appris il y a deux ou trois mille ans à lire les récits qui n’étaient que récités avant l’invention de l’écriture, peut-être devrons-nous réinventer la façon de lire avec l’apparition de l’IA. Un nouveau monde de l’écrit. Il n’est pas dit qu’il en sortira du bon, mais secouer l’ancien ne peut qu’être bénéfique.
 
@@ -33,16 +38,16 @@ Enfin, il est possible que l’irruption de l’IA dans la chose écrite force l
 
 ***
 
-[^1] J’ai vibré aux romans d’Alexandre Dumas mais je suis content de savoir qu’il ne les a pas écrits seul. J’ai l’impression que cela me le rend plus proche, plus intime : https://fr.wikipedia.org/wiki/Auguste_Maquet
+[^1]: J’ai vibré aux romans d’Alexandre Dumas mais je suis content de savoir qu’il ne les a pas écrits seul. J’ai l’impression que cela me le rend plus proche, plus intime : https://fr.wikipedia.org/wiki/Auguste_Maquet
 
-[^2] L’impressionnant B. Traven par exemple – « Le Trésor de la Sierra Madre » (1927), « Le Vaisseau des morts » (1926) – tenait à son précieux anonymat, expliquant qu’il voulait que seuls ses textes parlent.
+[^2]: L’impressionnant B. Traven par exemple – « Le Trésor de la Sierra Madre » (1927), « Le Vaisseau des morts » (1926) – tenait à son précieux anonymat, expliquant qu’il voulait que seuls ses textes parlent.
 
-[^3] Pensez par exemple au collectif d’écrivains Wu Ming, dont le roman Q n’est peut-être hélas pas étranger au délire complotiste QAnon, des imbéciles ayant pris un canular pour vérité – https://fr.wikipedia.org/wiki/Wu_Ming
+[^3]: Pensez par exemple au collectif d’écrivains Wu Ming, dont le roman Q n’est peut-être hélas pas étranger au délire complotiste QAnon, des imbéciles ayant pris un canular pour vérité – https://fr.wikipedia.org/wiki/Wu_Ming
 
-[^4] J’aime l’Odyssée, je n’ai que mon imagination pour me figurer Homère.
+[^4]: J’aime l’Odyssée, je n’ai que mon imagination pour me figurer Homère.
 
-[^5] Les IA permettent désormais, en déployant de véritables raisonnements, de démontrer des théorèmes réputés très difficiles. Ainsi de l’équation de Navier-Stokes, dont l’IA a montré en septembre 2026 qu’une solution pouvait exploser en singularité. Il lui a fallu 88h et 17h de vérifications pour résoudre ce problème vieux de 90 ans. Mais dans la foulée, 25 médailles Fields (une majorité des vivants) publient une tribune disant essentiellement que les objectifs des géants de l’IA ne sont pas ceux des mathématiciens, que les parcours humains pour parvenir à un résultat valent autant que les résultats et que l’IA fait peser un risque « destructeur » sur leur discipline.
+[^5]: Les IA permettent désormais, en déployant de véritables raisonnements, de démontrer des théorèmes réputés très difficiles. Ainsi de l’équation de Navier-Stokes, dont l’IA a montré en septembre 2026 qu’une solution pouvait exploser en singularité. Il lui a fallu 88h et 17h de vérifications pour résoudre ce problème vieux de 90 ans. Mais dans la foulée, 25 médailles Fields (une majorité des vivants) publient une tribune disant essentiellement que les objectifs des géants de l’IA ne sont pas ceux des mathématiciens, que les parcours humains pour parvenir à un résultat valent autant que les résultats et que l’IA fait peser un risque « destructeur » sur leur discipline.
 
-[^6] https://sillon-fictionnel.club/post/traque-des-artistes/
+[^6]: https://sillon-fictionnel.club/post/traque-des-artistes/
 
-[^7] https://www.lemonde.fr/economie/article/2026/04/16/grasset-l-integralite-de-la-lettre-de-depart-et-la-liste-des-115-auteurs-signataires-qui-quittent-la-maison-d-edition_6680470_3234.html
+[^7]: https://www.lemonde.fr/economie/article/2026/04/16/grasset-l-integralite-de-la-lettre-de-depart-et-la-liste-des-115-auteurs-signataires-qui-quittent-la-maison-d-edition_6680470_3234.html
